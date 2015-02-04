@@ -1,0 +1,274 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 4888
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 13
+	Country: Chile ; Times: 6
+	Country: Costa Rica ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Honduras ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: India ; Times: 2
+	Country: Latvia ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Netherlands ; Times: 8
+	Country: Singapore ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 29
+	Country: United States ; Times: 84
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-08 ; Times: 7
+	Date: 2015-01-09 ; Times: 12
+	Date: 2015-01-10 ; Times: 2
+	Date: 2015-01-12 ; Times: 7
+	Date: 2015-01-13 ; Times: 28
+	Date: 2015-01-14 ; Times: 8
+	Date: 2015-01-15 ; Times: 20
+	Date: 2015-01-16 ; Times: 10
+	Date: 2015-01-17 ; Times: 1
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-20 ; Times: 10
+	Date: 2015-01-21 ; Times: 12
+	Date: 2015-01-22 ; Times: 10
+	Date: 2015-01-23 ; Times: 2
+	Date: 2015-01-24 ; Times: 2
+	Date: 2015-01-25 ; Times: 2
+	Date: 2015-01-26 ; Times: 14
+	Date: 2015-01-27 ; Times: 6
+	Date: 2015-01-28 ; Times: 11
+	Date: 2015-01-29 ; Times: 9
+	Date: 2015-01-30 ; Times: 7
+	Date: 2015-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:observation" ; Times: 1
+	Query: "myzomela" ; Times: 2
+	Query: ""Vulpes vulpes" mappable:1" ; Times: 1
+	Query: "Double-crested cormorant (Michigan OR Huron OR Erie)" ; Times: 1
+	Query: "canis lupus" ; Times: 5
+	Query: "mp3" ; Times: 1
+	Query: "apodidae" ; Times: 1
+	Query: "godmani" ; Times: 1
+	Query: "Wombat" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Indonesia (Kai OR Kei)" ; Times: 1
+	Query: "9831" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 2
+	Query: "reptiles" ; Times: 2
+	Query: "Ornithorhynchus anatinus mappable:1" ; Times: 1
+	Query: "chelonia mydas" ; Times: 2
+	Query: "Common wombat" ; Times: 1
+	Query: "stateprovince:"Utah" year >= 1920 year <= 1980" ; Times: 2
+	Query: "Nicobar Aves" ; Times: 2
+	Query: "anas" ; Times: 2
+	Query: "onion" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "OU" ; Times: 1
+	Query: "genus:bubalus" ; Times: 1
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "tasmanian devil mappable:1" ; Times: 1
+	Query: "family:Cardinalidae type:specimen mappable:1" ; Times: 1
+	Query: "tryon" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: ""Ornithorhynchus anatinus" mappable:1" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "millardia kathleenae" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Mus booduga" ; Times: 1
+	Query: "Kai Indonesia" ; Times: 1
+	Query: "Cicada media:1" ; Times: 1
+	Query: "Kei Reptilia" ; Times: 2
+	Query: "canada" ; Times: 1
+	Query: "regina" ; Times: 2
+	Query: "mus" ; Times: 1
+	Query: "Macrotis lagotis mappable:1" ; Times: 1
+	Query: "gramineus" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "termite" ; Times: 1
+	Query: "Aru Islands (mammalia)" ; Times: 1
+	Query: "Tachyglossus mappable:1" ; Times: 1
+	Query: "monachus monachus" ; Times: 1
+	Query: "cylindrophis" ; Times: 1
+	Query: "Indonesia Reptilia (Kai OR Kei)" ; Times: 1
+	Query: "crocodylus" ; Times: 2
+	Query: ""Myrmecobius fasciatus" mappable:1" ; Times: 1
+	Query: "Cyclorana platycephala" ; Times: 1
+	Query: "Lorisidae" ; Times: 1
+	Query: "Pelican Bay" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Xiphorhynchus flavigaster" ; Times: 3
+	Query: "Lorisidae mappable:1" ; Times: 22
+	Query: ""Canis lupus" type:specimen" ; Times: 1
+	Query: "aru" ; Times: 1
+	Query: "Cyrtodactylus" ; Times: 1
+	Query: "alligator" ; Times: 2
+	Query: "Cicada class:Insecta" ; Times: 3
+	Query: "west java mappable:1" ; Times: 1
+	Query: "ALLIGATOR" ; Times: 1
+	Query: "jacana jacana" ; Times: 1
+	Query: "country:"Mexico" mappable:1" ; Times: 1
+	Query: "Double-crested cormorant type:specimen (Michigan OR Huron OR Erie)" ; Times: 2
+	Query: "pygoscelis" ; Times: 2
+	Query: "Canis "Canis lupus" mappable:1" ; Times: 1
+	Query: "Loridae mappable:1" ; Times: 5
+	Query: "notata" ; Times: 1
+	Query: "Setonix brachyurus mappable:1" ; Times: 1
+	Query: "arctic tern" ; Times: 2
+	Query: "ant" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "warbler" ; Times: 1
+	Query: "genus:Rana class:Amphibia year >= 1900 year <= 1970" ; Times: 1
+	Query: "Taam Indonesia Reptilia" ; Times: 1
+	Query: "country:"Malaysia" class:Mammalia year >= 1970 year <= 2014" ; Times: 1
+	Query: "west java type:specimen mappable:1" ; Times: 1
+	Query: "Galah" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Monotremata mappable:1" ; Times: 1
+	Query: "Furnariidae" ; Times: 1
+	Query: "ANSP" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 4
+	Query: "Turdus" ; Times: 1
+	Query: "phasianus colchicus" ; Times: 1
+	Query: "scandentia mappable:1" ; Times: 1
+	Query: ""Canis lupus" type:specimen AND (dingo)" ; Times: 1
+	Query: ""Canis lupus" mappable:1" ; Times: 1
+	Query: "mouse" ; Times: 1
+	Query: "jacana" ; Times: 3
+	Query: "white-bellied cuckoo-shrike" ; Times: 1
+	Query: "superb fruit dove" ; Times: 1
+	Query: "Cicada type:observation media:1" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "bottlenose dolphin" ; Times: 2
+	Query: "Millardia" ; Times: 1
+	Query: "stateprovince:"Sarawak" country:"Malaysia" class:Mammalia year >= 1970 year <= 2014" ; Times: 2
+	Query: "Andaman Aves" ; Times: 2
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "nest" ; Times: 1
+	Query: "aru island" ; Times: 3
+	Query: "Tapirus pinchaque" ; Times: 1
+	Query: "(Michigan OR Huron OR Erie)" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "Taam Indonesia" ; Times: 2
+	Query: "papuensis" ; Times: 2
+	Query: "osteolaemus" ; Times: 1
+	Query: "Canis Canis lupus mappable:1" ; Times: 1
+	Query: "myna" ; Times: 1
+	Query: "Aru Islands (Aves)" ; Times: 1
+	Query: "pipistrellus" ; Times: 1
+	Query: "chitra indica" ; Times: 4
+	Query: "Platypus mappable:1" ; Times: 1
+	Query: "ocellatus" ; Times: 1
+	Query: "macropus rufus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 445 download events in this period)
+Total number of records downloaded: 15047 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 14923
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 2
+	Country: Germany ; Times: 2
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-07 ; Times: 2
+	Date: 2015-01-08 ; Times: 3
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-12 ; Times: 4
+	Date: 2015-01-13 ; Times: 3
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 2
+	Date: 2015-01-17 ; Times: 1
+	Date: 2015-01-19 ; Times: 4
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-26 ; Times: 2
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-29 ; Times: 2
+	Date: 2015-01-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Furnariidae" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "family:Cardinalidae type:specimen mappable:1" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "belted kingfisher type:specimen" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Cebidae" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Diprotodontia mappable:1" ; Times: 1
+	Query: "family:Emberizidae type:specimen mappable:1" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 2
+	Query: "Indonesia (Kai OR Kei) AND (NOT Aves NOT Mammalia)" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Aves" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 2
+	Query: "morelia viridis" ; Times: 2
+	Query: "Andaman Aves" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "aru island" ; Times: 1
+	Query: "Taam Indonesia" ; Times: 1
+	Query: "Nicobar Aves" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:aves" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "type:specimen stateprovince:"virginia" class:aves" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "downy woodpecker" ; Times: 1
+	Query: "type:specimen Galbuliformes" ; Times: 1
+	Query: "accipitridae country:"Mexico"" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "Pycnonotidae" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Northern Saw-whet Owl" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 15047
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 184
+Total number of records retrieved from searches: 4888
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 15047
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
