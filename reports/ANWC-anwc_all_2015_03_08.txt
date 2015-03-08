@@ -1,0 +1,302 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 216
+Number of records retrieved in searches: 3871
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 26
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 6
+	Country: Chile ; Times: 1
+	Country: France ; Times: 6
+	Country: Germany ; Times: 3
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 24
+	Country: Norway ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Russia ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 17
+	Country: United States ; Times: 114
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 2
+	Date: 2015-02-02 ; Times: 5
+	Date: 2015-02-03 ; Times: 4
+	Date: 2015-02-04 ; Times: 10
+	Date: 2015-02-05 ; Times: 14
+	Date: 2015-02-06 ; Times: 9
+	Date: 2015-02-07 ; Times: 6
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-10 ; Times: 17
+	Date: 2015-02-11 ; Times: 6
+	Date: 2015-02-12 ; Times: 17
+	Date: 2015-02-13 ; Times: 8
+	Date: 2015-02-14 ; Times: 6
+	Date: 2015-02-16 ; Times: 7
+	Date: 2015-02-17 ; Times: 12
+	Date: 2015-02-18 ; Times: 5
+	Date: 2015-02-19 ; Times: 16
+	Date: 2015-02-20 ; Times: 8
+	Date: 2015-02-21 ; Times: 6
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 5
+	Date: 2015-02-24 ; Times: 17
+	Date: 2015-02-25 ; Times: 9
+	Date: 2015-02-26 ; Times: 8
+	Date: 2015-02-27 ; Times: 9
+	Date: 2015-02-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Varanus salvadorii" ; Times: 2
+	Query: "media:1" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: ""OS"" ; Times: 1
+	Query: "badger" ; Times: 1
+	Query: "Callipepla Californica mappable:1" ; Times: 3
+	Query: "turdus" ; Times: 1
+	Query: "common redpoll" ; Times: 1
+	Query: "sterna paradisaea" ; Times: 1
+	Query: "miniopterus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "alca torda eggs" ; Times: 1
+	Query: "bubalus" ; Times: 1
+	Query: "hobby" ; Times: 2
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "corvus splendens type:specimen country:"India"" ; Times: 1
+	Query: "texas" ; Times: 1
+	Query: "megapodius B04000" ; Times: 1
+	Query: "Gekko gekko" ; Times: 1
+	Query: "yellow rail" ; Times: 2
+	Query: "Cetacea mappable:1" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "Anas superciliosa" ; Times: 2
+	Query: "country:"Papua New Guinea" genus:Leiopython" ; Times: 1
+	Query: ""sus scrofa"" ; Times: 3
+	Query: "Ninox strenua" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Stegonotus" ; Times: 1
+	Query: "accipiter imitator" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "megapodius B03346" ; Times: 1
+	Query: "emu" ; Times: 1
+	Query: ""malacocincla malaccensis"" ; Times: 2
+	Query: "distance(location,geopoint(39.232253141714885,-121.025390625))<100000" ; Times: 1
+	Query: "OS" ; Times: 2
+	Query: "carnivora" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "deer mouse" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Tropidonophis" ; Times: 1
+	Query: "callipepla californica" ; Times: 2
+	Query: "distance(location,geopoint(37.60262975850068,-122.255859375))<100000" ; Times: 1
+	Query: "Falco peregrinus eggs" ; Times: 1
+	Query: "stateprovince:"ontario" country:"canada"" ; Times: 1
+	Query: "box turtle" ; Times: 1
+	Query: "UGA" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Acrochordus" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Morelia" ; Times: 2
+	Query: "Tui" ; Times: 1
+	Query: "Petrogale penicillata" ; Times: 1
+	Query: "albatross class:Aves" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "Bovidae" ; Times: 2
+	Query: "streaked shearwater" ; Times: 1
+	Query: "Prosthemadera novaeseelandiae" ; Times: 1
+	Query: "Pseudemydura" ; Times: 1
+	Query: "(MX)" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Dendrelaphis" ; Times: 1
+	Query: "probosciger aterrimus type:specimen" ; Times: 2
+	Query: "Megapodius reinwardt sangara" ; Times: 1
+	Query: "callipepla californica mappable:1" ; Times: 3
+	Query: "megapodius decollatus" ; Times: 6
+	Query: "Ducula" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "specificepithet:cricetus genus:cricetus" ; Times: 1
+	Query: "Canis lupus type:observation" ; Times: 4
+	Query: "alaska" ; Times: 1
+	Query: "type:specimen country:"colombia" specificepithet:brasiliensis genus:sylvilagus" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Anser anser" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "paradisaeidae" ; Times: 2
+	Query: "Georgetown mappable:1" ; Times: 2
+	Query: "aquila" ; Times: 1
+	Query: "clark" ; Times: 2
+	Query: "cardinalis cardinalis" ; Times: 2
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "hydrelaps darwiniensis" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: "stateprovince:"Louisiana"" ; Times: 1
+	Query: "minnesota eggs" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Psittacidae eggs" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 2
+	Query: "genus:Ducula" ; Times: 1
+	Query: "Multifasciata" ; Times: 1
+	Query: "stork" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 2
+	Query: "country:"Papua New Guinea" genus:Boiga" ; Times: 1
+	Query: "cassowary" ; Times: 3
+	Query: "aprasia parapulchella" ; Times: 1
+	Query: "country:"papua new guinea" genus:aspidomorphus" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Georgia" ; Times: 1
+	Query: "pitohui nigrescens" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "mammals" ; Times: 2
+	Query: "Gallus gallus" ; Times: 1
+	Query: "type:specimen country:"India"" ; Times: 1
+	Query: "tigrinus" ; Times: 1
+	Query: "country:"papua new guinea" genus:leiopython" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "petrel" ; Times: 1
+	Query: "Candoia aspera country:"Papua New Guinea"" ; Times: 1
+	Query: "chiropodomys" ; Times: 2
+	Query: "megapodius" ; Times: 6
+	Query: "Sterna repressa type:specimen" ; Times: 3
+	Query: "warbler" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Candoia" ; Times: 1
+	Query: "Callipepla" ; Times: 1
+	Query: "egretta garzetta" ; Times: 1
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "albatross albatrus class:Aves" ; Times: 1
+	Query: "class:Mammalia vulpes vulpes" ; Times: 1
+	Query: "stateprovince:"ontario"" ; Times: 1
+	Query: "reptilia alligator" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "ficedula hyperythra" ; Times: 1
+	Query: "petroica multicolor" ; Times: 1
+	Query: "orthotomus sutorius type:specimen country:"India"" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "Phoebastria albatrus" ; Times: 2
+	Query: "Cardinalis" ; Times: 1
+	Query: "Rio Tocantins Aves" ; Times: 1
+	Query: "apis" ; Times: 1
+	Query: "hybrid" ; Times: 1
+	Query: "malacocincla malaccensis" ; Times: 4
+	Query: "Cardinalis cardinalis type:specimen year >= 1950 year <= 2014" ; Times: 1
+	Query: "parakeet" ; Times: 1
+	Query: "egretta" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen" ; Times: 1
+	Query: "arachnothera longirostra type:specimen country:"India"" ; Times: 1
+	Query: "toad" ; Times: 1
+	Query: "cairina moschata" ; Times: 1
+	Query: "Paradisaeidae" ; Times: 1
+	Query: "Buckley" ; Times: 1
+	Query: "Cardinalis type:specimen" ; Times: 1
+	Query: "Erythrura gouldiae" ; Times: 5
+	Query: "Brehm" ; Times: 1
+	Query: "Numenius arquata" ; Times: 1
+	Query: "chapman" ; Times: 1
+	Query: "bustard" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen year <= 2014" ; Times: 1
+	Query: "megapodius reinwardt" ; Times: 4
+	Query: "Hemidactylus" ; Times: 1
+	Query: "Miniopterus schreibersii" ; Times: 1
+	Query: "Elusor" ; Times: 1
+	Query: "Picathartes" ; Times: 1
+	Query: "Callipepla californica mappable:1" ; Times: 7
+	Query: "wing" ; Times: 2
+	Query: "erythrura gouldiae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 326 download events in this period)
+Total number of records downloaded: 8519 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7042
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-19 ; Times: 3
+	Date: 2015-02-20 ; Times: 2
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 4
+	Date: 2015-02-24 ; Times: 5
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Monasa year <= 2015" ; Times: 1
+	Query: "Falco peregrinus eggs" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "Rio Tocantins Aves" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "genus:Ducula" ; Times: 1
+	Query: "malacocincla malaccensis" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Daboia" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "stateprovince:"Valle del cauca" country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Bubo africanus" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Petrogale penicillata" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "maxomys" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 216
+Total number of records retrieved from searches: 3871
+Number of download events that retrieved data from the resource: 72
+Total number of records downloaded: 23566
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 400
+Total number of records retrieved from searches: 8759
+Number of download events that retrieved data from the resource: 72
+Total number of records downloaded: 23566
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
