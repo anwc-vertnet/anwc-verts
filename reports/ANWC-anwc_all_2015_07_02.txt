@@ -1,0 +1,374 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 356
+Number of records retrieved in searches: 7783
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: Denmark ; Times: 26
+	Country: Finland ; Times: 2
+	Country: France ; Times: 4
+	Country: Germany ; Times: 23
+	Country: Italy ; Times: 5
+	Country: Mexico ; Times: 9
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 8
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 25
+	Country: United States ; Times: 221
+	Country: Unknown ; Times: 15
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 8
+	Date: 2015-06-02 ; Times: 4
+	Date: 2015-06-03 ; Times: 16
+	Date: 2015-06-04 ; Times: 10
+	Date: 2015-06-05 ; Times: 9
+	Date: 2015-06-06 ; Times: 5
+	Date: 2015-06-07 ; Times: 9
+	Date: 2015-06-08 ; Times: 12
+	Date: 2015-06-09 ; Times: 52
+	Date: 2015-06-10 ; Times: 25
+	Date: 2015-06-11 ; Times: 23
+	Date: 2015-06-12 ; Times: 12
+	Date: 2015-06-13 ; Times: 4
+	Date: 2015-06-14 ; Times: 3
+	Date: 2015-06-15 ; Times: 5
+	Date: 2015-06-16 ; Times: 10
+	Date: 2015-06-17 ; Times: 15
+	Date: 2015-06-18 ; Times: 10
+	Date: 2015-06-19 ; Times: 13
+	Date: 2015-06-20 ; Times: 7
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-22 ; Times: 6
+	Date: 2015-06-23 ; Times: 9
+	Date: 2015-06-24 ; Times: 9
+	Date: 2015-06-25 ; Times: 30
+	Date: 2015-06-26 ; Times: 8
+	Date: 2015-06-27 ; Times: 13
+	Date: 2015-06-28 ; Times: 3
+	Date: 2015-06-29 ; Times: 9
+	Date: 2015-06-30 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela" ; Times: 1
+	Query: "Dromaius novaehollandiae" ; Times: 2
+	Query: "rat snake" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 4
+	Query: "Elseya latisternum" ; Times: 2
+	Query: "vanellus chilensis" ; Times: 2
+	Query: "Stresemannia bougainvillei" ; Times: 1
+	Query: "media:1" ; Times: 11
+	Query: "MELIDECTES princeps" ; Times: 1
+	Query: "auburn" ; Times: 1
+	Query: "Foulehaio carunculatus" ; Times: 1
+	Query: "otus kennicotti" ; Times: 1
+	Query: "melipotes ater" ; Times: 1
+	Query: "Myzomela vulnerata" ; Times: 1
+	Query: "type:specimen (cetacea)" ; Times: 3
+	Query: "Myzomela eques" ; Times: 1
+	Query: "modestus" ; Times: 1
+	Query: "chiroptera switzerland" ; Times: 1
+	Query: "Xanthotis macleayanus." ; Times: 1
+	Query: "leadville" ; Times: 1
+	Query: "lichmera squamata" ; Times: 2
+	Query: "Canis familiaris" ; Times: 4
+	Query: "Ptiloprora meekiana" ; Times: 1
+	Query: "dasyornis longirostris" ; Times: 3
+	Query: "Lichmera flavicans" ; Times: 1
+	Query: "222" ; Times: 1
+	Query: "Timeliopsis fulvigula" ; Times: 1
+	Query: "Kelp Gull" ; Times: 2
+	Query: "Timeliopsis griseigula" ; Times: 1
+	Query: "western blue birds" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 5
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "rattus rattus" ; Times: 1
+	Query: "sicily" ; Times: 2
+	Query: "bufo" ; Times: 1
+	Query: "Chitra chitra" ; Times: 4
+	Query: "Myzomela nigrita" ; Times: 1
+	Query: "Platypus" ; Times: 3
+	Query: "osteolaemus tetraspis" ; Times: 2
+	Query: "Canis lupus dingo" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Puffinus griseus" ; Times: 1
+	Query: "ruficollis calidris class:aves" ; Times: 1
+	Query: "country:"Canada"" ; Times: 1
+	Query: "conopophila whitei" ; Times: 1
+	Query: "Manorina flavigula" ; Times: 1
+	Query: "aythya fuligula" ; Times: 1
+	Query: "higgins" ; Times: 1
+	Query: "Philemon inornatus" ; Times: 1
+	Query: "cygnus" ; Times: 2
+	Query: "piping plover" ; Times: 1
+	Query: "Melidectes princeps" ; Times: 1
+	Query: "pipile pipile trinidad" ; Times: 1
+	Query: "Zosterops japonicus type:specimen" ; Times: 1
+	Query: "sandhill" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen" ; Times: 1
+	Query: "gull rock" ; Times: 1
+	Query: "Chitra" ; Times: 5
+	Query: "ziphiidae" ; Times: 1
+	Query: "Melidectes fuscus" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Ptiloprora guisei" ; Times: 1
+	Query: "Ducula pinon pinon" ; Times: 2
+	Query: "Canis lupus" ; Times: 4
+	Query: "cleveland" ; Times: 1
+	Query: "Lichmera alboauricularis" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Rhipidura rufifrons" ; Times: 1
+	Query: "Prosthemadera novaeseelandiae" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 8
+	Query: "numida" ; Times: 1
+	Query: "seicercus soror" ; Times: 2
+	Query: "Callipepla californica year >= 1990 year <= 2015" ; Times: 1
+	Query: "black-chinned" ; Times: 1
+	Query: "4487" ; Times: 1
+	Query: "Diomedeidae" ; Times: 2
+	Query: "Aves Andaman" ; Times: 4
+	Query: "myiagra alecto" ; Times: 2
+	Query: "Poephila acuticauda" ; Times: 2
+	Query: "podiceps cristatus" ; Times: 4
+	Query: "Finland" ; Times: 1
+	Query: "malaria" ; Times: 2
+	Query: "Myzomela cruentata" ; Times: 1
+	Query: "capercaillie" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 1
+	Query: "Philemon meyeri" ; Times: 1
+	Query: "Phalacrocorax campbelli" ; Times: 3
+	Query: "distance(location,geopoint(38.87562133728132,-120.84239959716797))<100000" ; Times: 1
+	Query: "sericulus bakeri" ; Times: 1
+	Query: "Vietnam" ; Times: 1
+	Query: "otidiphaps" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "trogon citreolus" ; Times: 1
+	Query: "belize" ; Times: 1
+	Query: "Scolopax saturata" ; Times: 8
+	Query: "megalurulus" ; Times: 1
+	Query: "institutioncode:anwc Geoffroyus" ; Times: 2
+	Query: "gerygone magnirostris" ; Times: 5
+	Query: "Myzomela lafargei" ; Times: 1
+	Query: "cow" ; Times: 2
+	Query: "Pycnopygius stictocephalus" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 3
+	Query: "finland" ; Times: 1
+	Query: "pacificus" ; Times: 1
+	Query: "Chionis minor" ; Times: 2
+	Query: "Anas nesiotis" ; Times: 1
+	Query: "Pycnopygius cinereus" ; Times: 1
+	Query: "Myzomela adolphinae" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "colluricincla umbrina" ; Times: 2
+	Query: "reptile" ; Times: 2
+	Query: "pycnopygius stictocephalus" ; Times: 1
+	Query: "genus:grus year >= 1977" ; Times: 1
+	Query: "Lichmera squamata" ; Times: 1
+	Query: "Hybrid" ; Times: 1
+	Query: "Melidectes rufocrissalis" ; Times: 1
+	Query: "Pycnopygius ixoides" ; Times: 1
+	Query: "francolinus capensis" ; Times: 2
+	Query: "canis" ; Times: 2
+	Query: "distance(location,geopoint(38.87562133728132,-120.84239959716797))<15741" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 2
+	Query: "turkey" ; Times: 1
+	Query: "Ptiloprora plumbea" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "Xanthotis polygrammus" ; Times: 1
+	Query: "MELIDECTES rufocrissalis" ; Times: 1
+	Query: "Meliarchus sclateri" ; Times: 1
+	Query: "species india mappable:1" ; Times: 1
+	Query: "Phylloscopus coronatus" ; Times: 1
+	Query: "Myzomela rosenbergii" ; Times: 1
+	Query: "Myzomela cineracea" ; Times: 1
+	Query: "ADAB class:aves" ; Times: 1
+	Query: "Iceland Gull" ; Times: 3
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "Chitra indica" ; Times: 8
+	Query: "numida year >= 1980 year <= 1989" ; Times: 1
+	Query: "python viridis" ; Times: 2
+	Query: "mammals" ; Times: 5
+	Query: "Adelaide type:specimen" ; Times: 1
+	Query: "amphibians" ; Times: 5
+	Query: "9868" ; Times: 1
+	Query: "lonchura leucosticta" ; Times: 1
+	Query: "Mass" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 2
+	Query: "genus:turdus media:1" ; Times: 1
+	Query: "ok" ; Times: 1
+	Query: "Phrynops tuberosus" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Melipotes ater" ; Times: 1
+	Query: "ficedula westermanni" ; Times: 4
+	Query: "python type:specimen" ; Times: 1
+	Query: "Hypsilurus" ; Times: 1
+	Query: "amandava amandava" ; Times: 2
+	Query: "Andaman" ; Times: 1
+	Query: "Melipotes fumigatus" ; Times: 1
+	Query: "Melidectes torquatus" ; Times: 1
+	Query: "Philemon cockerelli" ; Times: 1
+	Query: "Indian Skimmer" ; Times: 3
+	Query: "barn swallow" ; Times: 1
+	Query: "Lichenostomus subfrenatus" ; Times: 1
+	Query: "Macgregoria pulchra" ; Times: 1
+	Query: "bos" ; Times: 1
+	Query: "cocos island birds" ; Times: 1
+	Query: "spinosa" ; Times: 2
+	Query: "superb lyrebird" ; Times: 1
+	Query: "india" ; Times: 1
+	Query: "vanellus eggs vanellus vanellus" ; Times: 1
+	Query: "loboparadisea" ; Times: 1
+	Query: "aphelocephala pectoralis" ; Times: 1
+	Query: "kenya" ; Times: 1
+	Query: "Numida meleagris meleagris" ; Times: 1
+	Query: "texas" ; Times: 1
+	Query: "distance(location,geopoint(39.20778295937166,-121.80473327636719))<100000" ; Times: 1
+	Query: "specificepithet:platurus genus:Pelamis" ; Times: 1
+	Query: "vandeleuria" ; Times: 1
+	Query: "type:observation class:Mammalia" ; Times: 1
+	Query: "CM" ; Times: 1
+	Query: "geophaps" ; Times: 1
+	Query: "terraereginae" ; Times: 1
+	Query: "flaviventer" ; Times: 1
+	Query: "mole" ; Times: 1
+	Query: "culicicapa ceylonensis" ; Times: 1
+	Query: "torquata" ; Times: 1
+	Query: "cardinal" ; Times: 4
+	Query: "Melidectes belfordi" ; Times: 1
+	Query: "animal" ; Times: 1
+	Query: "myzomela vulnerata" ; Times: 1
+	Query: "Meliphaga aruensis" ; Times: 1
+	Query: "Hypsilurus spinipes" ; Times: 6
+	Query: "melipotes" ; Times: 1
+	Query: "Butorides" ; Times: 1
+	Query: "ptiloprora meekiana" ; Times: 1
+	Query: "Canis" ; Times: 1
+	Query: "bangladesh 8842" ; Times: 1
+	Query: "lichmera flavicans" ; Times: 2
+	Query: "genus:Caenolestes" ; Times: 2
+	Query: "planiceps" ; Times: 3
+	Query: ""urile"" ; Times: 1
+	Query: "osteolaemus" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "Ptiloprora perstriata" ; Times: 1
+	Query: "Melilestes megarhynchus" ; Times: 1
+	Query: "Seicercus soror" ; Times: 4
+	Query: "Mexico" ; Times: 1
+	Query: "cat" ; Times: 1
+	Query: "megalurulus rubiginosus" ; Times: 2
+	Query: "mus musculus" ; Times: 1
+	Query: "otariidae" ; Times: 1
+	Query: "lepidus" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "millardia" ; Times: 1
+	Query: "Melidectes ochromelas" ; Times: 1
+	Query: "Ptilinopus solomonensis" ; Times: 7
+	Query: "stateprovince:"California"" ; Times: 1
+	Query: "numida year >= 1960 year <= 1989" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "japanese white eye" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1524 download events in this period)
+Total number of records downloaded: 913 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 904
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 4
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 7
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-20 ; Times: 4
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela" ; Times: 1
+	Query: "ziphiidae" ; Times: 1
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "snow bunting type:specimen" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "pelagic cormorant type:specimen" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Eptesicus fuscus country:"Canada"" ; Times: 1
+	Query: "erophylla bombifrons" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "country:"paraguay" class:aves" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "Chitra indica" ; Times: 2
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "tufted puffin type:specimen" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "osteolaemus" ; Times: 3
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "aves durango" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1007
+Total number of records retrieved from searches: 19956
+Number of download events that retrieved data from the resource: 217
+Total number of records downloaded: 40793
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1191
+Total number of records retrieved from searches: 24844
+Number of download events that retrieved data from the resource: 217
+Total number of records downloaded: 40793
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
