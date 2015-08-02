@@ -1,0 +1,372 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 302
+Number of records retrieved in searches: 5961
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: Finland ; Times: 1
+	Country: France ; Times: 7
+	Country: Germany ; Times: 19
+	Country: Guatemala ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: India ; Times: 1
+	Country: Italy ; Times: 9
+	Country: Japan ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Netherlands ; Times: 7
+	Country: Portugal ; Times: 2
+	Country: South Africa ; Times: 5
+	Country: Sweden ; Times: 5
+	Country: United Kingdom ; Times: 19
+	Country: United States ; Times: 194
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-02 ; Times: 5
+	Date: 2015-07-03 ; Times: 6
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-05 ; Times: 8
+	Date: 2015-07-06 ; Times: 12
+	Date: 2015-07-07 ; Times: 3
+	Date: 2015-07-08 ; Times: 8
+	Date: 2015-07-09 ; Times: 11
+	Date: 2015-07-10 ; Times: 7
+	Date: 2015-07-11 ; Times: 3
+	Date: 2015-07-12 ; Times: 10
+	Date: 2015-07-13 ; Times: 10
+	Date: 2015-07-14 ; Times: 12
+	Date: 2015-07-15 ; Times: 27
+	Date: 2015-07-16 ; Times: 20
+	Date: 2015-07-17 ; Times: 4
+	Date: 2015-07-18 ; Times: 7
+	Date: 2015-07-19 ; Times: 5
+	Date: 2015-07-20 ; Times: 9
+	Date: 2015-07-21 ; Times: 16
+	Date: 2015-07-22 ; Times: 16
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-25 ; Times: 9
+	Date: 2015-07-26 ; Times: 15
+	Date: 2015-07-27 ; Times: 16
+	Date: 2015-07-28 ; Times: 14
+	Date: 2015-07-29 ; Times: 15
+	Date: 2015-07-30 ; Times: 15
+	Date: 2015-07-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 distance(location,geopoint(38.0088777177206,-122.31199264526367))<100000" ; Times: 1
+	Query: "Regina" ; Times: 1
+	Query: "media:1" ; Times: 3
+	Query: "hypsilurus" ; Times: 6
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNHM NOT CUMV)" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 1
+	Query: "Elephant" ; Times: 1
+	Query: "arachnothera longirostra" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus year >= 1970" ; Times: 3
+	Query: "orizabae" ; Times: 1
+	Query: "genus:Myrmecobius" ; Times: 1
+	Query: "country:"Canada" class:aves year >= 1895 year <= 1905" ; Times: 1
+	Query: "Herpestidae year >= 1975 year <= 2015" ; Times: 2
+	Query: "Cucullatus" ; Times: 1
+	Query: "calidris canutus" ; Times: 4
+	Query: "Megapodius decollatus type:specimen" ; Times: 1
+	Query: "genus:phalacrocorax" ; Times: 1
+	Query: "genus:Atherurus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "genus:Miniopterus year >= 1975 year <= 2015" ; Times: 1
+	Query: "2464" ; Times: 1
+	Query: "hylomys" ; Times: 2
+	Query: "sus scrofa" ; Times: 4
+	Query: "distance(location,geopoint(47.724544549099676,-82.24365234375))<275959" ; Times: 1
+	Query: "stateprovince:"California" country:"United States"" ; Times: 1
+	Query: "Anas nesiotis type:specimen" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "virginia" ; Times: 1
+	Query: "lobodon" ; Times: 1
+	Query: "bufo bufo" ; Times: 2
+	Query: "Otariidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "canis lupus" ; Times: 3
+	Query: "genus:Phalacrocorax year >= 1909" ; Times: 1
+	Query: "distance(location,geopoint(40.27256855319715,-113.258056640625))<100000" ; Times: 1
+	Query: "moa" ; Times: 1
+	Query: "country:"South Africa" year >= 1000 year <= 2016 distance(location,geopoint(-12.726084296948184,18.43505859375))<1313547.4885696692" ; Times: 1
+	Query: "golden mole" ; Times: 1
+	Query: "pulcherrimus" ; Times: 1
+	Query: "dingo" ; Times: 1
+	Query: "country:"South Africa" year >= 1000 year <= 2016 distance(location,geopoint(-14.093957177836224,24.41162109375))<1427249.369099956" ; Times: 1
+	Query: "Chaetorhynchus papuensis" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 3
+	Query: "Cape Barren Island" ; Times: 1
+	Query: "genus:Tachyglossus year >= 1975 year <= 2015" ; Times: 1
+	Query: "Amphibia media:1" ; Times: 1
+	Query: "institutioncode:anwc Probosciger" ; Times: 4
+	Query: "Garritornis isidorei" ; Times: 2
+	Query: "country:"czech republic"" ; Times: 2
+	Query: "cladorhynchus" ; Times: 2
+	Query: "lochinvar" ; Times: 2
+	Query: "coracina papuensis" ; Times: 1
+	Query: ""Equus grevyi"" ; Times: 1
+	Query: "distance(location,geopoint(36.1733569352216,-80.33203125))<285553" ; Times: 1
+	Query: "thylacinus cynocephalus" ; Times: 5
+	Query: "Pa" ; Times: 1
+	Query: "Vombatidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "Neopsittacus pullicauda type:specimen AND (NOT eggs NOT AMNH)" ; Times: 1
+	Query: "Tachyglossidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "specificepithet:mollis genus:Paramelomys" ; Times: 4
+	Query: "lorisidae type:specimen" ; Times: 1
+	Query: "Acrobatidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 1
+	Query: "country:"South Africa" year >= 1000 year <= 2016 distance(location,geopoint(-12.726084296948184,18.43505859375))<1178525" ; Times: 1
+	Query: "Lerista macropisthopus" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 2
+	Query: "CANIS" ; Times: 1
+	Query: "genus:phalacrocorax year >= 1948" ; Times: 2
+	Query: "columba livia" ; Times: 2
+	Query: "specificepithet:oleracea genus:Vandeleuria" ; Times: 3
+	Query: "distance(location,geopoint(44.608720009137095,-99.107666015625))<100000" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 3
+	Query: "lobodon carcinophaga" ; Times: 1
+	Query: "canis lupus lupus type:specimen" ; Times: 4
+	Query: "stateprovince:"sanchez ramirez" country:"dominican republic"" ; Times: 1
+	Query: "country:"South Africa" year >= 1000 year <= 2016 mappable:1 distance(location,geopoint(-14.264383087562635,20.54443359375))<1178525.4307352847" ; Times: 1
+	Query: "specificepithet:typhlops genus:Notoryctes" ; Times: 2
+	Query: "china" ; Times: 1
+	Query: "paradisaea rudolphi" ; Times: 2
+	Query: "paradisaea" ; Times: 1
+	Query: "greater yellowlegs type:specimen" ; Times: 1
+	Query: "aves country:"Egypt" AND (NOT UMMZ) year >= 1984 year <= 1984" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "1436" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1910" ; Times: 1
+	Query: "albatross" ; Times: 1
+	Query: "institutioncode:anwc Calyptorhynchus banksii" ; Times: 2
+	Query: "genus:Mystacina year >= 1975 year <= 2015" ; Times: 1
+	Query: "Mouse" ; Times: 2
+	Query: "cuculus saturatus" ; Times: 2
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Laura" ; Times: 1
+	Query: "sciuridae" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(39.238039042763454,-76.552734375))<82399" ; Times: 1
+	Query: "scutulatus" ; Times: 1
+	Query: "laevissimus" ; Times: 1
+	Query: "Acalyptophis peronii" ; Times: 1
+	Query: "reptile" ; Times: 1
+	Query: "Centropus" ; Times: 1
+	Query: "country:"South Africa" year >= 1000 year <= 2016 distance(location,geopoint(-14.264383087562635,20.54443359375))<1178525.4307352847" ; Times: 1
+	Query: "stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"Alaska" class:Aves" ; Times: 3
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "dasyornis longirostris" ; Times: 2
+	Query: "specificepithet:aenigmamus genus:Laonastes" ; Times: 4
+	Query: "hydrelaps darwiniensis" ; Times: 1
+	Query: "north dakota AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "parkeri" ; Times: 1
+	Query: "mammalia utah" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "Dugongidae year >= 1978 year <= 2015" ; Times: 2
+	Query: "crocodylia" ; Times: 1
+	Query: "Pygopus Western Australia" ; Times: 1
+	Query: "stateprovince:"Texas"" ; Times: 1
+	Query: "month:12 year:1963 day:8" ; Times: 1
+	Query: "type:specimen distance(location,geopoint(36.80928470205937,-120.41015625))<39529" ; Times: 1
+	Query: "ecuador" ; Times: 1
+	Query: "williamsi" ; Times: 1
+	Query: "CM" ; Times: 2
+	Query: "Herpestidae" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "700" ; Times: 1
+	Query: "cuculus poliocephalus" ; Times: 2
+	Query: "U" ; Times: 1
+	Query: "myotis mappable:1" ; Times: 1
+	Query: "Pipile pipile type:specimen" ; Times: 1
+	Query: "Cladorhynchus" ; Times: 3
+	Query: "penguin" ; Times: 1
+	Query: "family: sciuridae" ; Times: 1
+	Query: "skull" ; Times: 1
+	Query: "Neopsittacus pullicauda type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "myotis" ; Times: 2
+	Query: "callipepla californica" ; Times: 2
+	Query: "ANWC b14401" ; Times: 1
+	Query: "russia" ; Times: 1
+	Query: "canis lupus dingo type:observation media:1" ; Times: 2
+	Query: "Ptiloris" ; Times: 1
+	Query: "Cape Barren Island 1909" ; Times: 1
+	Query: "celaenops" ; Times: 2
+	Query: "CAPERCAILLIE" ; Times: 2
+	Query: "boston" ; Times: 1
+	Query: "ID 7218" ; Times: 1
+	Query: "ANWC B30178" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "pig" ; Times: 1
+	Query: "Dinornithiformes" ; Times: 1
+	Query: "aphelocephala pectoralis" ; Times: 1
+	Query: "Harpy Eagle" ; Times: 1
+	Query: "Ctenophorus maculatus" ; Times: 2
+	Query: "woodpecker" ; Times: 1
+	Query: "genus:Phalacrocorax year >= 1978" ; Times: 1
+	Query: "Paradisaea decora" ; Times: 1
+	Query: "genus:Tragulus year >= 1975 year <= 2015" ; Times: 1
+	Query: "house sparrow" ; Times: 1
+	Query: "Guinea bicolor" ; Times: 1
+	Query: "Amphibians" ; Times: 1
+	Query: "locality:skull" ; Times: 2
+	Query: "Thalassarche steadi type:specimen" ; Times: 1
+	Query: "country:"Egypt" AND (NOT UMMZ) year >= 1984 year <= 1984" ; Times: 1
+	Query: "genus:phalacrocorax year >= 1909" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "coracina papuensis year >= 1985 year <= 2015" ; Times: 1
+	Query: "Hypsiprymnodontidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "salamander" ; Times: 4
+	Query: "rufous-tailed jacamar" ; Times: 5
+	Query: "5851" ; Times: 1
+	Query: "niviventer" ; Times: 1
+	Query: "passer domesticus" ; Times: 3
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "5280" ; Times: 1
+	Query: "eggs" ; Times: 1
+	Query: "lichmera squamata" ; Times: 1
+	Query: "lichmera flavicans" ; Times: 1
+	Query: "Pterodroma magentae type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(40.29130058884442,-113.411865234375))<100000" ; Times: 1
+	Query: "tier country:"australia"" ; Times: 2
+	Query: "Gehyra oceanica" ; Times: 1
+	Query: "rousettus" ; Times: 1
+	Query: "hydrurga" ; Times: 1
+	Query: "Viverridae" ; Times: 1
+	Query: ""New Jersey" mappable:1" ; Times: 1
+	Query: "Kubor Range" ; Times: 1
+	Query: "Thylacomyidae" ; Times: 1
+	Query: ""Pygopus lepidopodus"" ; Times: 2
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Mystacina tuberculata" ; Times: 2
+	Query: "Phonygammus" ; Times: 1
+	Query: "1366" ; Times: 1
+	Query: "rousettus amplexicaudatus" ; Times: 2
+	Query: "8767" ; Times: 1
+	Query: "canis lupus dingo" ; Times: 1
+	Query: "paradisaea minor year >= 1980 year <= 2015" ; Times: 2
+	Query: "Montana" ; Times: 1
+	Query: "institutioncode:anwc" ; Times: 2
+	Query: "Otus scops" ; Times: 1
+	Query: "Cryptotis" ; Times: 1
+	Query: "pulchellus" ; Times: 1
+	Query: "(bird) media:1" ; Times: 1
+	Query: "egg" ; Times: 2
+	Query: "sterna dougallii" ; Times: 12
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1084 download events in this period)
+Total number of records downloaded: 7622 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7228
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 6
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-22 ; Times: 7
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-30 ; Times: 4
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "chiroptera" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "sus scrofa" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "hydrelaps darwiniensis" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "coracina papuensis year >= 1985 year <= 2015" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Kinosternon baurii" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1309
+Total number of records retrieved from searches: 25917
+Number of download events that retrieved data from the resource: 261
+Total number of records downloaded: 48415
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1493
+Total number of records retrieved from searches: 30805
+Number of download events that retrieved data from the resource: 261
+Total number of records downloaded: 48415
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
