@@ -1,0 +1,312 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 5863
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: Brazil ; Times: 9
+	Country: Russia ; Times: 19
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Denmark ; Times: 47
+	Country: Mexico ; Times: 7
+	Country: France ; Times: 2
+	Country: United States ; Times: 93
+	Country: Australia ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Unknown ; Times: 20
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 4
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 29
+	Date: 2015-12-09 ; Times: 8
+	Date: 2015-12-08 ; Times: 7
+	Date: 2015-12-03 ; Times: 4
+	Date: 2015-12-02 ; Times: 18
+	Date: 2015-12-01 ; Times: 18
+	Date: 2015-12-07 ; Times: 6
+	Date: 2015-12-06 ; Times: 6
+	Date: 2015-12-05 ; Times: 4
+	Date: 2015-12-04 ; Times: 14
+	Date: 2015-12-21 ; Times: 5
+	Date: 2015-12-20 ; Times: 3
+	Date: 2015-12-23 ; Times: 10
+	Date: 2015-12-22 ; Times: 14
+	Date: 2015-12-25 ; Times: 2
+	Date: 2015-12-27 ; Times: 9
+	Date: 2015-12-26 ; Times: 4
+	Date: 2015-12-29 ; Times: 3
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-16 ; Times: 8
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 7
+	Date: 2015-12-30 ; Times: 4
+	Date: 2015-12-31 ; Times: 3
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 11
+	Date: 2015-12-12 ; Times: 6
+	Date: 2015-12-13 ; Times: 5
+	Date: 2015-12-18 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "BC" ; Times: 1
+	Query: "ANWC B38098" ; Times: 1
+	Query: "specificepithet:laevissimus genus:Nephrurus mappable:1" ; Times: 1
+	Query: "egernia rugosa" ; Times: 2
+	Query: "canis lupus" ; Times: 4
+	Query: "Calidris canutus" ; Times: 1
+	Query: "ANWC B45017" ; Times: 1
+	Query: "arachnothera longirostra" ; Times: 1
+	Query: "Aprasia parapulchella" ; Times: 1
+	Query: "bracteatus" ; Times: 3
+	Query: "class:mammalia year &gt;= 1961 year &lt;= 1961 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "Daphoenositta ANWC" ; Times: 10
+	Query: "cane toad" ; Times: 3
+	Query: "type:observation mappable:1" ; Times: 1
+	Query: "sullivan" ; Times: 1
+	Query: "raven" ; Times: 1
+	Query: "Seleucidis melanoleucus" ; Times: 1
+	Query: "manis crassicaudata" ; Times: 1
+	Query: "Oedura castelnaui" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "Pachycephala modesta ANWC" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "alcidae" ; Times: 1
+	Query: "Ruins" ; Times: 1
+	Query: "rynchops albicollis" ; Times: 1
+	Query: "family:felidae" ; Times: 2
+	Query: "parahydromys" ; Times: 1
+	Query: "specificepithet:ruficollis family:Cuculidae" ; Times: 1
+	Query: "continent:Europe" ; Times: 2
+	Query: "Phalaropus lobatus" ; Times: 2
+	Query: "class:aves stateprovince:california" ; Times: 3
+	Query: "fairy" ; Times: 4
+	Query: "Pachycephala soror ANWC" ; Times: 1
+	Query: "Nephrurus laevissimus mappable:1" ; Times: 1
+	Query: "Falcunculus ANWC" ; Times: 1
+	Query: "roseate tern" ; Times: 3
+	Query: "bullfrog" ; Times: 1
+	Query: "Elephant" ; Times: 1
+	Query: "Canis Lupus" ; Times: 1
+	Query: "specificepithet:meyerii family:Cuculidae" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "ANWC B29701" ; Times: 1
+	Query: "Pachycephala simplex ANWC" ; Times: 1
+	Query: "B761" ; Times: 1
+	Query: "genus:Tringa year &gt;= 1984 year &lt;= 1984" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "ANWC B02455" ; Times: 1
+	Query: "vampire" ; Times: 4
+	Query: "black-chinned" ; Times: 1
+	Query: "specificepithet:bernsteini family:Cuculidae" ; Times: 1
+	Query: "Micropsitta bruijnii" ; Times: 1
+	Query: "Pachycephala rufiventris ANWC" ; Times: 1
+	Query: "riparia riparia" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 2
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "type:specimen country:&#34;thailand&#34;" ; Times: 1
+	Query: "type:specimen (raven)" ; Times: 2
+	Query: "class:Mammalia carnivora" ; Times: 5
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "genus:Notaden specificepithet:bennettii" ; Times: 1
+	Query: "Pachycephala rufogularis ANWC" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 3
+	Query: "sciuridae" ; Times: 1
+	Query: "MV" ; Times: 2
+	Query: "ANWC B26736" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "ANWC B45241" ; Times: 1
+	Query: "Ptilorrhoa castanonota ANWC" ; Times: 1
+	Query: "Aethopyga" ; Times: 2
+	Query: "Pterodroma" ; Times: 3
+	Query: "type:specimen family:bucconidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lamprolepis" ; Times: 3
+	Query: "Syma torotoro" ; Times: 1
+	Query: "ANWC B43485" ; Times: 1
+	Query: "Tribolonotus gracilis" ; Times: 1
+	Query: "grevy zebra" ; Times: 1
+	Query: "Oligosoma" ; Times: 2
+	Query: "caprimulgus macrurus" ; Times: 2
+	Query: "devil" ; Times: 10
+	Query: "order:rodentia continent:Africa" ; Times: 1
+	Query: "Acrocephalus orientalis" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "country:&#34;ecuador&#34;" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "st. charles" ; Times: 1
+	Query: "apis" ; Times: 1
+	Query: "Cinclosoma ajax ANWC" ; Times: 2
+	Query: "Pachycephala monacha ANWC" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 4
+	Query: "type:specimen (Canada OR British Columbia)" ; Times: 1
+	Query: "rabbit" ; Times: 2
+	Query: "ANWC B29904" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "genus:Anas country:&#34;Japan&#34;" ; Times: 1
+	Query: "Carnivora" ; Times: 1
+	Query: "Liasis fuscus" ; Times: 1
+	Query: "aves country:&#34;North Korea&#34;" ; Times: 1
+	Query: "Canis lupus" ; Times: 5
+	Query: "Atthis type:specimen mappable:1" ; Times: 2
+	Query: "Colluricincla harmonica ANWC" ; Times: 1
+	Query: "Eulamprus tryoni" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (modesta)" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "demon" ; Times: 12
+	Query: "Monarcha cinerascens" ; Times: 1
+	Query: "Cinclosoma punctatum" ; Times: 1
+	Query: "Cinclosoma punctatum ANWC" ; Times: 1
+	Query: "mouse" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "(Virginia)" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "ANWC B46371" ; Times: 1
+	Query: "chelonia" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 3
+	Query: "cardinal" ; Times: 1
+	Query: "Pitohui ferrugineus ANWC" ; Times: 1
+	Query: "ptilorrhoa" ; Times: 1
+	Query: "country:&#34;Canada&#34;" ; Times: 1
+	Query: "Ptilorrhoa caerulescens ANWC" ; Times: 1
+	Query: "Aprasia pseudopulchella" ; Times: 1
+	Query: "ANWC B43773" ; Times: 1
+	Query: "eggs" ; Times: 1
+	Query: "hydromedusa" ; Times: 4
+	Query: "ANWC B34034" ; Times: 1
+	Query: "lanius" ; Times: 1
+	Query: "bear" ; Times: 1
+	Query: "Ptilorrhoa ANWC" ; Times: 1
+	Query: "Aprasia striolata" ; Times: 1
+	Query: "megarhynchus" ; Times: 1
+	Query: "Ptilorrhoa leucosticta ANWC" ; Times: 1
+	Query: "Saproscincus mustelinus" ; Times: 1
+	Query: "Pitohui cristatus ANWC" ; Times: 1
+	Query: "felidae" ; Times: 1
+	Query: "ANWC B46106" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pachycephala olivacea" ; Times: 2
+	Query: "Egernia guthega" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "ANWC B20292" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 889 download events in this period)
+Total number of records downloaded: 31117
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 63
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 3
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 8
+	Date: 2015-12-07 ; Times: 9
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-23 ; Times: 3
+	Date: 2015-12-17 ; Times: 3
+	Date: 2015-12-25 ; Times: 4
+	Date: 2015-12-24 ; Times: 5
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-16 ; Times: 5
+	Date: 2015-12-31 ; Times: 2
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 3
+	Date: 2015-12-18 ; Times: 6
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Saproscincus rosei" ; Times: 1
+	Query: "Pogona vitticeps" ; Times: 1
+	Query: "monarcha year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "Tribolonotus gracilis" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "Ctenophorus scutulatus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Saproscincus mustelinus" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Egernia guthega" ; Times: 1
+	Query: "Aprasia repens" ; Times: 1
+	Query: "Lerista terdigitata" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "Ctenophorus femoralis" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "Saltuarius cornutus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Troglodytes" ; Times: 1
+	Query: "Oligosoma" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Oedura castelnaui" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous" ; Times: 1
+	Query: "carollia" ; Times: 1
+	Query: "scarlet macaw" ; Times: 1
+	Query: "Tiliqua rugosa" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 2
+	Query: "Ctenophorus decresii" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis" ; Times: 1
+	Query: "Ctenophorus fionni" ; Times: 1
+	Query: "Aprasia pseudopulchella" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "genus:Opisthocomus year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Lucasium damaeum" ; Times: 1
+	Query: "Liasis fuscus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+	Query: "Hemiergis peronii" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "cane toad" ; Times: 3
+	Query: "Aprasia striolata" ; Times: 1
+	Query: "Eulamprus tryoni" ; Times: 1
+	Query: "Hemiergis decresiensis" ; Times: 1
+
+
+End of report.
