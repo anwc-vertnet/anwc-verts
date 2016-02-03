@@ -1,0 +1,403 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 413
+Number of records retrieved in searches: 8061
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 6
+	Country: Italy ; Times: 4
+	Country: Czech Republic ; Times: 1
+	Country: Unknown ; Times: 41
+	Country: France ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 8
+	Country: Germany ; Times: 2
+	Country: Dominican Republic ; Times: 3
+	Country: Spain ; Times: 6
+	Country: Denmark ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 222
+	Country: Sweden ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 25
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 61
+	Country: Tunisia ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 22
+	Date: 2015-10-14 ; Times: 20
+	Date: 2015-10-15 ; Times: 23
+	Date: 2015-10-12 ; Times: 11
+	Date: 2015-10-13 ; Times: 18
+	Date: 2015-10-10 ; Times: 5
+	Date: 2015-10-11 ; Times: 79
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-29 ; Times: 11
+	Date: 2015-10-28 ; Times: 8
+	Date: 2015-10-27 ; Times: 6
+	Date: 2015-10-26 ; Times: 26
+	Date: 2015-10-24 ; Times: 18
+	Date: 2015-10-23 ; Times: 16
+	Date: 2015-10-22 ; Times: 8
+	Date: 2015-10-21 ; Times: 14
+	Date: 2015-10-20 ; Times: 7
+	Date: 2015-10-05 ; Times: 12
+	Date: 2015-10-04 ; Times: 9
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-06 ; Times: 9
+	Date: 2015-10-01 ; Times: 22
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 6
+	Date: 2015-10-09 ; Times: 12
+	Date: 2015-10-08 ; Times: 8
+	Date: 2015-10-30 ; Times: 20
+	Date: 2015-10-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "pachycephala lorentzi" ; Times: 2
+	Query: "country:&#34;Indonesia&#34; institutioncode:ANWC" ; Times: 1
+	Query: "media:1" ; Times: 1
+	Query: "stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 3
+	Query: "victoria regia" ; Times: 1
+	Query: "miniopterus schreibersii" ; Times: 3
+	Query: "Texas" ; Times: 1
+	Query: "pachyptila belcheri" ; Times: 1
+	Query: "Cyclorana cultripes" ; Times: 1
+	Query: "ovis aries" ; Times: 3
+	Query: "class:Mammalia Sciuridae" ; Times: 1
+	Query: "class:Aves country:&#34;Kenya&#34;" ; Times: 2
+	Query: "paradisaea minor" ; Times: 3
+	Query: "Sogeri" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "turdus" ; Times: 1
+	Query: "house sparrow" ; Times: 3
+	Query: "Sterna acuticauda" ; Times: 1
+	Query: "varanus indicus" ; Times: 1
+	Query: "Oriolus oriolus" ; Times: 1
+	Query: "Rhipidura dryas" ; Times: 2
+	Query: "milvus milvus" ; Times: 2
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "rattus rattus" ; Times: 1
+	Query: "morelia viridis" ; Times: 4
+	Query: "Morelia spilota" ; Times: 1
+	Query: "sus scrofa" ; Times: 6
+	Query: "dama.dama" ; Times: 1
+	Query: "cuba" ; Times: 1
+	Query: "Eretmochelys imbricata imbricata" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "country:&#34;Sweden&#34;" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 50
+	Query: "Mediterranean gull" ; Times: 1
+	Query: "Cyclorana cryptotis" ; Times: 1
+	Query: "hoary bat" ; Times: 1
+	Query: "fantail" ; Times: 1
+	Query: "pomatorhinus schisticeps" ; Times: 1
+	Query: "douglasi" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "type:specimen genus:Atrichornis institutioncode:ANWC" ; Times: 1
+	Query: "ailuroedus melanotis" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 3
+	Query: "tyto alba" ; Times: 2
+	Query: "piping plover" ; Times: 4
+	Query: "Bradley" ; Times: 1
+	Query: "pachycephala monacha" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 9
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "aspidites melanocephalus" ; Times: 1
+	Query: "fairy" ; Times: 11
+	Query: "aspidites ramsayi" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Rheobatrachus" ; Times: 3
+	Query: "locality:Taam country:&#34;Indonesia&#34; institutioncode:ANWC" ; Times: 1
+	Query: "Calyptorhynchus latirostris" ; Times: 1
+	Query: "aves California" ; Times: 1
+	Query: "pachycephala olivacea" ; Times: 1
+	Query: "ANWC" ; Times: 1
+	Query: "smithii" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "troglodytes" ; Times: 1
+	Query: "genus:Syma country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "white-tailed tropicbird" ; Times: 4
+	Query: "genus:Syma (Papua New Guinea OR Indonesia)" ; Times: 1
+	Query: "family:Passeridae" ; Times: 3
+	Query: "vampire" ; Times: 7
+	Query: "class:Mammalia stateprovince:&#34;Maluku&#34;" ; Times: 1
+	Query: "polygrammicus" ; Times: 2
+	Query: "nyctimene aello" ; Times: 1
+	Query: "south america" ; Times: 1
+	Query: "tree sparrow" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Dendrelaphis calligastra" ; Times: 2
+	Query: "vulpes vulpes" ; Times: 2
+	Query: "&#34;house sparrow&#34; media:1" ; Times: 1
+	Query: "nest" ; Times: 2
+	Query: "Cyclorana longipes" ; Times: 1
+	Query: "SCIURIDAE" ; Times: 1
+	Query: "melampitta" ; Times: 1
+	Query: "paradisaea decora" ; Times: 1
+	Query: "locality:Taam country:&#34;Indonesia&#34; collectioncode:Reptiles institutioncode:ANWC" ; Times: 1
+	Query: "&#34;rattus rattus&#34;" ; Times: 3
+	Query: "Cyclorana maculosa" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "parus major" ; Times: 3
+	Query: "nyctimene" ; Times: 3
+	Query: "iraq" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 2
+	Query: "Cyclorana verrucosa" ; Times: 1
+	Query: "1647" ; Times: 1
+	Query: "Caluromys derbianus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "aerodramus papuensis" ; Times: 1
+	Query: "scutulatus" ; Times: 1
+	Query: "Rufous Fantail" ; Times: 1
+	Query: "Cyclorana platycephala" ; Times: 1
+	Query: "aquila" ; Times: 1
+	Query: "Mammalia (rodentia)" ; Times: 2
+	Query: "tunisia" ; Times: 1
+	Query: "Cyclorana maini" ; Times: 1
+	Query: "kenya" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "lagomorpha" ; Times: 3
+	Query: "Brown Booby" ; Times: 1
+	Query: "country:&#34;iraq&#34;" ; Times: 1
+	Query: "francolinus capensis" ; Times: 6
+	Query: "rattus" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Tragulidae" ; Times: 3
+	Query: "continent:Africa" ; Times: 1
+	Query: "Bifax" ; Times: 1
+	Query: "Ecuador" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "sheep" ; Times: 1
+	Query: "myotis" ; Times: 1
+	Query: "castanea" ; Times: 1
+	Query: "devil" ; Times: 7
+	Query: "bangladesh" ; Times: 1
+	Query: "pachycephala orpheus" ; Times: 1
+	Query: "nyctimene cephalotes" ; Times: 1
+	Query: "distance(location,geopoint(34.161818161230386,-85.693359375))&lt;100000" ; Times: 1
+	Query: "type:specimen genus:Dasyornis" ; Times: 3
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "locality:Tam institutioncode:ANWC" ; Times: 1
+	Query: "(Tam) institutioncode:ANWC" ; Times: 1
+	Query: "(Canada)" ; Times: 1
+	Query: "boiga irregularis" ; Times: 4
+	Query: "dogs" ; Times: 1
+	Query: "Bucorvus" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "Iceland Gull" ; Times: 6
+	Query: "squirrel" ; Times: 2
+	Query: "mammals" ; Times: 3
+	Query: "paradisaea" ; Times: 1
+	Query: "sarawak mammalia" ; Times: 2
+	Query: "catchment" ; Times: 1
+	Query: "nyctimene draconilla" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "Sula dactylatra" ; Times: 1
+	Query: "nest class:aves" ; Times: 3
+	Query: "manucodia" ; Times: 2
+	Query: "Malurus alboscapulatus" ; Times: 1
+	Query: "georgia" ; Times: 1
+	Query: "Numida meleagris year &gt;= 1920" ; Times: 1
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+	Query: "rufogularis" ; Times: 1
+	Query: "Spermophilus pygmaeus" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "cat" ; Times: 1
+	Query: "emberiza spodocephala" ; Times: 2
+	Query: "specificepithet:gallopavo genus:meleagris" ; Times: 2
+	Query: "pachycephala rufogularis" ; Times: 1
+	Query: "salinarum" ; Times: 1
+	Query: "Morelia Viridis" ; Times: 1
+	Query: "sarawak Chiroptera" ; Times: 2
+	Query: "genus:Dasyornis institutioncode:ANWC" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "demon" ; Times: 4
+	Query: "Turdus" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "ficedula hyperythra" ; Times: 1
+	Query: "country:&#34;Indonesia&#34; collectioncode:Reptiles institutioncode:ANWC" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 4
+	Query: "beaver" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "mouse" ; Times: 3
+	Query: "boiga irregularis mappable:1" ; Times: 2
+	Query: "passer domesticus" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 21
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1970" ; Times: 1
+	Query: "Cyclorana novaehollandiae" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 4
+	Query: "rheobatrachus type:specimen" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "eretmochelys imbricata imbricata" ; Times: 1
+	Query: "specificepithet:platurus genus:Pelamis mappable:1" ; Times: 2
+	Query: "coracina papuensis" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Malurus leucopterus" ; Times: 1
+	Query: "eggs" ; Times: 1
+	Query: "leopard" ; Times: 1
+	Query: "Paradisaea rudolphi type:specimen" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "specificepithet:griseus genus:limnodromus" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "whale" ; Times: 2
+	Query: "arch" ; Times: 1
+	Query: "Candoia aspera" ; Times: 1
+	Query: "Threskiornis" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "Tunisia" ; Times: 1
+	Query: "mus musculus" ; Times: 2
+	Query: "toad mappable:1" ; Times: 2
+	Query: "(mus musculus)" ; Times: 1
+	Query: "suffolk county" ; Times: 1
+	Query: "sirenia" ; Times: 2
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "mass" ; Times: 1
+	Query: "Probosciger aterrimus" ; Times: 1
+	Query: "pulchellus" ; Times: 1
+	Query: "alabama" ; Times: 2
+	Query: "rusa unicolor" ; Times: 1
+	Query: "capito" ; Times: 1
+	Query: "andean condor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 823 download events in this period)
+Total number of records downloaded: 39451
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: France ; Times: 1
+	Country: United States ; Times: 46
+	Country: Chile ; Times: 5
+	Country: Uganda ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 6
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 3
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-30 ; Times: 16
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT nigraventra NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens NOT fuscolineatus NOT fragilis NOT nigrolineata NOT megaspila NOT longicaudatus NOT Daru)" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus )" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "nyctimene" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Cyclorana brevipes" ; Times: 1
+	Query: "Cyclorana cultripes" ; Times: 1
+	Query: "american tree sparrow" ; Times: 1
+	Query: "white-tailed tropicbird" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "cane toad" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Cyclorana australis" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "Cyclorana longipes" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Sphenomorphus New Guinea" ; Times: 1
+	Query: "vireo olivaceus type:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "boiga irregularis mappable:1" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "Cyclorana cryptotis" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Calyptorhynchus latirostris" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "aeneus" ; Times: 1
+	Query: "Cyclorana maini" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "reptilia" ; Times: 2
+	Query: "Caluromys derbianus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "class:Mammalia" ; Times: 2
+	Query: "sus scrofa" ; Times: 1
+	Query: "Cyclorana novaehollandiae" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "amphibia" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "Cyclorana platycephala" ; Times: 1
+	Query: "sora" ; Times: 1
+
+
+End of report.
