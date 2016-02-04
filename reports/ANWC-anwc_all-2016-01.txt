@@ -1,0 +1,243 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 218
+Number of records retrieved in searches: 3311
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 17
+	Country: United States ; Times: 94
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 48
+	Country: Belgium ; Times: 3
+	Country: Hungary ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 23
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 27
+	Date: 2016-01-23 ; Times: 3
+	Date: 2016-01-06 ; Times: 17
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-26 ; Times: 12
+	Date: 2016-01-27 ; Times: 5
+	Date: 2016-01-02 ; Times: 5
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 6
+	Date: 2016-01-08 ; Times: 14
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-20 ; Times: 18
+	Date: 2016-01-19 ; Times: 8
+	Date: 2016-01-07 ; Times: 12
+	Date: 2016-01-13 ; Times: 7
+	Date: 2016-01-12 ; Times: 11
+	Date: 2016-01-11 ; Times: 5
+	Date: 2016-01-17 ; Times: 5
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 8
+	Date: 2016-01-14 ; Times: 4
+	Date: 2016-01-31 ; Times: 4
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-24 ; Times: 5
+	Date: 2016-01-25 ; Times: 10
+	Date: 2016-01-18 ; Times: 8
+	Date: 2016-01-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammal sounds" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "ANWC B48989" ; Times: 2
+	Query: "media:1" ; Times: 3
+	Query: "Caretta caretta" ; Times: 2
+	Query: "myoictis melas" ; Times: 1
+	Query: "Texas" ; Times: 1
+	Query: "Zosterops ugiensis" ; Times: 1
+	Query: "Pachycephala simplex" ; Times: 1
+	Query: "&#34;Campylorhynchus fasciatus&#34; OR &#34;Heleodytes fasciatus&#34; OR &#34;Furnarius fasciatus&#34; OR &#34;Thryothorus superciliaris&#34; OR &#34;Cantorchilus superciliaris&#34; OR &#34;Cyanocorax mystacalis&#34; OR &#34;Euscarthmus meloryphus&#34; OR &#34;Hapalocercus meloryphus&#34; OR &#34;Forpus coelestis&#34; OR &#34;Psittacula coelestis&#34; OR &#34;Icterus graceannae&#34; OR &#34;Leucippus baeri&#34; OR &#34;Mimus longicaudatus&#34; OR &#34;Myiarchus semirufus&#34; OR &#34;Myiodynastes bairdi&#34; OR &#34;Myiodynastes bairdii&#34; OR &#34;Myrmia micrura&#34; OR &#34;Calothorax micrurus&#34; OR &#34;Phaeomyias murina&#34; OR &#34;Phytotoma raimondii&#34; OR &#34;Piezorhina cinerea&#34; OR &#34;Guiraca cinerea&#34; OR &#34;Piezorina cinerea&#34; OR &#34;Myiopagis leucospodia&#34; OR &#34;Pseudelaenia leucospodia&#34; OR &#34;Elaenia leucospodia&#34; OR &#34;Aimophila stolzmanni&#34; OR &#34;Peucaea stolzmanni&#34; OR &#34;Rhynchospiza stolzmanni&#34; OR &#34;Gnathospiza taczanowskii&#34; OR &#34;Sicalis taczanowskii&#34; OR &#34;Gnathospiza raimondi&#34; OR &#34;Synallaxis stictothorax&#34; OR &#34;Thamnophilus bernardi&#34; OR &#34;Sakesphorus bernardi&#34; OR &#34;Ochthoeca salvini&#34; OR &#34;Tumbezia salvini&#34;" ; Times: 1
+	Query: "genus:Lissotriton specificepithet:vulgaris" ; Times: 2
+	Query: "actenoides" ; Times: 1
+	Query: "aves california" ; Times: 1
+	Query: "&#34;Forpus coelestis&#34; OR &#34;Psittacula coelestis&#34; OR &#34;Leucippus baeri&#34; OR &#34;Myrmia micrura&#34; OR &#34;Phytotoma raimondii&#34; OR &#34;Myiopagis leucospodia&#34; OR &#34;Pseudelaenia leucospodia&#34; OR &#34;Elaenia leucospodia&#34; OR &#34;Ochthoeca salvini&#34; OR &#34;Tumbezia salvini&#34; OR &#34;Myiodynastes bairdi&#34; OR &#34;Myiodynastes bairdii&#34; OR &#34;Thamnophilus bernardi&#34; OR &#34;Sakesphorus bernardi&#34; OR &#34;Synallaxis stictothorax&#34; OR &#34;Cyanocorax mystacalis&#34; OR &#34;Thryothorus superciliaris&#34; OR &#34;Cantorchilus superciliaris&#34; OR &#34;Icterus graceannae&#34; OR &#34;Aimophila stolzmanni&#34; OR &#34;Peucaea stolzmanni&#34; OR &#34;Rhynchospiza stolzmanni&#34; OR &#34;Piezorhina cinerea&#34; OR &#34;Piezorina cinerea&#34; OR &#34;Gnathospiza taczanowskii&#34; OR &#34;Sicalis taczanowskii&#34; OR &#34;Gnathospiza raimondi&#34; OR &#34;Phaeomyias murina&#34; OR &#34;Euscarthmus meloryphus&#34; OR &#34;Hapalocercus meloryphus&#34; OR &#34;Myiarchus semirufus&#34; OR &#34;Campylorhynchus fasciatus&#34; OR &#34;Heleodytes fasciatus&#34; OR &#34;Mimus longicaudatus&#34; OR &#34;Calothorax micrurus&#34; OR &#34;Guiraca cinerea&#34; OR &#34;Furnarius fasciatus&#34; class:Aves" ; Times: 1
+	Query: "Colluricincla megarhyncha" ; Times: 2
+	Query: "sus scrofa" ; Times: 4
+	Query: "ANAS PLATYRHYNCHOS" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "(Georgia)" ; Times: 1
+	Query: "anas aucklandica" ; Times: 1
+	Query: "Tadorna Tadorna" ; Times: 2
+	Query: "axolotl mexicanum" ; Times: 1
+	Query: "Riv" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "distance(location,geopoint(69.9001176266854,-156.4013671875))&lt;100000" ; Times: 1
+	Query: "Ptilorrhoa leucosticta" ; Times: 1
+	Query: "canidae" ; Times: 1
+	Query: "ANWC B51799" ; Times: 1
+	Query: "ANWC B54342" ; Times: 3
+	Query: "class:Aves stateprovince:California" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "fairy" ; Times: 10
+	Query: "syma megarhyncha" ; Times: 4
+	Query: "albania" ; Times: 1
+	Query: "black pine snake" ; Times: 1
+	Query: "zoothera heinei" ; Times: 1
+	Query: "Philippines family:Muridae" ; Times: 1
+	Query: "lion" ; Times: 3
+	Query: "prairie" ; Times: 1
+	Query: "anas nesiotis" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "turnix" ; Times: 1
+	Query: "crocodylus genus:Crocodylus" ; Times: 1
+	Query: "Cinclosoma ajax" ; Times: 2
+	Query: "vampire" ; Times: 10
+	Query: "Cuniculus" ; Times: 1
+	Query: "ANWC B38420" ; Times: 1
+	Query: "rhipidura brachyrhyncha" ; Times: 2
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "mum" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "Daphoenositta" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 3
+	Query: "spotted owl" ; Times: 1
+	Query: "ANWC B40136" ; Times: 2
+	Query: "ANWC B27123" ; Times: 2
+	Query: "Rainbow Snake" ; Times: 3
+	Query: "ANWC B26733" ; Times: 1
+	Query: "British Columbia" ; Times: 1
+	Query: "genus:Litoria specificepithet:tyleri" ; Times: 2
+	Query: "Turnix" ; Times: 1
+	Query: "house finch" ; Times: 4
+	Query: "francolinus capensis" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "Crocidura type:specimen" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "sheep" ; Times: 1
+	Query: "devil" ; Times: 5
+	Query: "bangladesh" ; Times: 1
+	Query: "ANWC B27057" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "laos" ; Times: 1
+	Query: "Thailand" ; Times: 1
+	Query: "type:specimen family:Turdidae (poliocephalus)" ; Times: 2
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "&#34;Forpus coelestis&#34; OR &#34;Psittacula coelestis&#34; OR &#34;Leucippus baeri&#34; OR &#34;Myrmia micrura&#34; OR &#34;Phytotoma raimondii&#34; OR &#34;Myiopagis leucospodia&#34; OR &#34;Pseudelaenia leucospodia&#34; OR &#34;Elaenia leucospodia&#34; OR &#34;Ochthoeca salvini&#34; OR &#34;Tumbezia salvini&#34; OR &#34;Myiodynastes bairdi&#34; OR &#34;Myiodynastes bairdii&#34; OR &#34;Thamnophilus bernardi&#34; OR &#34;Sakesphorus bernardi&#34; OR &#34;Synallaxis stictothorax&#34; OR &#34;Cyanocorax mystacalis&#34; OR &#34;Thryothorus superciliaris&#34; OR &#34;Cantorchilus superciliaris&#34; OR &#34;Icterus graceannae&#34; OR &#34;Aimophila stolzmanni&#34; OR &#34;Peucaea stolzmanni&#34; OR &#34;Rhynchospiza stolzmanni&#34; OR &#34;Piezorhina cinerea&#34; OR &#34;Piezorina cinerea&#34; OR &#34;Gnathospiza taczanowskii&#34; OR &#34;Sicalis taczanowskii&#34; OR &#34;Gnathospiza raimondi&#34; OR &#34;Phaeomyias murina&#34; OR &#34;Euscarthmus meloryphus&#34; OR &#34;Hapalocercus meloryphus&#34; OR &#34;Myiarchus semirufus&#34; OR &#34;Campylorhynchus fasciatus&#34; OR &#34;Heleodytes fasciatus&#34; OR &#34;Mimus longicaudatus&#34; OR &#34;Calothorax micrurus&#34; OR &#34;Guiraca cinerea&#34; OR &#34;Furnarius fasciatus&#34;" ; Times: 2
+	Query: "Indonesia family:Muridae" ; Times: 3
+	Query: "demon" ; Times: 14
+	Query: "Gallus gallus" ; Times: 1
+	Query: "amphibians" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Pteropodidae distance(location,geopoint(4.390228926463396,133.154296875))&lt;2272716" ; Times: 1
+	Query: "lamprolepis" ; Times: 1
+	Query: "oriolus oriolus" ; Times: 1
+	Query: "concinna" ; Times: 1
+	Query: "type:specimen order:psittaciformes stateprovince:&#34;East New Britain&#34; (Cacatua)" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Auburn" ; Times: 1
+	Query: "Pachycephala melanura" ; Times: 1
+	Query: "type:specimen order:psittaciformes stateprovince:&#34;New Britain&#34; (Cacatua)" ; Times: 1
+	Query: "deer" ; Times: 1
+	Query: "Cinclosoma punctatum" ; Times: 1
+	Query: "willet" ; Times: 1
+	Query: "Cheloniidae" ; Times: 1
+	Query: "stegonotus" ; Times: 2
+	Query: "type:specimen order:psittaciformes stateprovince:&#34;*New Britain&#34; (Cacatua)" ; Times: 1
+	Query: "bee" ; Times: 2
+	Query: "ANWC B26761" ; Times: 1
+	Query: "crocodylus novaeguineae" ; Times: 1
+	Query: "ANWC B56156" ; Times: 2
+	Query: "archbold" ; Times: 1
+	Query: "Pan" ; Times: 2
+	Query: "Ptilorrhoa castanonota" ; Times: 2
+	Query: "genus:haliaeetus" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "manis javanica" ; Times: 1
+	Query: "porzana cinerea" ; Times: 1
+	Query: "ANWC B47068" ; Times: 1
+	Query: "bear" ; Times: 1
+	Query: "ANWC B33387" ; Times: 1
+	Query: "cetacea" ; Times: 2
+	Query: "whale" ; Times: 2
+	Query: "genus:Litoria specificepithet:ewingii" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:wilsmorei" ; Times: 1
+	Query: "Daphoenositta papuensis" ; Times: 1
+	Query: "anas superciliosa" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "Passer domesticus" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 507 download events in this period)
+Total number of records downloaded: 1082
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 16
+	Country: Belgium ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 6
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Neobatrachus specificepithet:sutor" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "genus:haliaeetus year &gt;= 1996 year &lt;= 2015" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:wilsmorei" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+
+
+End of report.
