@@ -1,0 +1,261 @@
+Report for Institution Code ANWC, Resource Amphibians
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 218
+Number of records retrieved in searches: 3311
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Bangladesh ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 48
+	Country: Germany ; Times: 1
+	Country: Hungary ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Russia ; Times: 23
+	Country: Spain ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 94
+	Country: Unknown ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 5
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-06 ; Times: 17
+	Date: 2016-01-07 ; Times: 12
+	Date: 2016-01-08 ; Times: 14
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-11 ; Times: 5
+	Date: 2016-01-12 ; Times: 11
+	Date: 2016-01-13 ; Times: 7
+	Date: 2016-01-14 ; Times: 4
+	Date: 2016-01-15 ; Times: 8
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-17 ; Times: 5
+	Date: 2016-01-18 ; Times: 8
+	Date: 2016-01-19 ; Times: 8
+	Date: 2016-01-20 ; Times: 18
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-22 ; Times: 27
+	Date: 2016-01-23 ; Times: 3
+	Date: 2016-01-24 ; Times: 5
+	Date: 2016-01-25 ; Times: 10
+	Date: 2016-01-26 ; Times: 12
+	Date: 2016-01-27 ; Times: 5
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 6
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "mammal sounds" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "media:1" ; Times: 3
+	Query: "Caretta caretta" ; Times: 2
+	Query: "myoictis melas" ; Times: 1
+	Query: "Texas" ; Times: 1
+	Query: "Zosterops ugiensis" ; Times: 1
+	Query: "Pachycephala simplex" ; Times: 1
+	Query: ""Campylorhynchus fasciatus" OR "Heleodytes fasciatus" OR "Furnarius fasciatus" OR "Thryothorus superciliaris" OR "Cantorchilus superciliaris" OR "Cyanocorax mystacalis" OR "Euscarthmus meloryphus" OR "Hapalocercus meloryphus" OR "Forpus coelestis" OR "Psittacula coelestis" OR "Icterus graceannae" OR "Leucippus baeri" OR "Mimus longicaudatus" OR "Myiarchus semirufus" OR "Myiodynastes bairdi" OR "Myiodynastes bairdii" OR "Myrmia micrura" OR "Calothorax micrurus" OR "Phaeomyias murina" OR "Phytotoma raimondii" OR "Piezorhina cinerea" OR "Guiraca cinerea" OR "Piezorina cinerea" OR "Myiopagis leucospodia" OR "Pseudelaenia leucospodia" OR "Elaenia leucospodia" OR "Aimophila stolzmanni" OR "Peucaea stolzmanni" OR "Rhynchospiza stolzmanni" OR "Gnathospiza taczanowskii" OR "Sicalis taczanowskii" OR "Gnathospiza raimondi" OR "Synallaxis stictothorax" OR "Thamnophilus bernardi" OR "Sakesphorus bernardi" OR "Ochthoeca salvini" OR "Tumbezia salvini"" ; Times: 1
+	Query: "genus:Lissotriton specificepithet:vulgaris" ; Times: 2
+	Query: "actenoides" ; Times: 1
+	Query: "aves california" ; Times: 1
+	Query: ""Forpus coelestis" OR "Psittacula coelestis" OR "Leucippus baeri" OR "Myrmia micrura" OR "Phytotoma raimondii" OR "Myiopagis leucospodia" OR "Pseudelaenia leucospodia" OR "Elaenia leucospodia" OR "Ochthoeca salvini" OR "Tumbezia salvini" OR "Myiodynastes bairdi" OR "Myiodynastes bairdii" OR "Thamnophilus bernardi" OR "Sakesphorus bernardi" OR "Synallaxis stictothorax" OR "Cyanocorax mystacalis" OR "Thryothorus superciliaris" OR "Cantorchilus superciliaris" OR "Icterus graceannae" OR "Aimophila stolzmanni" OR "Peucaea stolzmanni" OR "Rhynchospiza stolzmanni" OR "Piezorhina cinerea" OR "Piezorina cinerea" OR "Gnathospiza taczanowskii" OR "Sicalis taczanowskii" OR "Gnathospiza raimondi" OR "Phaeomyias murina" OR "Euscarthmus meloryphus" OR "Hapalocercus meloryphus" OR "Myiarchus semirufus" OR "Campylorhynchus fasciatus" OR "Heleodytes fasciatus" OR "Mimus longicaudatus" OR "Calothorax micrurus" OR "Guiraca cinerea" OR "Furnarius fasciatus" class:Aves" ; Times: 1
+	Query: "Colluricincla megarhyncha" ; Times: 2
+	Query: "sus scrofa" ; Times: 4
+	Query: "ANAS PLATYRHYNCHOS" ; Times: 1
+	Query: "bear" ; Times: 1
+	Query: "(Georgia)" ; Times: 1
+	Query: "anas aucklandica" ; Times: 1
+	Query: "Tadorna Tadorna" ; Times: 2
+	Query: "axolotl mexicanum" ; Times: 1
+	Query: "Riv" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "distance(location,geopoint(69.9001176266854,-156.4013671875))<100000" ; Times: 1
+	Query: "Ptilorrhoa leucosticta" ; Times: 1
+	Query: "canidae" ; Times: 1
+	Query: "rhipidura brachyrhyncha" ; Times: 2
+	Query: "ANWC B54342" ; Times: 3
+	Query: "class:Aves stateprovince:California" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "fairy" ; Times: 10
+	Query: "syma megarhyncha" ; Times: 4
+	Query: "albania" ; Times: 1
+	Query: "black pine snake" ; Times: 1
+	Query: "Crocidura type:specimen" ; Times: 1
+	Query: "Philippines family:Muridae" ; Times: 1
+	Query: "lion" ; Times: 3
+	Query: "prairie" ; Times: 1
+	Query: "anas nesiotis" ; Times: 1
+	Query: "bee" ; Times: 2
+	Query: "turnix" ; Times: 1
+	Query: "crocodylus genus:Crocodylus" ; Times: 1
+	Query: "Cinclosoma ajax" ; Times: 2
+	Query: "vampire" ; Times: 10
+	Query: "Cuniculus" ; Times: 1
+	Query: "ANWC B38420" ; Times: 1
+	Query: "ANWC B51799" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "mum" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "Daphoenositta" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 3
+	Query: "spotted owl" ; Times: 1
+	Query: "ANWC B40136" ; Times: 2
+	Query: "ANWC B27123" ; Times: 2
+	Query: "Auburn" ; Times: 1
+	Query: "ANWC B26733" ; Times: 1
+	Query: "British Columbia" ; Times: 1
+	Query: "genus:Litoria specificepithet:tyleri" ; Times: 2
+	Query: "Turnix" ; Times: 1
+	Query: "house finch" ; Times: 4
+	Query: "francolinus capensis" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "zoothera heinei" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "sheep" ; Times: 1
+	Query: "devil" ; Times: 5
+	Query: "bangladesh" ; Times: 1
+	Query: "ANWC B27057" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "laos" ; Times: 1
+	Query: "Thailand" ; Times: 1
+	Query: "type:specimen family:Turdidae (poliocephalus)" ; Times: 2
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: ""Forpus coelestis" OR "Psittacula coelestis" OR "Leucippus baeri" OR "Myrmia micrura" OR "Phytotoma raimondii" OR "Myiopagis leucospodia" OR "Pseudelaenia leucospodia" OR "Elaenia leucospodia" OR "Ochthoeca salvini" OR "Tumbezia salvini" OR "Myiodynastes bairdi" OR "Myiodynastes bairdii" OR "Thamnophilus bernardi" OR "Sakesphorus bernardi" OR "Synallaxis stictothorax" OR "Cyanocorax mystacalis" OR "Thryothorus superciliaris" OR "Cantorchilus superciliaris" OR "Icterus graceannae" OR "Aimophila stolzmanni" OR "Peucaea stolzmanni" OR "Rhynchospiza stolzmanni" OR "Piezorhina cinerea" OR "Piezorina cinerea" OR "Gnathospiza taczanowskii" OR "Sicalis taczanowskii" OR "Gnathospiza raimondi" OR "Phaeomyias murina" OR "Euscarthmus meloryphus" OR "Hapalocercus meloryphus" OR "Myiarchus semirufus" OR "Campylorhynchus fasciatus" OR "Heleodytes fasciatus" OR "Mimus longicaudatus" OR "Calothorax micrurus" OR "Guiraca cinerea" OR "Furnarius fasciatus"" ; Times: 2
+	Query: "Indonesia family:Muridae" ; Times: 3
+	Query: "demon" ; Times: 14
+	Query: "Gallus gallus" ; Times: 1
+	Query: "amphibians" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Pteropodidae distance(location,geopoint(4.390228926463396,133.154296875))<2272716" ; Times: 1
+	Query: "stateprovince:"texas"" ; Times: 1
+	Query: "oriolus oriolus" ; Times: 1
+	Query: "concinna" ; Times: 1
+	Query: "type:specimen order:psittaciformes stateprovince:"East New Britain" (Cacatua)" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Rainbow Snake" ; Times: 3
+	Query: "Cinclosoma punctatum" ; Times: 1
+	Query: "Pachycephala melanura" ; Times: 1
+	Query: "type:specimen order:psittaciformes stateprovince:"New Britain" (Cacatua)" ; Times: 1
+	Query: "deer" ; Times: 1
+	Query: "ANWC B56156" ; Times: 2
+	Query: "stegonotus" ; Times: 2
+	Query: "Cheloniidae" ; Times: 1
+	Query: "willet" ; Times: 1
+	Query: "type:specimen order:psittaciformes stateprovince:"*New Britain" (Cacatua)" ; Times: 1
+	Query: "Pan" ; Times: 2
+	Query: "passer domesticus" ; Times: 1
+	Query: "ANWC B26761" ; Times: 1
+	Query: "crocodylus novaeguineae" ; Times: 1
+	Query: "ANWC B48989" ; Times: 2
+	Query: "archbold" ; Times: 1
+	Query: "Ptilorrhoa castanonota" ; Times: 2
+	Query: "genus:haliaeetus" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "manis javanica" ; Times: 1
+	Query: "porzana cinerea" ; Times: 1
+	Query: "ANWC B47068" ; Times: 1
+	Query: "lamprolepis" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "ANWC B33387" ; Times: 1
+	Query: "cetacea" ; Times: 2
+	Query: "whale" ; Times: 2
+	Query: "genus:Litoria specificepithet:ewingii" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:wilsmorei" ; Times: 1
+	Query: "Daphoenositta papuensis" ; Times: 1
+	Query: "anas superciliosa" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "Passer domesticus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 507 download events in this period)
+Total number of records downloaded: 1082 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1015
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"United States"" ; Times: 2
+	Query: "genus:Neobatrachus specificepithet:sutor" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "genus:haliaeetus year >= 1996 year <= 2015" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:wilsmorei" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: ""naja naja"" ; Times: 1
+	Query: "Turnix" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 1082
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 218
+Total number of records retrieved from searches: 3311
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 1082
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
