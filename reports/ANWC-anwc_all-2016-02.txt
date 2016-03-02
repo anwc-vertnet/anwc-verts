@@ -1,0 +1,291 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 219
+Number of records retrieved in searches: 5471
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 3
+	Country: Madagascar ; Times: 1
+	Country: Netherlands ; Times: 8
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: Denmark ; Times: 4
+	Country: South Africa ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 122
+	Country: Unknown ; Times: 20
+	Country: Sweden ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Bosnia and Herzegovina ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Iceland ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Gabon ; Times: 1
+	Country: Russia ; Times: 15
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 8
+	Date: 2016-02-22 ; Times: 9
+	Date: 2016-02-18 ; Times: 18
+	Date: 2016-02-19 ; Times: 7
+	Date: 2016-02-12 ; Times: 5
+	Date: 2016-02-13 ; Times: 2
+	Date: 2016-02-10 ; Times: 5
+	Date: 2016-02-11 ; Times: 9
+	Date: 2016-02-16 ; Times: 25
+	Date: 2016-02-17 ; Times: 14
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 9
+	Date: 2016-02-03 ; Times: 7
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-21 ; Times: 5
+	Date: 2016-02-20 ; Times: 4
+	Date: 2016-02-26 ; Times: 5
+	Date: 2016-02-25 ; Times: 18
+	Date: 2016-02-24 ; Times: 6
+	Date: 2016-02-01 ; Times: 5
+	Date: 2016-02-29 ; Times: 10
+	Date: 2016-02-02 ; Times: 8
+	Date: 2016-02-05 ; Times: 13
+	Date: 2016-02-04 ; Times: 7
+	Date: 2016-02-07 ; Times: 4
+	Date: 2016-02-06 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Rallina forbesi" ; Times: 1
+	Query: "jobiensis" ; Times: 1
+	Query: "melipotes ater" ; Times: 3
+	Query: "varanus salvator" ; Times: 1
+	Query: "Uria aalge" ; Times: 2
+	Query: "media:1" ; Times: 2
+	Query: "Megadyptes" ; Times: 1
+	Query: "canis lupus" ; Times: 3
+	Query: "larus" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Crateroscelis" ; Times: 1
+	Query: "megapodius layardi" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Thalassarche steadi" ; Times: 1
+	Query: "type:observation mappable:1" ; Times: 1
+	Query: "phylloscopus" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "victoria point" ; Times: 1
+	Query: "reptiles" ; Times: 1
+	Query: "glyciphila melanops institutioncode:anwc" ; Times: 1
+	Query: "darter" ; Times: 1
+	Query: "Sus scrofa scrofa" ; Times: 1
+	Query: "treron psittaceus" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 2
+	Query: "genus:Crocodylus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "porcupine mappable:1" ; Times: 2
+	Query: "country:&#34;Canada&#34; mappable:1" ; Times: 2
+	Query: "family:Canidae" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "felis catus type:specimen" ; Times: 2
+	Query: "rynchops albicollis" ; Times: 2
+	Query: "phocidae" ; Times: 1
+	Query: "canidae" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "larus fuscus" ; Times: 1
+	Query: "Meliarchus sclateri" ; Times: 3
+	Query: "class:aves stateprovince:california" ; Times: 3
+	Query: "fairy" ; Times: 8
+	Query: "talegalla" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "geopelia maugei" ; Times: 1
+	Query: "Sus" ; Times: 1
+	Query: "Uria lomvia" ; Times: 1
+	Query: "amandava amandava" ; Times: 1
+	Query: "Lichmera" ; Times: 1
+	Query: "vampire" ; Times: 11
+	Query: "genus:Cyclorana specificepithet:maini" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "sus" ; Times: 1
+	Query: "Rabbit" ; Times: 1
+	Query: "(Florida)" ; Times: 1
+	Query: "eagle" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "Todiramphus chloris institutioncode:ANWC" ; Times: 1
+	Query: "bird of paradise type:specimen" ; Times: 1
+	Query: "Philemon meyeri" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "Macropus rufus" ; Times: 2
+	Query: "devil" ; Times: 2
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "Rallidae (Rallidae AND tabuensis)" ; Times: 1
+	Query: "raptor" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "alaska" ; Times: 1
+	Query: "snow goose" ; Times: 1
+	Query: "sciuridae" ; Times: 1
+	Query: "(Osteolaemus OR Osteoblepharon)" ; Times: 1
+	Query: "black-legged kittiwake california" ; Times: 1
+	Query: "Petrogale godmani" ; Times: 2
+	Query: "felis catus" ; Times: 1
+	Query: "sterna aurantia" ; Times: 1
+	Query: "Aves North Reef" ; Times: 2
+	Query: "austria" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "canis" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 2
+	Query: "ontario" ; Times: 1
+	Query: "gbifdatasetid:0debafd0-6c8a-11de-8225-b8a03c50a862 dakota" ; Times: 1
+	Query: "genus:Uperoleia specificepithet:lithomoda" ; Times: 1
+	Query: "Cophixalus ornatus" ; Times: 3
+	Query: "Mammals" ; Times: 1
+	Query: "ceyx azureus" ; Times: 1
+	Query: "france" ; Times: 1
+	Query: "genus:Crinia specificepithet:parinsignifera" ; Times: 1
+	Query: "Todiramphus chloris" ; Times: 1
+	Query: "irediparra" ; Times: 2
+	Query: "Rallidae (Rallidae AND atra)" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "Phalacrocorax verrucosus" ; Times: 1
+	Query: "Kangaroo rat mappable:1" ; Times: 1
+	Query: "CM" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "mammals" ; Times: 3
+	Query: "steindachneri" ; Times: 1
+	Query: "ducula bicolor" ; Times: 4
+	Query: "stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "brachyura" ; Times: 1
+	Query: "gilbert" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 2
+	Query: "type:specimen genus:sus" ; Times: 1
+	Query: "georgia" ; Times: 2
+	Query: "fur" ; Times: 1
+	Query: "Phoeniconaias minor" ; Times: 1
+	Query: "Malurus grayi" ; Times: 1
+	Query: "myotis" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "cat" ; Times: 1
+	Query: "cursor" ; Times: 1
+	Query: "Accipiter" ; Times: 1
+	Query: "Philemon cockerelli" ; Times: 2
+	Query: "vulpes" ; Times: 1
+	Query: "St. Lucia" ; Times: 1
+	Query: "Macgregoria pulchra" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "demon" ; Times: 3
+	Query: "black-legged kittiwake" ; Times: 1
+	Query: "&#34;Canis lupus&#34; mappable:1" ; Times: 1
+	Query: "Phylloscopus type:specimen" ; Times: 2
+	Query: "victoria county" ; Times: 1
+	Query: "varanus panoptes" ; Times: 1
+	Query: "spotted turtle" ; Times: 1
+	Query: "Coraciidae" ; Times: 1
+	Query: "specificepithet:brachyrhyncha genus:Rhipidura" ; Times: 2
+	Query: "GAR" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "myzomela vulnerata" ; Times: 1
+	Query: "philemon buceroides" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "cerberus rynchops" ; Times: 1
+	Query: "Accipiter imitator" ; Times: 1
+	Query: "order:hemiptera" ; Times: 2
+	Query: "Myotis" ; Times: 1
+	Query: "tropical birds" ; Times: 1
+	Query: "tom white" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "caprimulgus macrurus" ; Times: 1
+	Query: "sipodotus" ; Times: 2
+	Query: "Melilestes megarhynchus" ; Times: 1
+	Query: "philemon meyeri" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "dog" ; Times: 2
+	Query: "parus" ; Times: 1
+	Query: "order:hemiptera media:1" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 3
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "genus:Atrichornis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 512 download events in this period)
+Total number of records downloaded: 8225
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-06 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-29 ; Times: 4
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "Delphinidae" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "year &gt;= 1900 year &lt;= 2015 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "capito" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+
+
+End of report.
