@@ -1,0 +1,395 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 762
+Number of records retrieved in searches: 10810
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 29
+	Country: Brazil ; Times: 13
+	Country: Vietnam ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 206
+	Country: Poland ; Times: 5
+	Country: Japan ; Times: 3
+	Country: Montenegro ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 391
+	Country: Netherlands ; Times: 4
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: India ; Times: 6
+	Country: Denmark ; Times: 14
+	Country: Thailand ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Russia ; Times: 43
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 7
+	Date: 2016-04-28 ; Times: 14
+	Date: 2016-04-07 ; Times: 12
+	Date: 2016-04-06 ; Times: 20
+	Date: 2016-04-05 ; Times: 34
+	Date: 2016-04-04 ; Times: 104
+	Date: 2016-04-21 ; Times: 36
+	Date: 2016-04-20 ; Times: 17
+	Date: 2016-04-09 ; Times: 29
+	Date: 2016-04-08 ; Times: 15
+	Date: 2016-04-25 ; Times: 20
+	Date: 2016-04-24 ; Times: 19
+	Date: 2016-04-27 ; Times: 33
+	Date: 2016-04-26 ; Times: 30
+	Date: 2016-04-22 ; Times: 16
+	Date: 2016-04-18 ; Times: 52
+	Date: 2016-04-19 ; Times: 37
+	Date: 2016-04-14 ; Times: 35
+	Date: 2016-04-15 ; Times: 38
+	Date: 2016-04-16 ; Times: 10
+	Date: 2016-04-17 ; Times: 16
+	Date: 2016-04-10 ; Times: 9
+	Date: 2016-04-11 ; Times: 32
+	Date: 2016-04-12 ; Times: 64
+	Date: 2016-04-13 ; Times: 35
+	Date: 2016-04-29 ; Times: 14
+	Date: 2016-04-02 ; Times: 2
+	Date: 2016-04-23 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "goss" ; Times: 2
+	Query: "macruromys" ; Times: 2
+	Query: "crocodylus novaeguineae" ; Times: 7
+	Query: "phalacrocorax carbo" ; Times: 9
+	Query: "Geophaps" ; Times: 1
+	Query: "Picidae mappable:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "genus:notomys" ; Times: 1
+	Query: "Hydromys" ; Times: 4
+	Query: "media:1" ; Times: 3
+	Query: "canis lupus" ; Times: 4
+	Query: "ANWC B43512" ; Times: 2
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "vampire" ; Times: 10
+	Query: "mallard" ; Times: 1
+	Query: "Paramelomys" ; Times: 1
+	Query: "Black Tern" ; Times: 1
+	Query: "recurvirostra" ; Times: 1
+	Query: "Riparia riparia" ; Times: 3
+	Query: "demon" ; Times: 19
+	Query: "aegotheles cristatus" ; Times: 4
+	Query: "ANSP birds" ; Times: 2
+	Query: "jay" ; Times: 1
+	Query: "&#34;carlia rhomboidalis&#34; type:specimen mappable:1" ; Times: 1
+	Query: "MAMMALS" ; Times: 1
+	Query: "Uromys" ; Times: 1
+	Query: "cane toad" ; Times: 1
+	Query: "Corvus AND Island" ; Times: 1
+	Query: "mastacomys" ; Times: 1
+	Query: "phalacrocorax carbo (africa)" ; Times: 1
+	Query: "genus:Pseudophryne specificepithet:corroboree" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "B28445" ; Times: 1
+	Query: "solomon islands class:aves" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "MINNESOTA" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "Viverridae" ; Times: 1
+	Query: "aegotheles cristatus eggs" ; Times: 1
+	Query: "wumizusume" ; Times: 1
+	Query: "odontophoridae" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "rIPARIA RIPARIA" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 3
+	Query: "makira type:specimen" ; Times: 1
+	Query: "Xeromys" ; Times: 1
+	Query: "ARchangel" ; Times: 1
+	Query: "country:&#34;Canada&#34;" ; Times: 2
+	Query: "pseudomys novaehollandiae" ; Times: 1
+	Query: "parahydromys" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "cettia diphone" ; Times: 1
+	Query: "piping plover" ; Times: 1
+	Query: "Nactus (Papua New Guinea OR Indonesia)" ; Times: 2
+	Query: "little brown bat" ; Times: 1
+	Query: "pseudomys oralis" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 174
+	Query: "fairy" ; Times: 17
+	Query: "Chlidonias hybrida" ; Times: 5
+	Query: "&#34;Swan Island&#34;" ; Times: 1
+	Query: "Vanellus cinereus" ; Times: 1
+	Query: "type:specimen genus:Neophoca order:Carnivora" ; Times: 1
+	Query: "Papua type:specimen family:Muridae" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "crow" ; Times: 1
+	Query: "4890" ; Times: 2
+	Query: "Picidae" ; Times: 2
+	Query: "aegotheles bennettii" ; Times: 1
+	Query: "cryptotis" ; Times: 1
+	Query: "Phasianidae" ; Times: 1
+	Query: "ONTARIO" ; Times: 16
+	Query: "specificepithet:novaeguineae genus:Crocodylus" ; Times: 7
+	Query: "beetle" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 5
+	Query: "Mus cervicolor" ; Times: 1
+	Query: "type:specimen genus:Mirounga order:Carnivora" ; Times: 2
+	Query: "gbifdatasetid:0debafd0-6c8a-11de-8225-b8a03c50a862" ; Times: 1
+	Query: "Pogonomys" ; Times: 1
+	Query: "pseudomys apodemoides" ; Times: 1
+	Query: "Suidae" ; Times: 1
+	Query: "trapping" ; Times: 1
+	Query: "Cuba" ; Times: 2
+	Query: "box turtle" ; Times: 2
+	Query: "Coccymys" ; Times: 1
+	Query: "pigeon" ; Times: 1
+	Query: "Conilurus penicillatus" ; Times: 2
+	Query: "birds from Turkey" ; Times: 1
+	Query: "Eurostopodus" ; Times: 1
+	Query: "Aegotheles cristatus eggs" ; Times: 1
+	Query: "mosquito specimen" ; Times: 1
+	Query: "Calliope" ; Times: 1
+	Query: "riparia riparia" ; Times: 4
+	Query: "ANWC B47111" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 2
+	Query: "(africa)" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "devil" ; Times: 3
+	Query: "procellaria aequinoctialis" ; Times: 1
+	Query: "Crossomys" ; Times: 1
+	Query: "Thylacine" ; Times: 1
+	Query: "monarch" ; Times: 1
+	Query: "albatross" ; Times: 1
+	Query: "specificepithet:novaeguineae genus:Crocodylus institutioncode:ANWC" ; Times: 4
+	Query: "(minnesota)" ; Times: 1
+	Query: "Uromys hadrourus" ; Times: 1
+	Query: "pseudomys desertor" ; Times: 1
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "Cyrtodactylus" ; Times: 1
+	Query: "ANWC B43500" ; Times: 2
+	Query: "Stegonotus parvus" ; Times: 6
+	Query: "peregrine falcon" ; Times: 2
+	Query: "wood frog" ; Times: 2
+	Query: "Notomys alexis" ; Times: 1
+	Query: "ANWC B26500" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "scutulatus" ; Times: 1
+	Query: "Stewart AND Island" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "malurus alboscapulatus" ; Times: 1
+	Query: "pteroglossus aracari type:specimen" ; Times: 1
+	Query: "Archangel" ; Times: 1
+	Query: "pseudomys bolami" ; Times: 1
+	Query: "Aepypodius anwc" ; Times: 2
+	Query: "Leporillus" ; Times: 1
+	Query: "Leggadina" ; Times: 2
+	Query: "mammals" ; Times: 3
+	Query: "ANWC B39343" ; Times: 2
+	Query: "type:specimen specificepithet:novaeguineae genus:crocodylus" ; Times: 1
+	Query: "THALASSARCHE MELANOPHRYS" ; Times: 1
+	Query: "Herpestes" ; Times: 5
+	Query: "rainbow snake" ; Times: 1
+	Query: "Karesuando" ; Times: 1
+	Query: "Ecuador" ; Times: 2
+	Query: "Calliope calliope" ; Times: 1
+	Query: "phoebastria" ; Times: 4
+	Query: "Emoia caeruleocauda" ; Times: 1
+	Query: "ontario" ; Times: 5
+	Query: "pelecanus onocrotalus (africa)" ; Times: 1
+	Query: "sterna paradisaea" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "ANWC B41992" ; Times: 1
+	Query: "Artiodactyla" ; Times: 2
+	Query: "Pogonomelomys" ; Times: 1
+	Query: "Ecuador Birds" ; Times: 81
+	Query: "Paramelomys mollis" ; Times: 1
+	Query: "caretta" ; Times: 1
+	Query: "pseudomys" ; Times: 2
+	Query: "vultur" ; Times: 1
+	Query: "chiruromys" ; Times: 2
+	Query: "mammelomys" ; Times: 1
+	Query: "Skull" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "Canidae" ; Times: 2
+	Query: "&#34;Two Islands&#34;" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 5
+	Query: "hoplocephalus bitorquatus" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "&#34;lampropholis coggeri&#34; type:specimen mappable:1" ; Times: 1
+	Query: "pseudomys fumeus" ; Times: 2
+	Query: "B44991" ; Times: 1
+	Query: "african collections" ; Times: 1
+	Query: "spain" ; Times: 1
+	Query: "pelecanus" ; Times: 2
+	Query: "Carnivora" ; Times: 1
+	Query: "pseudomys australis" ; Times: 1
+	Query: "lampropholis coggeri" ; Times: 1
+	Query: "myotis" ; Times: 1
+	Query: "bee" ; Times: 1
+	Query: "specificepithet:stagnatilis" ; Times: 2
+	Query: "Aepypodius arfakianus" ; Times: 1
+	Query: "bell mammalia" ; Times: 1
+	Query: "Calliope pectoralis" ; Times: 1
+	Query: "blackbird" ; Times: 1
+	Query: "centralis" ; Times: 2
+	Query: "sula dactylatra" ; Times: 1
+	Query: "phalacrocorax africanus" ; Times: 2
+	Query: "Melampitta" ; Times: 1
+	Query: "boulder" ; Times: 1
+	Query: "Pseudohydromys" ; Times: 1
+	Query: "Monkey" ; Times: 1
+	Query: "(Texas)" ; Times: 1
+	Query: "pogonomys" ; Times: 1
+	Query: "birds ECUADOR" ; Times: 24
+	Query: "melidora" ; Times: 1
+	Query: "crocodylus porosus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "pelecanus onocrotalus" ; Times: 3
+	Query: "Cheloniidae" ; Times: 1
+	Query: "Tyto AND Island" ; Times: 1
+	Query: "Notomys" ; Times: 1
+	Query: "genus:thalassarche" ; Times: 1
+	Query: "Ecuador birds" ; Times: 48
+	Query: "crocidura" ; Times: 1
+	Query: "Abeomelomys" ; Times: 1
+	Query: "cuba" ; Times: 1
+	Query: "Zyzomys" ; Times: 3
+	Query: "aegotheles albertisi" ; Times: 1
+	Query: "pseudomys calabyi" ; Times: 1
+	Query: "darling 1977" ; Times: 1
+	Query: "TK" ; Times: 1
+	Query: "CM" ; Times: 1
+	Query: "boiga" ; Times: 2
+	Query: "genus:Coccothraustes" ; Times: 1
+	Query: "Swan Island" ; Times: 2
+	Query: "notomys alexis" ; Times: 6
+	Query: "182 ONTARIO 1" ; Times: 1
+	Query: "Falco peregrinus AND Island" ; Times: 1
+	Query: "Microhydromys" ; Times: 1
+	Query: "Zyzomys Northern Territory" ; Times: 1
+	Query: "genus:sus" ; Times: 2
+	Query: "Phocidae" ; Times: 1
+	Query: "DAPTION CAPENSE" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; mappable:1" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "carnegie" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "anatidae" ; Times: 1
+	Query: "fisher" ; Times: 2
+	Query: "whale" ; Times: 1
+	Query: "stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:alexis genus:notomys" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "surifer" ; Times: 1
+	Query: "Peacock" ; Times: 1
+	Query: "B41992" ; Times: 1
+	Query: "Mesembriomys" ; Times: 1
+	Query: "observation" ; Times: 1
+	Query: "Stegonotus cucullatus" ; Times: 4
+	Query: "Leptomys" ; Times: 1
+	Query: "thailand" ; Times: 1
+	Query: "mus musculus" ; Times: 3
+	Query: "Mallomys" ; Times: 1
+	Query: "ANWC B43306" ; Times: 1
+	Query: "parus" ; Times: 2
+	Query: "Lorentzimys" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Podicipedidae" ; Times: 1
+	Query: "podargus ocellatus" ; Times: 2
+	Query: "cacophis" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "gallinula" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Alberta&#34; mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1312 download events in this period)
+Total number of records downloaded: 278312
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 31
+	Country: India ; Times: 2
+	Country: United States ; Times: 17
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 4
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-25 ; Times: 5
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-26 ; Times: 7
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 7
+	Date: 2016-04-23 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: "Melampitta" ; Times: 1
+	Query: "Picidae mappable:1" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "mammals of texas" ; Times: 13
+	Query: "sialia sialis" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "&#34;lampropholis coggeri&#34; type:specimen mappable:1" ; Times: 1
+	Query: "&#34;carlia rhomboidalis&#34; type:specimen mappable:1" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "hoplocephalus bitorquatus" ; Times: 3
+	Query: "toucan" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "class:aves" ; Times: 1
+	Query: "mappable:1" ; Times: 5
+	Query: "class:Mammalia" ; Times: 12
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
