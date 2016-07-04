@@ -1,0 +1,371 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 458
+Number of records retrieved in searches: 22015
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Turkey ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Australia ; Times: 9
+	Country: Singapore ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Chile ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 251
+	Country: Sweden ; Times: 4
+	Country: Russia ; Times: 4
+	Country: Brazil ; Times: 4
+	Country: Portugal ; Times: 23
+	Country: Mexico ; Times: 104
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 19
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Fiji ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 3
+	Date: 2016-06-24 ; Times: 5
+	Date: 2016-06-23 ; Times: 12
+	Date: 2016-06-22 ; Times: 7
+	Date: 2016-06-21 ; Times: 27
+	Date: 2016-06-20 ; Times: 30
+	Date: 2016-06-05 ; Times: 8
+	Date: 2016-06-04 ; Times: 9
+	Date: 2016-06-07 ; Times: 22
+	Date: 2016-06-06 ; Times: 13
+	Date: 2016-06-01 ; Times: 59
+	Date: 2016-06-03 ; Times: 22
+	Date: 2016-06-02 ; Times: 30
+	Date: 2016-06-09 ; Times: 6
+	Date: 2016-06-08 ; Times: 13
+	Date: 2016-06-18 ; Times: 11
+	Date: 2016-06-19 ; Times: 6
+	Date: 2016-06-16 ; Times: 22
+	Date: 2016-06-17 ; Times: 7
+	Date: 2016-06-14 ; Times: 30
+	Date: 2016-06-15 ; Times: 32
+	Date: 2016-06-12 ; Times: 13
+	Date: 2016-06-13 ; Times: 32
+	Date: 2016-06-10 ; Times: 22
+	Date: 2016-06-11 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "type:observation" ; Times: 1
+	Query: "Regina" ; Times: 2
+	Query: "Anas acuta" ; Times: 1
+	Query: "Chelus fimbriatus" ; Times: 1
+	Query: "(ovis ammon) mappable:1" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Gujarat" ; Times: 3
+	Query: "media:1" ; Times: 2
+	Query: "canis lupus" ; Times: 7
+	Query: "Caretta caretta" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "uroglaux" ; Times: 1
+	Query: "Abbott AND ISland" ; Times: 1
+	Query: "trogon rufus brazil" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Hemidactylus frenatus " ; Times: 3
+	Query: "ocelot" ; Times: 2
+	Query: "1831" ; Times: 1
+	Query: "Chelodina parkeri" ; Times: 1
+	Query: "Cursorius" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "class:Reptilia country:&#34;Papua new guinea&#34;" ; Times: 2
+	Query: "lagomorpha mappable:1" ; Times: 1
+	Query: "turdus" ; Times: 1
+	Query: "country:&#34;China&#34;" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 4
+	Query: "Cynopterus sphinx" ; Times: 1
+	Query: "bee eater" ; Times: 2
+	Query: "Andalusia" ; Times: 1
+	Query: "Meleagris" ; Times: 2
+	Query: "morelia viridis" ; Times: 5
+	Query: "sus scrofa" ; Times: 3
+	Query: "watsonville" ; Times: 2
+	Query: "salamander" ; Times: 1
+	Query: "Crocodylus" ; Times: 2
+	Query: "Varanus indicus " ; Times: 1
+	Query: "amytornis dorotheae" ; Times: 1
+	Query: "8442 mammalia" ; Times: 2
+	Query: "Carnivora" ; Times: 1
+	Query: "Edmonton" ; Times: 1
+	Query: "myzomela eques" ; Times: 3
+	Query: "class:Aves stateprovince:California" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 3
+	Query: "Carettochelys" ; Times: 4
+	Query: "Diomedea" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 2
+	Query: "lichenostomus hindwoodi" ; Times: 2
+	Query: "Chelodina canni" ; Times: 1
+	Query: "wallabia bicolor" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 8
+	Query: "sturgeon" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "Phrynops gibbus" ; Times: 1
+	Query: "8442" ; Times: 2
+	Query: "(florida)" ; Times: 1
+	Query: "aerodramus nuditarsus" ; Times: 5
+	Query: "Kachuga dhongoka" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Equus grevyi" ; Times: 1
+	Query: "Rattus rattus" ; Times: 7
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 5
+	Query: "Terpsiphone" ; Times: 2
+	Query: "Sterna antillarum" ; Times: 1
+	Query: "bufo marinus new guinea" ; Times: 1
+	Query: "cracidae mitu mitu" ; Times: 1
+	Query: "Rheodytes leukops" ; Times: 1
+	Query: "Ifrita" ; Times: 1
+	Query: "bufo marinus New Guinea" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "amytornis ballarae" ; Times: 1
+	Query: "8516" ; Times: 1
+	Query: "Chelodina reimanni" ; Times: 1
+	Query: "Elseya dentata" ; Times: 2
+	Query: "devil" ; Times: 4
+	Query: "class:aves stateprovince:california" ; Times: 93
+	Query: "Mus musculus" ; Times: 5
+	Query: "Fields class:Reptilia" ; Times: 1
+	Query: "Chelodina novaeguineae" ; Times: 1
+	Query: "3262" ; Times: 1
+	Query: "Pluvialis AND Island" ; Times: 1
+	Query: "TURSIOPS" ; Times: 1
+	Query: "Elseya latisternum" ; Times: 3
+	Query: "ramphastidae" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 8
+	Query: "albatross" ; Times: 1
+	Query: "Carlia Evans" ; Times: 2
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "Felis catus" ; Times: 2
+	Query: "ANWC B27044" ; Times: 1
+	Query: "cylindrophis" ; Times: 2
+	Query: "Aphelocoma" ; Times: 1
+	Query: "type:specimen family:Canidae" ; Times: 1
+	Query: "Reptilia 4005" ; Times: 1
+	Query: "Acanthochelys pallidipectoris" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Aegotheles cristatus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 2
+	Query: "Phrynops hilarii" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "stipiturus mallee" ; Times: 2
+	Query: "goura" ; Times: 1
+	Query: "Chelodina expansa" ; Times: 2
+	Query: "stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "francolinus capensis" ; Times: 1
+	Query: "4107" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "Hydromedusa tectifera" ; Times: 1
+	Query: "specificepithet:viridis genus:morelia country:&#34;Australia&#34;" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 4
+	Query: "vultur gryphus" ; Times: 3
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "horse" ; Times: 1
+	Query: "Sus scrofa" ; Times: 4
+	Query: "anhinga" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "Chelodina pritchardi" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 7
+	Query: "rainbow snake" ; Times: 1
+	Query: "Elseya novaeguineae" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 1
+	Query: "Reptilia 4058" ; Times: 2
+	Query: "amytornis merrotsyi" ; Times: 1
+	Query: "boiga irregularis" ; Times: 4
+	Query: "ecuador" ; Times: 2
+	Query: "oceanites oceanicus" ; Times: 3
+	Query: "genus:moloch country:&#34;Australia&#34;" ; Times: 1
+	Query: "clytomyias insignis" ; Times: 1
+	Query: "chelonia" ; Times: 1
+	Query: "ecuador birds" ; Times: 2
+	Query: "mammals" ; Times: 3
+	Query: "numenius" ; Times: 1
+	Query: "Hydrophis caerulescens" ; Times: 1
+	Query: "uroglaux dimorpha" ; Times: 1
+	Query: "amphibians" ; Times: 1
+	Query: "Chelodina steindachneri" ; Times: 2
+	Query: "pavo cristatus" ; Times: 1
+	Query: "4774" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "Kachuga kachuga" ; Times: 1
+	Query: "Numenius minutus" ; Times: 1
+	Query: "Pomatostomus superciliosus" ; Times: 1
+	Query: "Egretta AND Island" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "haliaeetus" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Canis lupus" ; Times: 5
+	Query: "4689" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Papua new guinea&#34;" ; Times: 1
+	Query: "Otus kennicotti" ; Times: 3
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "genus:barnardius AND (NOT UMMZ) year &gt;= 1967 year &lt;= 1968" ; Times: 1
+	Query: "strix aluco" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "boulder" ; Times: 1
+	Query: "ninox jacquinoti" ; Times: 1
+	Query: "&#34;Thalassarche chlororhynchos&#34;" ; Times: 3
+	Query: "acanthiza katherina" ; Times: 1
+	Query: "india" ; Times: 1
+	Query: "Crocodylus johnstoni" ; Times: 1
+	Query: "institutioncode:anwc Platycercus" ; Times: 2
+	Query: "Chelodina oblonga" ; Times: 1
+	Query: "aphelocephala pectoralis" ; Times: 1
+	Query: "fregata ariel" ; Times: 1
+	Query: "woodpecker" ; Times: 1
+	Query: "Columba livia" ; Times: 2
+	Query: "Python molurus " ; Times: 2
+	Query: "Mystacinidae" ; Times: 2
+	Query: "Chelodina mccordi" ; Times: 1
+	Query: "institutioncode:anwc Platycercus Island" ; Times: 1
+	Query: "Utah" ; Times: 1
+	Query: "Acanthochelys spixii" ; Times: 1
+	Query: "carettochelys" ; Times: 1
+	Query: "7777" ; Times: 1
+	Query: "Reptilia 8516" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "Haliaeetus AND ISland" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "Fields" ; Times: 1
+	Query: "leopard" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "9197" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:canis" ; Times: 6
+	Query: "whale" ; Times: 1
+	Query: "nympha" ; Times: 1
+	Query: "canis lupus   " ; Times: 17
+	Query: "Reptilia 4440" ; Times: 1
+	Query: "specificepithet:pinchaque genus:Tapirus" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 2
+	Query: "institutioncode:anwc" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "malurus campbelli" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 10
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "class:Aves stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 1052 download events in this period)
+Total number of records downloaded: 49984
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 46
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 26
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 19
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-14 ; Times: 9
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-13 ; Times: 8
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 8
+	Date: 2016-06-16 ; Times: 7
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "wallabia bicolor" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Equus grevyi" ; Times: 1
+	Query: "Emydura" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "goura" ; Times: 2
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "birds" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "Hydrophis caerulescens" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "magnolia warbler" ; Times: 1
+	Query: "bipes" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "order:Squamata class:Reptilia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "order:Squamata class:Reptilia country:&#34;Papua new guinea&#34;" ; Times: 1
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
