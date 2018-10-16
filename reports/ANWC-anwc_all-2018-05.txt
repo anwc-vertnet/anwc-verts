@@ -1,0 +1,333 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 399
+Number of records retrieved in searches: 7759
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 63
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 5
+	Country: Israel ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Zambia ; Times: 1
+	Country: China ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 48
+	Country: United States ; Times: 196
+	Country: Sweden ; Times: 7
+	Country: Russia ; Times: 1
+	Country: Bulgaria ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 26
+	Country: Colombia ; Times: 6
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 4
+	Date: 2018-05-29 ; Times: 9
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 11
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 19
+	Date: 2018-05-24 ; Times: 19
+	Date: 2018-05-25 ; Times: 8
+	Date: 2018-05-26 ; Times: 5
+	Date: 2018-05-27 ; Times: 3
+	Date: 2018-05-06 ; Times: 5
+	Date: 2018-05-07 ; Times: 19
+	Date: 2018-05-04 ; Times: 16
+	Date: 2018-05-05 ; Times: 7
+	Date: 2018-05-02 ; Times: 9
+	Date: 2018-05-03 ; Times: 6
+	Date: 2018-05-01 ; Times: 58
+	Date: 2018-05-08 ; Times: 10
+	Date: 2018-05-09 ; Times: 7
+	Date: 2018-05-31 ; Times: 20
+	Date: 2018-05-30 ; Times: 7
+	Date: 2018-05-15 ; Times: 21
+	Date: 2018-05-14 ; Times: 6
+	Date: 2018-05-17 ; Times: 21
+	Date: 2018-05-16 ; Times: 43
+	Date: 2018-05-11 ; Times: 13
+	Date: 2018-05-10 ; Times: 24
+	Date: 2018-05-13 ; Times: 6
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 5
+	Date: 2018-05-18 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Great Egret" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic)" ; Times: 1
+	Query: "katydid" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 19
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Pachycephala simplex" ; Times: 1
+	Query: "Macropus rufus " ; Times: 1
+	Query: "specificepithet:nigrita class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "condor" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "house sparrow" ; Times: 1
+	Query: "specificepithet:aterrimus genus:Probosciger" ; Times: 2
+	Query: "Psephotus pulcherrimus" ; Times: 7
+	Query: "Burr" ; Times: 1
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:laevigata genus:Uperoleia institutioncode:ANWC" ; Times: 3
+	Query: "fossil" ; Times: 1
+	Query: "Chitra chitra" ; Times: 3
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "entomology" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1" ; Times: 3
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "aterrimus" ; Times: 1
+	Query: "squirrel collections" ; Times: 2
+	Query: "Cetacea" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "B28058" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Pachycephala year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "Andaman aves" ; Times: 2
+	Query: "pine snake" ; Times: 1
+	Query: "Gymnobelideus" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris mappable:1" ; Times: 5
+	Query: "class:aves stateprovince:california" ; Times: 63
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "ANWC B33078" ; Times: 2
+	Query: "9219" ; Times: 1
+	Query: "Phylloscopus trochiloides OR occipitalis OR affinis OR humei OR reguloides OR pulcher OR chloronotus OR maculipennis vntype:specimen" ; Times: 1
+	Query: "phalacrocorax brasilianus" ; Times: 1
+	Query: "ANWC B26846" ; Times: 4
+	Query: "ara ararauna" ; Times: 1
+	Query: "ANWC B01393" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "3779" ; Times: 1
+	Query: "ANWC B50489" ; Times: 2
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "specificepithet:aucklandica genus:Anas" ; Times: 2
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "beetle" ; Times: 1
+	Query: "Dogs" ; Times: 1
+	Query: "chrotomys" ; Times: 1
+	Query: "ANWC B02455" ; Times: 4
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "ANWC B29494" ; Times: 2
+	Query: "genus:cylindrophis" ; Times: 1
+	Query: "Notaden bennettii" ; Times: 1
+	Query: "B26234" ; Times: 1
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1970 year &lt;= 2018" ; Times: 4
+	Query: "Leadbeater" ; Times: 1
+	Query: "specificepithet:jocosus genus:Pycnonotus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "western sandpiper" ; Times: 1
+	Query: "Limnodynastes salmini" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 2
+	Query: "ephippiorhynchus" ; Times: 1
+	Query: "Culicicapa ceylonensis country:&#34;India&#34;" ; Times: 1
+	Query: "Gallirallus philippensis" ; Times: 1
+	Query: "nobilis" ; Times: 2
+	Query: "Long-billed Dowitcher" ; Times: 1
+	Query: "spadefoot toad" ; Times: 1
+	Query: "stateprovince:&#34;mizoram&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "country:&#34;Egypt&#34;" ; Times: 1
+	Query: "specificepithet:chrysater genus:Icterus" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 2
+	Query: "genus:cylindrophis country:&#34;timor&#34;" ; Times: 1
+	Query: "Pitta erythrogaster" ; Times: 2
+	Query: "specificepithet:splendens genus:Corvus mappable:1" ; Times: 1
+	Query: "ANWC B26234" ; Times: 2
+	Query: "(&#34;dolly sods&#34;)" ; Times: 1
+	Query: "Arthropoda" ; Times: 1
+	Query: "cuscus" ; Times: 2
+	Query: "country:&#34;norway&#34;" ; Times: 1
+	Query: "family:Nectariniidae" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:maini genus:Cyclorana institutioncode:ANWC" ; Times: 3
+	Query: "Pachycephala schlegelii" ; Times: 1
+	Query: "ANWC B26733" ; Times: 2
+	Query: "b37232" ; Times: 1
+	Query: "ANWC B26736" ; Times: 2
+	Query: "specificepithet:signifera genus:Crinia institutioncode:ANWC" ; Times: 3
+	Query: "east texas wildlife" ; Times: 1
+	Query: "1348" ; Times: 2
+	Query: "house finch" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 7
+	Query: "specificepithet:flavigaster genus:Xiphorhynchus" ; Times: 1
+	Query: "adele penguin" ; Times: 1
+	Query: "Pachycephala simplex simplex" ; Times: 1
+	Query: "7799" ; Times: 1
+	Query: "ANWC B32677" ; Times: 2
+	Query: "specificepithet:georgiana genus:melospiza year &gt;= 1981 year &lt;= 1981 month &gt;= 10 month &lt;= 10" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "ANWC B55944" ; Times: 2
+	Query: "ANWC B52556" ; Times: 2
+	Query: "ANWC B33455" ; Times: 2
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "specificepithet:moschata genus:Cairina mappable:1" ; Times: 6
+	Query: "alligator" ; Times: 1
+	Query: "Mammals" ; Times: 1
+	Query: "lonchura tristissima" ; Times: 2
+	Query: "vntype:observation" ; Times: 2
+	Query: "ANWC B48715" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "reptiles" ; Times: 2
+	Query: "specificepithet:gouldii genus:Myobatrachus institutioncode:ANWC" ; Times: 3
+	Query: "chinchilla" ; Times: 1
+	Query: "gerygone tenebrosa" ; Times: 1
+	Query: "ANWC B02443" ; Times: 2
+	Query: "mammals" ; Times: 2
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "erythrura papuana" ; Times: 2
+	Query: "ANWC B55952" ; Times: 1
+	Query: "specificepithet:salmini genus:Limnodynastes institutioncode:ANWC" ; Times: 3
+	Query: "specificepithet:malacca genus:Lonchura" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:sanguinolentus genus:Ramphocelus" ; Times: 1
+	Query: "ANWC B29820" ; Times: 2
+	Query: "Pachycephala lorentzi" ; Times: 2
+	Query: "ANWC B33208" ; Times: 2
+	Query: "ALOE" ; Times: 1
+	Query: "bowling green" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Thylacinus cynocephalus" ; Times: 1
+	Query: "tree kangaroo" ; Times: 2
+	Query: "specificepithet:amandava genus:Amandava mappable:1" ; Times: 6
+	Query: "Elephant elephant" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Anser mappable:1" ; Times: 6
+	Query: "ANWC B46667" ; Times: 2
+	Query: "ANWC B24574" ; Times: 3
+	Query: "dolphin" ; Times: 1
+	Query: "demon" ; Times: 3
+	Query: "pig" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "tringa totanus" ; Times: 3
+	Query: "morelia amethistina" ; Times: 6
+	Query: "ANWC B50512" ; Times: 2
+	Query: "genus:Probosciger" ; Times: 2
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1970 year &lt;= 2018 institutioncode:ANWC" ; Times: 1
+	Query: "Pachycephala Bougainville" ; Times: 7
+	Query: "Macropus robustus" ; Times: 1
+	Query: "specificepithet:nesiotis genus:Anas" ; Times: 1
+	Query: "specificepithet:schlegelii schlegelii genus:Pachycephala year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:philippensis genus:Gallirallus" ; Times: 1
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "culicicapa ceylonensis" ; Times: 1
+	Query: "Pachycephala schlegelii schlegelii" ; Times: 3
+	Query: "specificepithet:surinamus genus:Tachyphonus" ; Times: 1
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1" ; Times: 6
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:ANWC" ; Times: 3
+	Query: "SS8-22" ; Times: 2
+	Query: "Limnodynastes spenceri" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 6
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 6
+	Query: "macropus giganteus" ; Times: 1
+	Query: "specificepithet:jocosus genus:Pycnonotus mappable:1" ; Times: 1
+	Query: "mimosa" ; Times: 1
+	Query: "ANWC B09122" ; Times: 2
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 2
+	Query: "ANWC B33428" ; Times: 3
+	Query: "specificepithet:atratus genus:Cygnus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "fisher" ; Times: 1
+	Query: "ANWC B08239" ; Times: 2
+	Query: "&#34;Zonerodius heliosylus&#34;" ; Times: 6
+	Query: "specificepithet:pulchellus genus:nettapus" ; Times: 2
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1178 download events in this period)
+Total number of records downloaded: 6577
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 3
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-16 ; Times: 6
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "ara ararauna" ; Times: 2
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "specificepithet:aucklandica genus:Anas" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Culicicapa ceylonensis country:&#34;India&#34;" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+	Query: "Phylloscopus trochiloides OR occipitalis OR affinis OR humei OR reguloides OR pulcher OR chloronotus OR maculipennis vntype:specimen" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "&#34;Zonerodius heliosylus&#34;" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "specificepithet:pulchellus genus:nettapus" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+
+
+End of report.
