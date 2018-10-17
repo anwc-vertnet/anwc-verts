@@ -1,0 +1,315 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 375
+Number of records retrieved in searches: 5534
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 9
+	Country: Russia ; Times: 2
+	Country: Australia ; Times: 8
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 11
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 253
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 6
+	Country: Germany ; Times: 26
+	Country: United Kingdom ; Times: 8
+	Country: Denmark ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 4
+	Country: France ; Times: 2
+	Country: Ukraine ; Times: 7
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 14
+	Date: 2018-08-31 ; Times: 4
+	Date: 2018-08-18 ; Times: 5
+	Date: 2018-08-19 ; Times: 4
+	Date: 2018-08-16 ; Times: 7
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-14 ; Times: 19
+	Date: 2018-08-15 ; Times: 16
+	Date: 2018-08-12 ; Times: 8
+	Date: 2018-08-13 ; Times: 9
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-11 ; Times: 4
+	Date: 2018-08-02 ; Times: 19
+	Date: 2018-08-08 ; Times: 17
+	Date: 2018-08-03 ; Times: 7
+	Date: 2018-08-17 ; Times: 5
+	Date: 2018-08-27 ; Times: 10
+	Date: 2018-08-26 ; Times: 16
+	Date: 2018-08-25 ; Times: 8
+	Date: 2018-08-24 ; Times: 21
+	Date: 2018-08-09 ; Times: 17
+	Date: 2018-08-22 ; Times: 10
+	Date: 2018-08-21 ; Times: 11
+	Date: 2018-08-20 ; Times: 6
+	Date: 2018-08-05 ; Times: 8
+	Date: 2018-08-04 ; Times: 7
+	Date: 2018-08-07 ; Times: 28
+	Date: 2018-08-06 ; Times: 34
+	Date: 2018-08-01 ; Times: 36
+	Date: 2018-08-29 ; Times: 10
+	Date: 2018-08-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "hemiprocne" ; Times: 1
+	Query: "148 psittacidae" ; Times: 1
+	Query: "B31371" ; Times: 2
+	Query: "ANWC B45422" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "specificepithet:trichroa genus:erythrura year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:B45759 institutioncode:ANWC" ; Times: 2
+	Query: "B45498 ANWC" ; Times: 1
+	Query: "San Francisco" ; Times: 1
+	Query: "B41612" ; Times: 1
+	Query: "catalognumber:B33064 institutioncode:ANWC" ; Times: 2
+	Query: "ANWC B52890" ; Times: 1
+	Query: "9832" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Sterna acuticauda" ; Times: 6
+	Query: "specificepithet:trichroa genus:erythrura year &gt;= 1985" ; Times: 1
+	Query: "Nicobar eggs" ; Times: 1
+	Query: "sus scrofa" ; Times: 11
+	Query: "Goura victoria" ; Times: 9
+	Query: "family:Bovidae" ; Times: 1
+	Query: "genus:erythrura institutioncode:ANWC" ; Times: 1
+	Query: "Welcome swallow" ; Times: 4
+	Query: "campbelli" ; Times: 1
+	Query: "9665" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "Salvadorina" ; Times: 1
+	Query: "catalognumber:B54474 institutioncode:ANWC" ; Times: 2
+	Query: "country:&#34;Argentina&#34;" ; Times: 1
+	Query: "B55944 ANWC" ; Times: 1
+	Query: "Cynopterus" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "genus:rhipidura (norfolk) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:rhipidura (B54474) institutioncode:ANWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Varanus salvator vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 93
+	Query: "b50414 ANWC" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "specificepithet:rufifrons genus:rhipidura year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:B52739 institutioncode:ANWC" ; Times: 3
+	Query: "catalognumber:B32761 institutioncode:ANWC" ; Times: 1
+	Query: "specificepithet:gouldiae country:&#34;australia&#34; year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "B35444" ; Times: 2
+	Query: "northiella narethae" ; Times: 4
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "Kerivoula titania" ; Times: 2
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "orchid" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "genus:Tadarida" ; Times: 1
+	Query: "Spadefoot toad" ; Times: 1
+	Query: "B49831" ; Times: 1
+	Query: "specificepithet:trivirgatus genus:phylloscopus year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:zosterops class:Aves year &gt;= 1995 year &lt;= 2018 institutioncode:ANWC" ; Times: 2
+	Query: "(Coracina papuensis) year &gt;= 1990 institutioncode:ANWC" ; Times: 1
+	Query: "specificepithet:albiscapa genus:rhipidura year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 2
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 2
+	Query: "specificepithet:swaini genus:Saltuarius" ; Times: 3
+	Query: "B52981" ; Times: 1
+	Query: "B55378" ; Times: 1
+	Query: "podicipedidae" ; Times: 1
+	Query: "spadefoot toad" ; Times: 2
+	Query: "catalognumber:B28305 institutioncode:ANWC" ; Times: 2
+	Query: "red footed booby" ; Times: 1
+	Query: "Phaps" ; Times: 1
+	Query: "specificepithet:albiscapa genus:rhipidura year &gt;= 1985 institutioncode:ANWC" ; Times: 1
+	Query: "B13397" ; Times: 1
+	Query: "B52981 Platycercus" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "ARA ARARAUNA" ; Times: 2
+	Query: "Varanus salvator" ; Times: 2
+	Query: "genus:erythrura class:Aves year &gt;= 1995 year &lt;= 2018 institutioncode:ANWC" ; Times: 1
+	Query: "specificepithet:maculipectus genus:rhipidura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "B19279" ; Times: 1
+	Query: "specificepithet:gouldiae genus:erythrura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "house finch" ; Times: 2
+	Query: "felis catus" ; Times: 3
+	Query: "B33147 class:aves" ; Times: 1
+	Query: "genus:Myobatrachus specificepithet:gouldii" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "brown noddy" ; Times: 1
+	Query: "Origma solitaria" ; Times: 1
+	Query: "saxatilis order:anura" ; Times: 1
+	Query: "specificepithet:gouldiae genus:erythrura class:aves year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "B48518" ; Times: 2
+	Query: "ceyx lepidus" ; Times: 3
+	Query: "rhipidura rufifrons year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "picta victoria" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "specificepithet:albiscapa genus:rhipidura year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "copperhead" ; Times: 5
+	Query: "vntype:observation" ; Times: 1
+	Query: "Assam" ; Times: 2
+	Query: "specificepithet:gouldiae year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "B24105" ; Times: 1
+	Query: "osprey eggs" ; Times: 1
+	Query: "Manis crassicaudata" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes locality:united kingdom" ; Times: 1
+	Query: "amphibians" ; Times: 1
+	Query: "genus:erythrura year &gt;= 1985 institutioncode:ANWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocephalus genus:cuculus year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "catalognumber:B32623 institutioncode:ANWC" ; Times: 2
+	Query: "3449" ; Times: 1
+	Query: "stateprovince:&#34;new britain&#34; country:&#34;papua new guinea&#34; collectioncode:birds" ; Times: 1
+	Query: "B39306" ; Times: 1
+	Query: "myotis" ; Times: 1
+	Query: "gallirallus australis" ; Times: 3
+	Query: "skylark" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "B49205" ; Times: 1
+	Query: "Dobsonia" ; Times: 1
+	Query: "scolopax saturata" ; Times: 1
+	Query: "nativitatis christmas island" ; Times: 1
+	Query: "waigiuensis" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "great shearwater" ; Times: 1
+	Query: "Copperhead" ; Times: 1
+	Query: "demon" ; Times: 3
+	Query: "Turdus" ; Times: 2
+	Query: "genus:Saltuarius stateprovince:&#34;Queensland&#34;" ; Times: 1
+	Query: "ficedula hyperythra" ; Times: 1
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "EUDYPTULA MINOR" ; Times: 1
+	Query: "Picumnus" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "B51802 ANWC" ; Times: 1
+	Query: "morelia amethistina" ; Times: 1
+	Query: "B55952 ANWC" ; Times: 1
+	Query: "catalognumber:B45477 institutioncode:ANWC" ; Times: 2
+	Query: "fulmar" ; Times: 1
+	Query: "genus:erythrura year &gt;= 1985 institutioncode:ANWC" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "british columbia" ; Times: 2
+	Query: "Nyctimene" ; Times: 3
+	Query: "Assam class:Aves" ; Times: 5
+	Query: "pitta" ; Times: 1
+	Query: "genus:Hirundapus class:Aves" ; Times: 2
+	Query: "vntype:observation AND (NOT museum)" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 4
+	Query: "eggs" ; Times: 1
+	Query: "Metopidius indicus India" ; Times: 1
+	Query: "Macropus rufus" ; Times: 2
+	Query: "Andaman eggs" ; Times: 22
+	Query: "B30857" ; Times: 1
+	Query: "Page" ; Times: 2
+	Query: "Lepidodactylus orientalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 2
+	Query: "crayfish" ; Times: 2
+	Query: "specificepithet:trichroa genus:erythrura institutioncode:ANWC" ; Times: 1
+	Query: "genus:rhipidura (B28305) institutioncode:ANWC" ; Times: 1
+	Query: "drymodes superciliaris" ; Times: 3
+	Query: "country:&#34;malaysia&#34;" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "country:&#34;Netherlands&#34;" ; Times: 1
+	Query: "henicophaps" ; Times: 2
+	Query: "Goura scheepmakeri" ; Times: 3
+	Query: "Psittacella madaraszi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1416 download events in this period)
+Total number of records downloaded: 10333
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-09 ; Times: 5
+	Date: 2018-08-14 ; Times: 7
+	Date: 2018-08-15 ; Times: 5
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "order:Squamata" ; Times: 2
+	Query: "felis catus" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ecuador" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "vntype:specimen order:Squamata" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "podicipedidae" ; Times: 1
+	Query: "(Coracina papuensis) year &gt;= 1990 institutioncode:ANWC" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "catalognumber:B52739 institutioncode:ANWC" ; Times: 1
+
+
+End of report.
