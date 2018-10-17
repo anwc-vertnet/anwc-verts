@@ -1,0 +1,341 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 422
+Number of records retrieved in searches: 5495
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Solomon Islands ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: Singapore ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Papua New Guinea ; Times: 3
+	Country: Russia ; Times: 4
+	Country: United Kingdom ; Times: 14
+	Country: Guatemala ; Times: 2
+	Country: Australia ; Times: 32
+	Country: China ; Times: 4
+	Country: Peru ; Times: 50
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 5
+	Country: United States ; Times: 267
+	Country: New Zealand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 4
+	Date: 2018-07-01 ; Times: 16
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 14
+	Date: 2018-07-28 ; Times: 7
+	Date: 2018-07-29 ; Times: 8
+	Date: 2018-07-08 ; Times: 4
+	Date: 2018-07-09 ; Times: 8
+	Date: 2018-07-04 ; Times: 6
+	Date: 2018-07-05 ; Times: 8
+	Date: 2018-07-06 ; Times: 12
+	Date: 2018-07-21 ; Times: 10
+	Date: 2018-07-26 ; Times: 13
+	Date: 2018-07-27 ; Times: 10
+	Date: 2018-07-24 ; Times: 62
+	Date: 2018-07-25 ; Times: 14
+	Date: 2018-07-13 ; Times: 20
+	Date: 2018-07-12 ; Times: 11
+	Date: 2018-07-11 ; Times: 35
+	Date: 2018-07-10 ; Times: 12
+	Date: 2018-07-17 ; Times: 11
+	Date: 2018-07-16 ; Times: 20
+	Date: 2018-07-15 ; Times: 11
+	Date: 2018-07-14 ; Times: 6
+	Date: 2018-07-31 ; Times: 22
+	Date: 2018-07-30 ; Times: 12
+	Date: 2018-07-19 ; Times: 17
+	Date: 2018-07-18 ; Times: 14
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-23 ; Times: 17
+	Date: 2018-07-20 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "6917 AND psittaciformes" ; Times: 1
+	Query: "albion" ; Times: 1
+	Query: "2-1475 aves" ; Times: 1
+	Query: "7815" ; Times: 2
+	Query: "sparrow" ; Times: 1
+	Query: "2020 psittacidae" ; Times: 1
+	Query: "1435 psittacidae" ; Times: 1
+	Query: "Goura" ; Times: 1
+	Query: "1196 psittacidae" ; Times: 1
+	Query: "B06427" ; Times: 2
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "8589" ; Times: 1
+	Query: "Birds of paradise" ; Times: 1
+	Query: "Basiliscus" ; Times: 1
+	Query: "Pelagodroma marina mappable:1" ; Times: 1
+	Query: "insecta" ; Times: 2
+	Query: "Agapornis lilianae " ; Times: 6
+	Query: "3418" ; Times: 1
+	Query: "demon" ; Times: 2
+	Query: "specificepithet:versicolor" ; Times: 1
+	Query: "psittacella picta" ; Times: 1
+	Query: "Crotophaga major" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 2
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Riparia riparia mappable:1" ; Times: 1
+	Query: "reptiles" ; Times: 3
+	Query: "charmosyna" ; Times: 1
+	Query: "institutioncode:ANWC" ; Times: 2
+	Query: "specificepithet:Trichroa genus:Erythrura class:Aves" ; Times: 1
+	Query: "1676 psittaciformes" ; Times: 1
+	Query: "dinornis" ; Times: 1
+	Query: "Numenius phaeopus mappable:1" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 4
+	Query: "Cairina moschata mappable:1" ; Times: 1
+	Query: "6063" ; Times: 1
+	Query: "Oceanites oceanicus mappable:1" ; Times: 1
+	Query: "Crocodylus" ; Times: 1
+	Query: "family:Canidae" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Phalaropus lobatus mappable:1" ; Times: 1
+	Query: "cyanoptila" ; Times: 1
+	Query: "740 aves" ; Times: 1
+	Query: "aipysurus" ; Times: 2
+	Query: "Dorcopsulus vanheurni" ; Times: 1
+	Query: "Forpus coelestis mappable:1" ; Times: 1
+	Query: "6399" ; Times: 1
+	Query: "7252" ; Times: 1
+	Query: "203 psittaciformes aves" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 2
+	Query: "sordidus australia" ; Times: 1
+	Query: "&#34;Rheobatrachus&#34;" ; Times: 1
+	Query: "specificepithet:margarethae genus:charmosyna class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "2259" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 122
+	Query: "Calidris canutus mappable:1" ; Times: 1
+	Query: "starling" ; Times: 2
+	Query: "fairy" ; Times: 3
+	Query: "2796" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+	Query: "2250" ; Times: 3
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Miniopterus schreibersii" ; Times: 3
+	Query: "Jacana jacana mappable:1" ; Times: 1
+	Query: "carnivora" ; Times: 2
+	Query: "hydrelaps" ; Times: 1
+	Query: "(badius)" ; Times: 1
+	Query: "Astrotia" ; Times: 2
+	Query: "3704 aves psittacidae" ; Times: 1
+	Query: "basiliscus basiliscus" ; Times: 1
+	Query: "6917 psittacidae" ; Times: 1
+	Query: "Crypturellus tataupa" ; Times: 2
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Phalaropus fulicarius mappable:1" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "Thinocorus rumicivorus mappable:1" ; Times: 1
+	Query: "Bartramia longicauda mappable:1" ; Times: 1
+	Query: "feline" ; Times: 1
+	Query: "boyciana" ; Times: 2
+	Query: "6188 psittaciformes" ; Times: 2
+	Query: "specificepithet:lathami genus:Alectura stateprovince:&#34;New South Wales&#34; country:&#34;Australia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "House Sparrow" ; Times: 2
+	Query: "specificepithet:lathami genus:Alectura country:&#34;Australia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopard seal vntype:specimen" ; Times: 1
+	Query: "5840" ; Times: 1
+	Query: "Stercorarius pomarinus mappable:1" ; Times: 1
+	Query: "Seriema" ; Times: 1
+	Query: "Culicicapa ceylonensis country:&#34;India&#34;" ; Times: 1
+	Query: "bird of paradise" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "7396 Psittacidae" ; Times: 3
+	Query: "aves 7892" ; Times: 1
+	Query: "3318" ; Times: 1
+	Query: "7803 psittaciformes" ; Times: 1
+	Query: "order:Monotremata" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 2
+	Query: "Barn swallow" ; Times: 1
+	Query: "Butorides striata mappable:1" ; Times: 1
+	Query: "Leopard seal" ; Times: 2
+	Query: "aves 6399" ; Times: 2
+	Query: "Columba livia mappable:1" ; Times: 3
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "Ciconia boyciana" ; Times: 1
+	Query: "Sea snake" ; Times: 1
+	Query: "Arenaria interpres mappable:1" ; Times: 1
+	Query: "Regina York" ; Times: 5
+	Query: "locality:green rock" ; Times: 1
+	Query: "Mitu tuberosum" ; Times: 2
+	Query: "Aberdeen" ; Times: 2
+	Query: "genus:Grantiella" ; Times: 1
+	Query: "genus:charmosyna class:aves year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 1
+	Query: "aves 7892 c" ; Times: 1
+	Query: "6352 psittaciformes" ; Times: 1
+	Query: "Ardea alba mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "Egretta tricolor mappable:1" ; Times: 1
+	Query: "cruentata" ; Times: 1
+	Query: "Stercorarius parasiticus mappable:1" ; Times: 1
+	Query: "lonchura quinticolor" ; Times: 1
+	Query: "B10802" ; Times: 1
+	Query: "7373 psittacidae" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "trichoglossus haematodus" ; Times: 3
+	Query: "family:paridae" ; Times: 1
+	Query: "Maxomys" ; Times: 2
+	Query: "Assam" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "2796 aves" ; Times: 1
+	Query: "vultur" ; Times: 3
+	Query: "Bubulcus ibis mappable:1" ; Times: 1
+	Query: "genus:erythrura class:aves country:&#34;australia&#34;" ; Times: 1
+	Query: "Martin Island" ; Times: 1
+	Query: "Calidris melanotos mappable:1" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "mammals" ; Times: 2
+	Query: "2422" ; Times: 1
+	Query: "Dugong" ; Times: 2
+	Query: "specificepithet:albiscapa genus:rhipidura class:aves" ; Times: 1
+	Query: "Fregetta tropica mappable:1" ; Times: 1
+	Query: "psittacidae 3418" ; Times: 5
+	Query: "Anhinga anhinga mappable:1" ; Times: 1
+	Query: "chiropodomys" ; Times: 1
+	Query: "specificepithet:temporalis genus:Lophognathus" ; Times: 1
+	Query: "963" ; Times: 1
+	Query: "5958" ; Times: 1
+	Query: "Hypsilurus" ; Times: 1
+	Query: "Actitis macularius mappable:1" ; Times: 3
+	Query: "Uzbekistan" ; Times: 1
+	Query: "5083" ; Times: 1
+	Query: "8933" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "7931" ; Times: 1
+	Query: "acanthochelys" ; Times: 2
+	Query: "7287" ; Times: 1
+	Query: "Catoptrophorus semipalmatus" ; Times: 1
+	Query: "6399 psittacidae" ; Times: 1
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "pig" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Gallinago paraguaiae mappable:1" ; Times: 1
+	Query: "6505" ; Times: 1
+	Query: "B27073" ; Times: 1
+	Query: "kenya" ; Times: 1
+	Query: "7143 genus:Todiramphus" ; Times: 1
+	Query: "rodentia" ; Times: 1
+	Query: "Pachycephala rufiventris" ; Times: 2
+	Query: "Salamander" ; Times: 1
+	Query: "2543 psittacidae" ; Times: 1
+	Query: "Canidae" ; Times: 2
+	Query: "cardinal" ; Times: 3
+	Query: "specificepithet:rufifrons genus:Rhipidura" ; Times: 3
+	Query: "elephant" ; Times: 1
+	Query: "specificepithet:albiscapa genus:rhipidura class:aves year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "3704 aves" ; Times: 2
+	Query: "6188" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 3
+	Query: "2706" ; Times: 1
+	Query: "Limnodromus griseus mappable:1" ; Times: 1
+	Query: "Sitta europaea" ; Times: 1
+	Query: "specificepithet:Leucopyga genus:Lalage class:Aves" ; Times: 1
+	Query: "1552" ; Times: 1
+	Query: "Welcome swallow" ; Times: 4
+	Query: "Tree kangaroo" ; Times: 3
+	Query: "7826" ; Times: 1
+	Query: "3704" ; Times: 4
+	Query: "Eudocimus albus mappable:1" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Threskiornis molucca 100" ; Times: 1
+	Query: "psittacella brehmii" ; Times: 18
+	Query: "Pachycephala pectoralis myponga" ; Times: 2
+	Query: "Hunter Island" ; Times: 1
+	Query: "Numenius phaeopus new guinea" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "39.1 aves" ; Times: 1
+	Query: "genus:Dryocopus" ; Times: 3
+	Query: "c 5862" ; Times: 1
+	Query: "Barn Swallow" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 977 download events in this period)
+Total number of records downloaded: 3462
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 13
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-24 ; Times: 4
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "insecta" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "order:Squamata year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Rhipidura" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "Caloenas" ; Times: 1
+	Query: "Dorcopsulus vanheurni" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 2
+	Query: "Ciconia boyciana" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Regulus calendula" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+
+
+End of report.
