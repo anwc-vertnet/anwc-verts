@@ -1,0 +1,450 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 495
+Number of records retrieved in searches: 11193
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 7
+	Country: Italy ; Times: 3
+	Country: Ireland ; Times: 2
+	Country: Unknown ; Times: 32
+	Country: France ; Times: 17
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 9
+	Country: China ; Times: 11
+	Country: Belgium ; Times: 4
+	Country: Germany ; Times: 6
+	Country: Spain ; Times: 10
+	Country: Denmark ; Times: 29
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 236
+	Country: Switzerland ; Times: 99
+	Country: Russia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: Taiwan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 8
+	Date: 2018-12-09 ; Times: 9
+	Date: 2018-12-06 ; Times: 13
+	Date: 2018-12-19 ; Times: 11
+	Date: 2018-12-18 ; Times: 17
+	Date: 2018-12-31 ; Times: 11
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 7
+	Date: 2018-12-14 ; Times: 2
+	Date: 2018-12-17 ; Times: 65
+	Date: 2018-12-16 ; Times: 7
+	Date: 2018-12-11 ; Times: 112
+	Date: 2018-12-10 ; Times: 9
+	Date: 2018-12-13 ; Times: 7
+	Date: 2018-12-12 ; Times: 27
+	Date: 2018-12-20 ; Times: 18
+	Date: 2018-12-21 ; Times: 10
+	Date: 2018-12-22 ; Times: 5
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 8
+	Date: 2018-12-08 ; Times: 8
+	Date: 2018-12-27 ; Times: 6
+	Date: 2018-12-28 ; Times: 10
+	Date: 2018-12-07 ; Times: 39
+	Date: 2018-12-04 ; Times: 22
+	Date: 2018-12-05 ; Times: 20
+	Date: 2018-12-02 ; Times: 16
+	Date: 2018-12-03 ; Times: 17
+	Date: 2018-12-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "order:cetacea" ; Times: 1
+	Query: "pachyptila crassirostris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "8422" ; Times: 2
+	Query: "genus:Tyto catalognumber:B10681" ; Times: 1
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "eulabeornis" ; Times: 1
+	Query: "otus" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32474" ; Times: 1
+	Query: "Eos squamata" ; Times: 2
+	Query: "Red fox" ; Times: 1
+	Query: "canis lupus" ; Times: 3
+	Query: "Aplonis metallica new guinea" ; Times: 1
+	Query: "genus:Tyto catalognumber:B29972" ; Times: 1
+	Query: "crocodile" ; Times: 3
+	Query: "genus:Tyto catalognumber:B29971" ; Times: 1
+	Query: "Aleadryas rufinucha" ; Times: 1
+	Query: "genus:Tyto catalognumber:B52856" ; Times: 1
+	Query: "catalognumber:B32566" ; Times: 1
+	Query: "ANWC B46667" ; Times: 1
+	Query: "hipposideros" ; Times: 1
+	Query: "badger" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34580" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32596" ; Times: 1
+	Query: "ANWC B56219" ; Times: 1
+	Query: "Carduelis chloris eggs" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "roses" ; Times: 1
+	Query: "genus:Tyto catalognumber:B48788" ; Times: 1
+	Query: "genus:Tyto catalognumber:B52800" ; Times: 1
+	Query: "genus:Tyto year &gt;= 1987" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "aplonis minor" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "fisher" ; Times: 1
+	Query: "Myobatrachus gouldii vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 2
+	Query: "Pachycephala rufiventris" ; Times: 3
+	Query: "Tursiops" ; Times: 1
+	Query: "wing collection" ; Times: 1
+	Query: "Charadrius wilsonia" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2000 year &lt;= 2018 australia" ; Times: 1
+	Query: "8221" ; Times: 1
+	Query: "genus:Tyto catalognumber:B33806" ; Times: 1
+	Query: "myiagra cyanoleuca" ; Times: 3
+	Query: "specificepithet:brunnea" ; Times: 1
+	Query: "lamu" ; Times: 1
+	Query: "specificepithet:parvus" ; Times: 1
+	Query: "continent:Antarctica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tyto catalognumber:B55757" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34922" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53252" ; Times: 1
+	Query: "great frigatebird" ; Times: 3
+	Query: "genus:Tyto catalognumber:B34921" ; Times: 1
+	Query: "varanus indicus" ; Times: 1
+	Query: "Tropidonophis mairii" ; Times: 1
+	Query: "Burrowing owl" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32442" ; Times: 2
+	Query: "Leopold" ; Times: 1
+	Query: "genus:todiramphus class:aves (B33718)" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34627" ; Times: 1
+	Query: "genus:Tyto catalognumber:B10639" ; Times: 1
+	Query: "ANWC B52619" ; Times: 1
+	Query: "class:Aves stateprovince:California" ; Times: 2
+	Query: "Black Guillemot" ; Times: 1
+	Query: "&#34;1954-08-09&#34;" ; Times: 3
+	Query: "Calidris" ; Times: 1
+	Query: "genus:Tyto catalognumber:B10635" ; Times: 3
+	Query: "genus:Tyto year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "order:Primates " ; Times: 2
+	Query: "Tursiops truncatus mappable:1" ; Times: 1
+	Query: "catalognumber:B23510" ; Times: 2
+	Query: "locality:Ascension island" ; Times: 2
+	Query: "arenicola" ; Times: 1
+	Query: "ANWC B01393" ; Times: 2
+	Query: "4205 Pachycephala" ; Times: 1
+	Query: "Canis Lupus" ; Times: 1
+	Query: "pluvialis" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34489" ; Times: 3
+	Query: "lion" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "Myobatrachus gouldii vntype:specimen" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34576" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34577" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34579" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32427" ; Times: 1
+	Query: "temminckii" ; Times: 2
+	Query: "genus:Tyto catalognumber:B34363" ; Times: 1
+	Query: "Phoenicurus phoenicurus" ; Times: 2
+	Query: "herpestes" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 4
+	Query: "genus:Tyto catalognumber:B52914" ; Times: 1
+	Query: "Rissa tridactyla mappable:1" ; Times: 1
+	Query: "ANWC B02455" ; Times: 2
+	Query: "family:Passeridae" ; Times: 1
+	Query: "aplonis metallica ANWC" ; Times: 2
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32307" ; Times: 1
+	Query: "casuarius" ; Times: 1
+	Query: "Turdus merula" ; Times: 2
+	Query: "2173" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34498" ; Times: 4
+	Query: "genus:Tyto catalognumber:B32277" ; Times: 1
+	Query: "B26234" ; Times: 1
+	Query: "Abeomelomys sevia" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53265" ; Times: 1
+	Query: "king snake" ; Times: 1
+	Query: "Melanitta nigra mappable:1" ; Times: 1
+	Query: "Rattus" ; Times: 1
+	Query: "specificepithet:aegyptiaca genus:Alopochen" ; Times: 2
+	Query: "family:nectariniidae" ; Times: 1
+	Query: "amethistina" ; Times: 2
+	Query: "otus scops" ; Times: 1
+	Query: "class:aves stateprovince:california" ; Times: 44
+	Query: "genus:Tyto catalognumber:B34851" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32390" ; Times: 1
+	Query: "Myobatrachus gouldii" ; Times: 1
+	Query: "Rhipidura rufifrons year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "genus:Tyto" ; Times: 1
+	Query: "paradisaea rudolphi" ; Times: 1
+	Query: "montium" ; Times: 1
+	Query: "copperhead" ; Times: 8
+	Query: "ANWC B26234" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32415" ; Times: 1
+	Query: "genus:todiramphus class:aves (B44295)" ; Times: 1
+	Query: "catalognumber:B29294" ; Times: 1
+	Query: "5271" ; Times: 1
+	Query: "ANWC B02443" ; Times: 1
+	Query: "4816" ; Times: 1
+	Query: "deer" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "genus:erythrura class:aves (B32623) institutioncode:ANWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tyto catalognumber:B31681" ; Times: 1
+	Query: "genus:Tyto catalognumber:B31680" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34046" ; Times: 3
+	Query: "ANWC B26733" ; Times: 2
+	Query: "Aplonis Bougainville" ; Times: 1
+	Query: "ANWC B26736" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus family:ursidae country:&#34;Canada&#34; (british columbia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "NA" ; Times: 27
+	Query: "psephotus pulcherrimus" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34738" ; Times: 1
+	Query: "genus:Tyto catalognumber:B49834" ; Times: 1
+	Query: "phalacrocorax" ; Times: 2
+	Query: "genus:Tyto catalognumber:B53084" ; Times: 3
+	Query: "aplonis minor minor" ; Times: 1
+	Query: "naja naja india" ; Times: 1
+	Query: "Sterna albifrons mappable:1" ; Times: 1
+	Query: "genus:Crocodylus" ; Times: 1
+	Query: "aplonis tabuensis" ; Times: 1
+	Query: "northern shrike" ; Times: 2
+	Query: "Varanus giganteus" ; Times: 1
+	Query: "Paradisaeidae" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "ANWC B52556" ; Times: 2
+	Query: "genus:Tyto catalognumber:B34668" ; Times: 1
+	Query: "macgregoria pulchra" ; Times: 1
+	Query: "Fratercula arctica mappable:1" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "ANWC B26846" ; Times: 1
+	Query: "crocodylia" ; Times: 1
+	Query: "alligator" ; Times: 4
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32368" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34078" ; Times: 1
+	Query: "aplonis grandis" ; Times: 3
+	Query: "genus:Tyto catalognumber:B53249" ; Times: 2
+	Query: "genus:Tyto catalognumber:B53248" ; Times: 1
+	Query: "ANWC B25831" ; Times: 2
+	Query: "genus:Tyto catalognumber:B33873" ; Times: 1
+	Query: "genus:Tyto catalognumber:B55849" ; Times: 1
+	Query: "Lophorina" ; Times: 5
+	Query: "genus:Tyto catalognumber:B53245" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53244" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53247" ; Times: 1
+	Query: "aplonis fusca" ; Times: 1
+	Query: "Iceland Gull" ; Times: 1
+	Query: "Larus marinus mappable:1" ; Times: 1
+	Query: "genus:erythrura class:aves (B52739) institutioncode:ANWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "strigidae" ; Times: 2
+	Query: "genus:aplonis year &gt;= 2000 year &lt;= 2018 institutioncode:ANWC" ; Times: 1
+	Query: "specificepithet:pacificus genus:Puffinus" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "genus:Tyto catalognumber:B28679" ; Times: 1
+	Query: "country:&#34;china&#34;" ; Times: 9
+	Query: "locality:Ascension island basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tyto catalognumber:B29204" ; Times: 2
+	Query: "genus:Tyto catalognumber:B52809" ; Times: 1
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "falkland island" ; Times: 4
+	Query: "9861" ; Times: 1
+	Query: "Threskiornis molucca 100" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34644" ; Times: 2
+	Query: "vntype:specimen specificepithet:aegyptiaca genus:Alopochen" ; Times: 1
+	Query: "NA mappable:1" ; Times: 27
+	Query: "Alopochen aegyptiaca" ; Times: 3
+	Query: "echis carinatus india" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ecuador aves" ; Times: 1
+	Query: "Canis lupus" ; Times: 4
+	Query: "genus:Tyto catalognumber:B49840" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53254" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53255" ; Times: 1
+	Query: "Glaucidium passerinum" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53253" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53250" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53497" ; Times: 2
+	Query: "genus:Tyto catalognumber:B34493" ; Times: 1
+	Query: "Aplonis grandis grandis" ; Times: 1
+	Query: "locality:Texas stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53246" ; Times: 1
+	Query: "scolopax saturata" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34575" ; Times: 1
+	Query: "felis" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Raffles" ; Times: 1
+	Query: "Tropidonophis doriae" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34085" ; Times: 1
+	Query: "(montium)" ; Times: 1
+	Query: "Aplonis minor" ; Times: 2
+	Query: "lamu aves" ; Times: 2
+	Query: "genus:Tyto catalognumber:B32301" ; Times: 1
+	Query: "Aplonis metallica metallica" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32465" ; Times: 1
+	Query: "green rosella" ; Times: 3
+	Query: "aplonis fusca fusca" ; Times: 1
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:hemidactylus" ; Times: 1
+	Query: "mouse" ; Times: 1
+	Query: "genus:Tyto catalognumber:B29955" ; Times: 1
+	Query: "Aplonis fusca" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "woodpecker" ; Times: 1
+	Query: "Sphenomorphus muelleri" ; Times: 1
+	Query: "felidae" ; Times: 1
+	Query: "sphenomorphus muelleri" ; Times: 2
+	Query: "bluff lake" ; Times: 1
+	Query: "Sterna hirundo mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:B52862" ; Times: 1
+	Query: "kelp gull" ; Times: 1
+	Query: "king rail" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2000 year &lt;= 2018 country:australia" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "genus:aplonis year &gt;= 1995 year &lt;= 2018 institutioncode:ANWC" ; Times: 1
+	Query: "specificepithet:metallica genus:aplonis year &gt;= 2005 year &lt;= 2018" ; Times: 1
+	Query: "class:aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "eulabeornis vntype:specimen" ; Times: 3
+	Query: "carnivora" ; Times: 3
+	Query: "Larus argentatus mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:B34094" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 7
+	Query: "casuarius casuarius" ; Times: 2
+	Query: "genus:Tyto catalognumber:B48803" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32295" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "genus:Tyto catalognumber:B52826" ; Times: 1
+	Query: "rainbow snake" ; Times: 1
+	Query: "ANWC B09122" ; Times: 2
+	Query: "aplonis tabuensis country: fiji" ; Times: 1
+	Query: "Carduelis chloris" ; Times: 1
+	Query: "genus:Tyto catalognumber:B53251" ; Times: 1
+	Query: "genus:Tyto catalognumber:B44281" ; Times: 1
+	Query: "ANWC B02407" ; Times: 2
+	Query: "ANWC B08239" ; Times: 1
+	Query: "aplonis metallica" ; Times: 2
+	Query: "Daboia" ; Times: 1
+	Query: "genus:Tyto catalognumber:B32473" ; Times: 1
+	Query: "cormorant" ; Times: 1
+	Query: "Aplonis minor minor" ; Times: 2
+	Query: "genus:Tyto catalognumber:B48794" ; Times: 1
+	Query: "Larus fuscus mappable:1" ; Times: 1
+	Query: "county:&#34;Yolo&#34; stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Larus ridibundus mappable:1" ; Times: 2
+	Query: "genus:Tyto catalognumber:B52915" ; Times: 1
+	Query: "otariidae" ; Times: 1
+	Query: "reptiles" ; Times: 1
+	Query: "specificepithet:caretta genus:caretta" ; Times: 1
+	Query: "apodiformes" ; Times: 2
+	Query: "catalognumber:B38145" ; Times: 1
+	Query: "family:strigidae" ; Times: 2
+	Query: "ifrita" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 809 download events in this period)
+Total number of records downloaded: 13699
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 10
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-09 ; Times: 8
+	Date: 2018-12-10 ; Times: 4
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-30 ; Times: 2
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-17 ; Times: 6
+	Date: 2018-12-12 ; Times: 4
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "papua new guinea" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "desmognathus wrighti" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "peropteryx macrotis" ; Times: 1
+	Query: "order:Chiroptera class:Mammalia country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Agapornis" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "Chiroptera Cameroon" ; Times: 1
+	Query: "Myobatrachus gouldii vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "ecuador aves" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "vietnam" ; Times: 1
+	Query: "Glaucidium passerinum" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+
+
+End of report.
