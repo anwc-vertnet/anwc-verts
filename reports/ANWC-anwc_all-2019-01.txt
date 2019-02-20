@@ -1,0 +1,315 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 277
+Number of records retrieved in searches: 5405
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Turkey ; Times: 1
+	Country: Italy ; Times: 6
+	Country: Peru ; Times: 31
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 3
+	Country: Ecuador ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 12
+	Country: Spain ; Times: 5
+	Country: Ukraine ; Times: 2
+	Country: Netherlands ; Times: 6
+	Country: United States ; Times: 148
+	Country: Sweden ; Times: 4
+	Country: New Zealand ; Times: 23
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 18
+	Date: 2019-01-23 ; Times: 10
+	Date: 2019-01-26 ; Times: 4
+	Date: 2019-01-18 ; Times: 5
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 41
+	Date: 2019-01-15 ; Times: 6
+	Date: 2019-01-30 ; Times: 12
+	Date: 2019-01-17 ; Times: 9
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-11 ; Times: 11
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-03 ; Times: 9
+	Date: 2019-01-02 ; Times: 8
+	Date: 2019-01-29 ; Times: 8
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-01 ; Times: 25
+	Date: 2019-01-07 ; Times: 15
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 12
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-09 ; Times: 10
+	Date: 2019-01-22 ; Times: 13
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 8
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-08 ; Times: 20
+	Date: 2019-01-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cyanoptila" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "rat snake" ; Times: 2
+	Query: "tribolonotus gracilis" ; Times: 2
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "genus:Litoria specificepithet:nannotis" ; Times: 1
+	Query: "4224" ; Times: 1
+	Query: "vntype:specimen carettochelys" ; Times: 1
+	Query: "pectoral sandpiper" ; Times: 3
+	Query: "house finch" ; Times: 2
+	Query: "Porcupine" ; Times: 2
+	Query: "Eopsaltria australis" ; Times: 1
+	Query: "northern long-eared bat" ; Times: 1
+	Query: "Phylloscopus pulcher" ; Times: 2
+	Query: "Crypturellus obsoletus" ; Times: 4
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 3
+	Query: "Alligator snapping turtle" ; Times: 3
+	Query: "Ara macao" ; Times: 1
+	Query: "collection eggs" ; Times: 2
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "iowa" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "barbatus" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "bear" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "cyanoptila" ; Times: 2
+	Query: "Dicrurus bracteatus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "PICUMNUS" ; Times: 3
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Bolborhynchus lineola" ; Times: 1
+	Query: "class:Insecta " ; Times: 9
+	Query: "new guinea 1961" ; Times: 1
+	Query: "albania" ; Times: 1
+	Query: "varanus caudolineatus" ; Times: 1
+	Query: "carnivora" ; Times: 2
+	Query: "Brown Booby" ; Times: 1
+	Query: "Rheobatrachus" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "8442" ; Times: 4
+	Query: "family:Fringillidae" ; Times: 1
+	Query: "Crypturellus tataupa" ; Times: 1
+	Query: "sugar glider Petaurus breviceps" ; Times: 1
+	Query: "little egret" ; Times: 3
+	Query: "Sterna antillarum" ; Times: 1
+	Query: "Taudactylus diurnus" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 23
+	Query: "Crotophaga major" ; Times: 1
+	Query: "5843" ; Times: 1
+	Query: "Osteolaemus" ; Times: 2
+	Query: "specificepithet:papuana genus:Erythrura" ; Times: 3
+	Query: "specificepithet:macgregoriae genus:Amblyornis institutioncode:ANWC" ; Times: 1
+	Query: "amethistina" ; Times: 3
+	Query: "Phylloscopus pulcher mappable:1" ; Times: 2
+	Query: "specificepithet:papuana genus:erythrura" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "psephotus pulcherrimus" ; Times: 1
+	Query: "Dierochelys" ; Times: 1
+	Query: "papua 1961" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Timor Chalcophaps" ; Times: 1
+	Query: "ringtail" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "Chalcophaps" ; Times: 3
+	Query: "3464" ; Times: 1
+	Query: "ANWC B30007" ; Times: 2
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Carettochelys" ; Times: 2
+	Query: "Mitu tuberosum" ; Times: 1
+	Query: "ornithorhynchus" ; Times: 1
+	Query: "Accipiter albogularis" ; Times: 1
+	Query: "Monasa nigrifrons" ; Times: 1
+	Query: "8054" ; Times: 1
+	Query: "egypt" ; Times: 1
+	Query: "8745" ; Times: 1
+	Query: "stenella coeruleoalba" ; Times: 1
+	Query: "&#34;Canis lupus&#34;" ; Times: 2
+	Query: "vntype:specimen country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "weasel" ; Times: 2
+	Query: "stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "B42820" ; Times: 2
+	Query: "&#34;Macropus&#34; &#34;Macropus giganteus&#34;" ; Times: 1
+	Query: "“Porcupine”" ; Times: 1
+	Query: "specificepithet:Papuana genus:Erythrura" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "8945" ; Times: 1
+	Query: "Micropsitta" ; Times: 1
+	Query: "West Java Species" ; Times: 1
+	Query: "Cyrtodactylus" ; Times: 1
+	Query: "marine mammals" ; Times: 1
+	Query: "B09534" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Deer" ; Times: 1
+	Query: "specificepithet:cirrhata genus:Fratercula year &gt;= 1984 year &lt;= 1984 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "mammals" ; Times: 3
+	Query: "Pelagodroma marina" ; Times: 1
+	Query: "amphibians" ; Times: 1
+	Query: "9628" ; Times: 1
+	Query: "&#34;Vulpes vulpes&#34;" ; Times: 2
+	Query: "genus:Prosthemadera month &lt;= 1910 enddayofyear &lt;= 1880" ; Times: 2
+	Query: "(&#34;Ornithorhynchus anatinus&#34;)" ; Times: 1
+	Query: "&#34;Canis lupus&#34; AND (Dingo)" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Chelidoptera tenebrosa" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 2
+	Query: "Ara ararauna" ; Times: 1
+	Query: "(Ornithorhynchus anatinus)" ; Times: 1
+	Query: "Canis lupus" ; Times: 4
+	Query: "A01393" ; Times: 1
+	Query: "Ara chloropterus" ; Times: 1
+	Query: "petaurista petaurista" ; Times: 1
+	Query: "B48586" ; Times: 1
+	Query: "Varanus panoptes" ; Times: 2
+	Query: "Panorama" ; Times: 1
+	Query: "&#34;Ornithorhynchus anatinus&#34;" ; Times: 4
+	Query: "demon" ; Times: 1
+	Query: "Pyrrhura eggs" ; Times: 1
+	Query: "Actenoides" ; Times: 1
+	Query: "vntype:observation basisofrecord:HumanObservation" ; Times: 1
+	Query: "specificepithet:platurus genus:Pelamis" ; Times: 1
+	Query: "ninox japonica" ; Times: 1
+	Query: "carettochelys" ; Times: 2
+	Query: "falco peregrinus" ; Times: 5
+	Query: "(Oryctolagus cuniculus)" ; Times: 1
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:penicillata genus:Petrogale country:&#34;New Zealand&#34;" ; Times: 1
+	Query: "varanus giganteus" ; Times: 2
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Tocantins&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "west Java" ; Times: 1
+	Query: "vntype:specimen family:Carettochelyidae" ; Times: 9
+	Query: "specificepithet:cirrhata genus:Fratercula stateprovince:&#34;Alaska&#34; year &gt;= 1984 year &lt;= 1985" ; Times: 1
+	Query: "592-210" ; Times: 1
+	Query: "\4383" ; Times: 1
+	Query: "&#34;Burramys parvus&#34;" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "country:&#34;Sweden&#34;" ; Times: 2
+	Query: "aplonis minor minor" ; Times: 1
+	Query: "carnegie" ; Times: 1
+	Query: "Forpus coelestis" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "Iowa" ; Times: 1
+	Query: "Chalcophaps Christmas Island" ; Times: 1
+	Query: "Fregetta tropica" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias" ; Times: 1
+	Query: "vntype:specimen specificepithet:naja genus:Naja basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 2
+	Query: "Varanus caudolineatus" ; Times: 2
+	Query: "ANWC aplonis metallica" ; Times: 2
+	Query: "Varanus rosenbergi" ; Times: 3
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "catalognumber:M32051 institutioncode:ANWC" ; Times: 2
+	Query: "platypus" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina" ; Times: 2
+	Query: "White wagtail" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "specificepithet:penicillata genus:Petrogale (captive OR zoo)" ; Times: 1
+	Query: "b48520" ; Times: 2
+	Query: "thylacine" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 962 download events in this period)
+Total number of records downloaded: 1592
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 6
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-08 ; Times: 6
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cyanoptila" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "vntype:specimen carettochelys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:frenatus" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Osteolaemus" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "vntype:specimen family:Carettochelyidae" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Sulawesi&#34; country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "class:amphibia" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Carettochelys" ; Times: 1
+
+
+End of report.
