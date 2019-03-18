@@ -1,0 +1,309 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 263
+Number of records retrieved in searches: 4091
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: France ; Times: 13
+	Country: Ireland ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Israel ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Germany ; Times: 13
+	Country: Belgium ; Times: 7
+	Country: Thailand ; Times: 5
+	Country: Denmark ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 115
+	Country: Sweden ; Times: 2
+	Country: New Zealand ; Times: 8
+	Country: Mexico ; Times: 28
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 4
+	Country: Paraguay ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 4
+	Date: 2019-02-11 ; Times: 7
+	Date: 2019-02-10 ; Times: 8
+	Date: 2019-02-13 ; Times: 21
+	Date: 2019-02-12 ; Times: 33
+	Date: 2019-02-15 ; Times: 19
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-17 ; Times: 4
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-02 ; Times: 5
+	Date: 2019-02-03 ; Times: 8
+	Date: 2019-02-26 ; Times: 9
+	Date: 2019-02-01 ; Times: 6
+	Date: 2019-02-20 ; Times: 9
+	Date: 2019-02-07 ; Times: 12
+	Date: 2019-02-04 ; Times: 18
+	Date: 2019-02-05 ; Times: 7
+	Date: 2019-02-08 ; Times: 17
+	Date: 2019-02-09 ; Times: 7
+	Date: 2019-02-28 ; Times: 8
+	Date: 2019-02-24 ; Times: 4
+	Date: 2019-02-25 ; Times: 11
+	Date: 2019-02-27 ; Times: 9
+	Date: 2019-02-06 ; Times: 13
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "great argus" ; Times: 1
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "specificepithet:lathami genus:calyptorhynchus" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanotis genus:oriolus" ; Times: 1
+	Query: "microtis" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "Black salamander" ; Times: 1
+	Query: "Daboia russellii" ; Times: 1
+	Query: "Chelodina parkeri" ; Times: 1
+	Query: "country:(Kazakhstan)" ; Times: 1
+	Query: "Ardea sumatrana" ; Times: 5
+	Query: "heliornis fulica" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "reptiles" ; Times: 1
+	Query: "Russian Federation" ; Times: 3
+	Query: "Procellaria westlandica" ; Times: 2
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 3
+	Query: "porcupine" ; Times: 1
+	Query: "M33578" ; Times: 1
+	Query: "berylmys" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "1951-800" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Erophylla" ; Times: 1
+	Query: "Nactus new Britain" ; Times: 1
+	Query: "specificepithet:pictus genus:Chrysolophus class:Aves" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "specificepithet:alexandrae genus:Polytelis" ; Times: 1
+	Query: "terpsiphone atrocaudata" ; Times: 2
+	Query: "barn owl" ; Times: 1
+	Query: "varanus scalaris" ; Times: 3
+	Query: "specificepithet:castaneiventris genus:Monarcha" ; Times: 4
+	Query: "western grebe" ; Times: 1
+	Query: "genus:micropsitta" ; Times: 3
+	Query: "Henicophaps albifrons" ; Times: 1
+	Query: "Nothura maculosa" ; Times: 1
+	Query: "genus:Amblyornis" ; Times: 1
+	Query: "Pyrilia vulturina" ; Times: 1
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "specificepithet:canorus genus:Cuculus" ; Times: 2
+	Query: "Zoothera sibirica" ; Times: 1
+	Query: "country:(Russia)" ; Times: 3
+	Query: "Cherax destructor" ; Times: 1
+	Query: "genus:micropsitta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:PYRRHURA family:psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Thalassarche chrysostoma" ; Times: 2
+	Query: "doriae" ; Times: 1
+	Query: "Uzbekistan" ; Times: 2
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:pacificus genus:apus" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 3
+	Query: "fossil" ; Times: 1
+	Query: "cherax destructor" ; Times: 1
+	Query: "genus:leptotila family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sagittatus genus:oriolus" ; Times: 1
+	Query: "nana order:Anura" ; Times: 2
+	Query: "Terpsiphone atrocaudata" ; Times: 4
+	Query: "scutellatus" ; Times: 1
+	Query: "specificepithet:hypoinochrous genus:lorius" ; Times: 1
+	Query: "Chelodina reimanni" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "dromaius" ; Times: 2
+	Query: "Guaruba guarouba" ; Times: 1
+	Query: "Thinornis" ; Times: 6
+	Query: "Todiramphus B33718" ; Times: 2
+	Query: "russian federation" ; Times: 1
+	Query: "aplonis cantoroides" ; Times: 1
+	Query: "sylvilagus transitionalis virginia" ; Times: 1
+	Query: "Tadarida" ; Times: 1
+	Query: "Russia" ; Times: 2
+	Query: "atlantic puffin" ; Times: 2
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "polytelis alexandrae" ; Times: 5
+	Query: "Barn Owl" ; Times: 5
+	Query: "Pterodroma cookii" ; Times: 2
+	Query: "specificepithet:trichroa genus:erythrura class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:nana genus:Brachyphylla" ; Times: 1
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 6
+	Query: "genus:Parus country:(Russia)" ; Times: 1
+	Query: "Polytelis" ; Times: 2
+	Query: "russian federation vntype:specimen" ; Times: 1
+	Query: "country:Russia" ; Times: 2
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "Abroscopus" ; Times: 1
+	Query: "Sylvilagus TRANSITIONALIS west virginia" ; Times: 1
+	Query: "rhynchotus" ; Times: 1
+	Query: "Sylvilagus transitionalis west virginia" ; Times: 1
+	Query: "Chelodina kuchlingi" ; Times: 1
+	Query: "melampitta" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "Chelodina pritchardi" ; Times: 1
+	Query: "copperhead" ; Times: 3
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "(salamander)" ; Times: 1
+	Query: "Anomalopus brevicollis" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "mushroom" ; Times: 1
+	Query: "specificepithet:bowersi genus:berylmys" ; Times: 2
+	Query: "mammals" ; Times: 1
+	Query: "amphibians" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "Trichosurus caninus" ; Times: 2
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "genus:Acanthophis stateprovince:&#34;New South Wales&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Carnivora" ; Times: 2
+	Query: "Crocodylus johnstoni" ; Times: 9
+	Query: "nycticebus" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "pseudemydura" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavocinctus genus:oriolus" ; Times: 1
+	Query: "specificepithet:assimilis genus:Circus" ; Times: 1
+	Query: "sungrebe" ; Times: 1
+	Query: "B55958" ; Times: 3
+	Query: "golden frog" ; Times: 2
+	Query: "vntype:specimen genus:myzomela basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Varanus panoptes" ; Times: 18
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "varanus spenceri" ; Times: 2
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "morelia amethistina" ; Times: 1
+	Query: "egernia depressa" ; Times: 1
+	Query: "carettochelys" ; Times: 1
+	Query: "pachycephala bougainville" ; Times: 2
+	Query: "Sphenomorphus muelleri" ; Times: 1
+	Query: "setonix brachyurus" ; Times: 1
+	Query: "apis" ; Times: 1
+	Query: "varanus giganteus" ; Times: 1
+	Query: "B45812" ; Times: 1
+	Query: "specificepithet:genei genus:Larus" ; Times: 1
+	Query: "Mammalia mustelidae" ; Times: 1
+	Query: "salmond" ; Times: 1
+	Query: "vntype:specimen specificepithet:malachurus genus:stipiturus" ; Times: 1
+	Query: "Psittacula eggs" ; Times: 2
+	Query: "Phoebetria fusca" ; Times: 2
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "genus:CROTOPHAGA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "B53525" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "Macropus rufus" ; Times: 1
+	Query: "cairina moschata" ; Times: 1
+	Query: "salamander" ; Times: 3
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 1
+	Query: "Stegonotus cucullatus" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "institutioncode:anwc" ; Times: 1
+	Query: "vntype:specimen specificepithet:szalayi genus:oriolus" ; Times: 1
+	Query: "crayfish" ; Times: 2
+	Query: "order:chiroptera institutioncode:ANWC" ; Times: 1
+	Query: "B56068" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 1227 download events in this period)
+Total number of records downloaded: 2507
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 17
+	Country: Israel ; Times: 6
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 10
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-13 ; Times: 12
+	Date: 2019-02-11 ; Times: 6
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-17 ; Times: 6
+	Date: 2019-02-23 ; Times: 6
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "specificepithet:lathami genus:calyptorhynchus" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanotis genus:oriolus" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:hypoinochrous genus:lorius" ; Times: 1
+	Query: "vntype:specimen specificepithet:madagascariensis genus:foudia" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "ara macao" ; Times: 1
+	Query: "specificepithet:montanus genus:Parus country:&#34;Russia&#34;" ; Times: 1
+	Query: "Daboia russellii" ; Times: 1
+	Query: "Chelodina parkeri" ; Times: 1
+	Query: "Varanus panoptes" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+	Query: "Chelodina pritchardi" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "vntype:specimen specificepithet:sagittatus genus:oriolus" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Chelodina reimanni" ; Times: 1
+	Query: "berylmys" ; Times: 2
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 2
+	Query: "amazona albifrons" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavocinctus genus:oriolus" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "Chelodina kuchlingi" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 7
+	Query: "vntype:specimen specificepithet:szalayi genus:oriolus" ; Times: 1
+	Query: "micoureus" ; Times: 1
+	Query: "vntype:specimen genus:myzomela basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 2
+
+
+End of report.
