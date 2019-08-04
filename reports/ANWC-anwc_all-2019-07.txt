@@ -1,0 +1,457 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 464
+Number of records retrieved in searches: 10116
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 6
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 20
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 10
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 18
+	Country: Singapore ; Times: 4
+	Country: Germany ; Times: 3
+	Country: China ; Times: 1
+	Country: Belize ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: United States ; Times: 246
+	Country: Sweden ; Times: 3
+	Country: Vietnam ; Times: 3
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 101
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Macao ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 30
+	Date: 2019-07-18 ; Times: 61
+	Date: 2019-07-19 ; Times: 30
+	Date: 2019-07-08 ; Times: 63
+	Date: 2019-07-12 ; Times: 12
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 16
+	Date: 2019-07-11 ; Times: 11
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-17 ; Times: 19
+	Date: 2019-07-15 ; Times: 16
+	Date: 2019-07-02 ; Times: 7
+	Date: 2019-07-03 ; Times: 10
+	Date: 2019-07-23 ; Times: 13
+	Date: 2019-07-22 ; Times: 9
+	Date: 2019-07-21 ; Times: 4
+	Date: 2019-07-20 ; Times: 2
+	Date: 2019-07-27 ; Times: 3
+	Date: 2019-07-26 ; Times: 14
+	Date: 2019-07-25 ; Times: 8
+	Date: 2019-07-24 ; Times: 26
+	Date: 2019-07-30 ; Times: 18
+	Date: 2019-07-29 ; Times: 21
+	Date: 2019-07-28 ; Times: 17
+	Date: 2019-07-05 ; Times: 25
+	Date: 2019-07-04 ; Times: 8
+	Date: 2019-07-06 ; Times: 12
+	Date: 2019-07-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Pachycephala bougainville" ; Times: 1
+	Query: "daption capense year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "red-whiskered bulbul" ; Times: 1
+	Query: "Aplonis grandis bougainville" ; Times: 1
+	Query: "genus:Sturnus" ; Times: 1
+	Query: "Cacatua sulphurea" ; Times: 1
+	Query: "subalaris" ; Times: 1
+	Query: "genus:Uria specificepithet:lomvia" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "Paradisaea apoda" ; Times: 2
+	Query: "specificepithet:borin genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "pterodroma mollis" ; Times: 6
+	Query: "family:Podicipedidae class:Aves institutioncode:ANWC" ; Times: 6
+	Query: "pachyptila kerguelen" ; Times: 4
+	Query: "Scenopoeetes dentirostris" ; Times: 2
+	Query: "Pycnopygius stictocephalus" ; Times: 1
+	Query: "genus:Simoselaps family:elapidae" ; Times: 1
+	Query: "myzomela lafargei" ; Times: 1
+	Query: "genus:&#34;canis&#34;" ; Times: 1
+	Query: "fregetta year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "Paramythia montium" ; Times: 1
+	Query: "Sterna antillarum mappable:1" ; Times: 1
+	Query: "Ptiloris paradiseus" ; Times: 3
+	Query: "genus:Pyrrholaemus specificepithet:brunneus" ; Times: 1
+	Query: "Crenadactylus ocellatus" ; Times: 1
+	Query: "genus:Meleagris" ; Times: 1
+	Query: "Pycnoptilus floccosus" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "ceyx bougainville" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "house sparrow" ; Times: 1
+	Query: "Dasyornis brachypterus" ; Times: 2
+	Query: "Motacilla flava" ; Times: 2
+	Query: "genus:Pogonomys" ; Times: 1
+	Query: "B33684" ; Times: 1
+	Query: "genus:Tympanocryptis specificepithet:lineata" ; Times: 1
+	Query: "genus:Crenadactylus" ; Times: 1
+	Query: "genus:Sminthopsis specificepithet:crassicaudata" ; Times: 1
+	Query: "genus:Menetia specificepithet:greyii" ; Times: 1
+	Query: "porcupine" ; Times: 3
+	Query: "daption capense year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:Rhizomys specificepithet:pruinosus" ; Times: 1
+	Query: "Thinornis novaeseelandiae" ; Times: 1
+	Query: "Oreoscopus gutturalis" ; Times: 1
+	Query: "Haliaeetus leucogaster" ; Times: 1
+	Query: "vntype:specimen specificepithet:meninting genus:alcedo country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "fregetta year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:Toxorhamphus specificepithet:novaeguineae" ; Times: 1
+	Query: "genus:Vini specificepithet:australis" ; Times: 1
+	Query: "genus:Trichoglossus" ; Times: 1
+	Query: "7044" ; Times: 1
+	Query: "eremita" ; Times: 3
+	Query: "ptilinopus viridis bougainville" ; Times: 1
+	Query: "Peltohyas australis anwc" ; Times: 1
+	Query: "country:&#34;Russia&#34; Polysticta stelleri" ; Times: 1
+	Query: "family:podicipedidae institutioncode:ANWC" ; Times: 1
+	Query: "pelagodroma marina new zealand" ; Times: 1
+	Query: "primates" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Pagodroma nivea" ; Times: 2
+	Query: "family:psittacidae mappable:1 year&gt;=2000 year&lt;=2001" ; Times: 1
+	Query: "genus:Tesia specificepithet:cyaniventer" ; Times: 1
+	Query: "specificepithet:penicillata genus:Petrogale" ; Times: 3
+	Query: "Nephrurus wheeleri" ; Times: 2
+	Query: "genus:Saiphos" ; Times: 1
+	Query: "Thylacinus" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "genus:Litoria specificepithet:castanea" ; Times: 1
+	Query: "oceanodroma" ; Times: 1
+	Query: "pelagodroma new zealand" ; Times: 2
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "fairy" ; Times: 1
+	Query: "bandicota bengalensis" ; Times: 4
+	Query: "genus:Gallus" ; Times: 1
+	Query: "Micropsitta finschii bougainville" ; Times: 1
+	Query: "Todiramphus leucopygius bougainville" ; Times: 1
+	Query: "Sterna albifrons mappable:1" ; Times: 1
+	Query: "Rhipidura rufifrons bougainville" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "Crocodylia" ; Times: 3
+	Query: "genus:Pyrrhura specificepithet:frontalis" ; Times: 1
+	Query: "Chalcopsitta cardinalis" ; Times: 1
+	Query: "Aplonis cantoroides bougainville" ; Times: 1
+	Query: "specificepithet:berdmorei genus:Berylmys" ; Times: 3
+	Query: "Berylmys berdmorei" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 4
+	Query: "pachyptila salvini" ; Times: 2
+	Query: "Chalcopsitta cardinalis bougainville" ; Times: 1
+	Query: "genus:Pardalotus specificepithet:punctatus" ; Times: 1
+	Query: "lion" ; Times: 2
+	Query: "coypu" ; Times: 1
+	Query: "pelagodroma marina year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Papua new Guinea&#34;" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 8
+	Query: "myzomela lafargei bougainville" ; Times: 1
+	Query: "specificepithet:sevia genus:Abeomelomys" ; Times: 3
+	Query: "genus:Antechinus specificepithet:stuartii" ; Times: 1
+	Query: "Oceanites oceanicus" ; Times: 2
+	Query: "genus:Bettongia specificepithet:penicillata" ; Times: 1
+	Query: "genus:Crocodylus mappable:1" ; Times: 2
+	Query: "Micropsitta pusio" ; Times: 1
+	Query: "genus:Cercartetus specificepithet:concinnus" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "family:Sulidae institutioncode:ANWC" ; Times: 1
+	Query: "genus:Haliaeetus" ; Times: 1
+	Query: "monarcha leucotis" ; Times: 1
+	Query: "gehyra mutilata" ; Times: 2
+	Query: "Pseudothecadactylus lindneri" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1970 year &lt;= 2019 Antarctica" ; Times: 1
+	Query: "genus:Myzomela specificepithet:erythrocephala" ; Times: 1
+	Query: "Oceanites oceanicus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "genus:hemidactylus" ; Times: 1
+	Query: "mollis" ; Times: 1
+	Query: "Eudyptula" ; Times: 1
+	Query: "genus:eurostopodus class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Cyanoramphus eggs" ; Times: 1
+	Query: "genus:Poliocephalus institutioncode:ANWC" ; Times: 1
+	Query: "Elseya dentata" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "northern harrier" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 1
+	Query: "Charmosyna margarethae" ; Times: 1
+	Query: "Myiagra ferrocyanea bougainville" ; Times: 1
+	Query: "specificepithet:calligastra genus:dendrelaphis country:&#34;australia&#34;" ; Times: 1
+	Query: "genus:Coccyzus specificepithet:erythopthalmus" ; Times: 1
+	Query: "coracina holopolia bougainville" ; Times: 1
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 1
+	Query: "genus:Accipiter specificepithet:cooperi" ; Times: 1
+	Query: "Coracina lineata bougainville" ; Times: 1
+	Query: "Emblema pictum" ; Times: 2
+	Query: "Tadarida" ; Times: 2
+	Query: "Russia" ; Times: 1
+	Query: "procellaria westlandica" ; Times: 2
+	Query: "specificepithet:campbelli genus:Phalacrocorax institutioncode:ANWC" ; Times: 1
+	Query: "B45791 ANWC" ; Times: 1
+	Query: "coracina tenuirostris" ; Times: 2
+	Query: "Peltohyas australis" ; Times: 3
+	Query: "Charmosyna pulchella" ; Times: 1
+	Query: "Calyptorhynchus funereus" ; Times: 1
+	Query: "coracina bougainville" ; Times: 1
+	Query: "pelagodroma marina year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "Polytelis swainsonii" ; Times: 1
+	Query: "Tyto alba AND Island" ; Times: 1
+	Query: "Macgregoria pulchra" ; Times: 1
+	Query: "Polytelis anthopeplus" ; Times: 1
+	Query: "pachyptila desolata kerguelen" ; Times: 1
+	Query: "UK" ; Times: 1
+	Query: "genus:Tarsipes specificepithet:rostratus" ; Times: 1
+	Query: "Ardeotis australis" ; Times: 2
+	Query: "0453" ; Times: 1
+	Query: "Cladorhynchus leucocephalus anwc" ; Times: 1
+	Query: "pachyptila desolata year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:melanitta class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "pachyptila turtur new zealand" ; Times: 1
+	Query: "genus:Rhizomys specificepithet:sumatrensis" ; Times: 1
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "Thylacinus vntype:specimen" ; Times: 4
+	Query: "stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Rhagologus" ; Times: 4
+	Query: "Carphodactylus laevis" ; Times: 1
+	Query: "specificepithet:Forbesi class:Aves" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 7
+	Query: "Ducula rubricera" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 3
+	Query: "Oreopsittacus arfaki" ; Times: 2
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "ORCHID" ; Times: 1
+	Query: "family:phalacrocoracidae institutioncode:ANWC" ; Times: 1
+	Query: "Rhipidura cockerelli bougainville" ; Times: 1
+	Query: "Alisterus scapularis mappable:1" ; Times: 1
+	Query: "genus:Phyllostomus specificepithet:elongatus" ; Times: 1
+	Query: "Atrichornis clamosus" ; Times: 7
+	Query: "Elseya country:Indonesia" ; Times: 5
+	Query: "Phyllurus platurus" ; Times: 2
+	Query: "Saltuarius cornutus" ; Times: 2
+	Query: "Thylacine" ; Times: 1
+	Query: "genus:Rynchops specificepithet:niger" ; Times: 1
+	Query: "Polysticta stelleri" ; Times: 3
+	Query: "Oreostruthus fuliginosus" ; Times: 5
+	Query: "chloris bougainville" ; Times: 1
+	Query: "sula leucogaster" ; Times: 4
+	Query: "pachyptila turtur year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "holopolia bougainville" ; Times: 1
+	Query: "genus:Caretta specificepithet:caretta" ; Times: 1
+	Query: "squirrel" ; Times: 1
+	Query: "pachyptila crassirostris year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:Limnodromus " ; Times: 1
+	Query: "python" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "musa" ; Times: 1
+	Query: "Pelagodroma marina" ; Times: 1
+	Query: "genus:Dipus specificepithet:sagitta" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "Cladorhynchus Cladorhynchus" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Neophema petrophila" ; Times: 2
+	Query: "Cursorius cursor" ; Times: 1
+	Query: "genus:Stagonopleura specificepithet:bella" ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "pachyptila crassirostris" ; Times: 2
+	Query: "genus:Pandion" ; Times: 1
+	Query: "genus:Lamprolepis" ; Times: 1
+	Query: "family:Diomedeidae institutioncode:ANWC" ; Times: 1
+	Query: "specificepithet:australis genus:Ardeotis" ; Times: 3
+	Query: "barbatus bougainville" ; Times: 1
+	Query: "Diplodactylus vittatus" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 1
+	Query: "hydrophis caerulescens" ; Times: 3
+	Query: "myotis" ; Times: 2
+	Query: "family:anatidae institutioncode:ANWC" ; Times: 1
+	Query: "Auburn" ; Times: 1
+	Query: "puffinus assimilis" ; Times: 1
+	Query: "anser anser" ; Times: 2
+	Query: "Abeomelomys sevia" ; Times: 2
+	Query: "genus:Poliocephalus family:Podicipedidae class:Aves institutioncode:ANWC" ; Times: 1
+	Query: "Daphoenositta miranda miranda" ; Times: 1
+	Query: "Poephila cincta" ; Times: 1
+	Query: "pachyptila desolata macquarie" ; Times: 1
+	Query: "catalognumber:B46624" ; Times: 1
+	Query: "A947" ; Times: 1
+	Query: "Cracticus cassicus" ; Times: 2
+	Query: "aves eremita" ; Times: 2
+	Query: "genus:Pseudemoia specificepithet:spenceri" ; Times: 1
+	Query: "Hooded Pitta" ; Times: 3
+	Query: "dingo specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "pachyptila macquarie" ; Times: 7
+	Query: "&#34;Lacey&#34;" ; Times: 1
+	Query: "Archboldia papuensis" ; Times: 1
+	Query: "genus:eurostopodus class:aves" ; Times: 1
+	Query: "zosterops bougainville" ; Times: 1
+	Query: "Ptiloris paradiseus ANWC" ; Times: 1
+	Query: "genus:Porzana specificepithet:fluminea" ; Times: 1
+	Query: "genus:Trichosurus specificepithet:vulpecula" ; Times: 1
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "vestitus" ; Times: 1
+	Query: "genus:Acanthochelys specificepithet:spixii" ; Times: 1
+	Query: "python reptilia" ; Times: 1
+	Query: "genus:Dasyurus specificepithet:hallucatus" ; Times: 1
+	Query: "Cacatua ducorpsii mappable:1" ; Times: 1
+	Query: "Aplonis metallica bougainville" ; Times: 1
+	Query: "Trichodere cockerelli" ; Times: 1
+	Query: "Psittacella brehmii" ; Times: 2
+	Query: "pterodroma magentae" ; Times: 9
+	Query: "pachyptila auckland" ; Times: 3
+	Query: "Amphibians" ; Times: 1
+	Query: "Rhagologus" ; Times: 1
+	Query: "procellaria" ; Times: 2
+	Query: "Cladorhynchus leucocephalus" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 6
+	Query: "Alisterus chloropterus" ; Times: 1
+	Query: "pelagodroma year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "country:&#34;mexico&#34; institutioncode:ANWC" ; Times: 1
+	Query: "Platycercus venustus" ; Times: 1
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 1
+	Query: "family:ardeidae institutioncode:ANWC" ; Times: 1
+	Query: "Calamanthus fuliginosus" ; Times: 1
+	Query: "Prionodura newtoniana" ; Times: 4
+	Query: "Esacus recurvirostris" ; Times: 2
+	Query: "passer domesticus" ; Times: 2
+	Query: "Phyllurus" ; Times: 1
+	Query: "Micropsitta bruijnii" ; Times: 1
+	Query: "genus:Petrogale specificepithet:penicillata" ; Times: 1
+	Query: "Aerodramus papuensis" ; Times: 2
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "Neophema chrysostoma" ; Times: 4
+	Query: "ptilinopus viridis" ; Times: 1
+	Query: "Fregetta grallaria grallaria" ; Times: 1
+	Query: "todiramphus chloris bougainville" ; Times: 1
+	Query: "Aprosmictus erythropterus mappable:1" ; Times: 1
+	Query: "Platycercus icterotis" ; Times: 1
+	Query: "crassirostris year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 3
+	Query: "genus:Morus " ; Times: 1
+	Query: "genus:Heleioporus specificepithet:eyrei" ; Times: 1
+	Query: "pelamis platurus" ; Times: 4
+	Query: "Ducula rubricera bougainville" ; Times: 1
+	Query: "brown booby" ; Times: 2
+	Query: "todiramphus bougainville" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "pachyptila desolata" ; Times: 1
+	Query: "specificepithet:nesiotis genus:Anas institutioncode:ANWC" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "gehyra oceanica" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 6
+	Query: "genus:Chelus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Sipodotus wallacii" ; Times: 1
+	Query: "Cacatua galerita mappable:1" ; Times: 1
+	Query: "family:threskiornithidae institutioncode:ANWC" ; Times: 1
+	Query: "Pygopus nigriceps" ; Times: 1
+	Query: "genus:Microeca specificepithet:papuana" ; Times: 1
+	Query: "oceanica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 985 download events in this period)
+Total number of records downloaded: 7286
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 14
+	Country: Australia ; Times: 8
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 8
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-26 ; Times: 7
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 5
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-12 ; Times: 5
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Carphodactylus laevis" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "specificepithet:berdmorei genus:Berylmys" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+	Query: "family:Sulidae institutioncode:ANWC" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "Elseya novaeguineae" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "Phyllurus platurus" ; Times: 1
+	Query: "Saltuarius cornutus" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "bandicota bengalensis" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Elseya dentata" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "family:anatidae institutioncode:ANWC" ; Times: 1
+	Query: "family:phalacrocoracidae institutioncode:ANWC" ; Times: 1
+	Query: "Scincidae" ; Times: 1
+	Query: "Poephila cincta" ; Times: 1
+	Query: "family:podicipedidae institutioncode:ANWC" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "family:Diomedeidae institutioncode:ANWC" ; Times: 1
+	Query: "Diplodactylus vittatus" ; Times: 1
+	Query: "Nephrurus wheeleri" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Pseudothecadactylus lindneri" ; Times: 1
+	Query: "family:threskiornithidae institutioncode:ANWC" ; Times: 1
+	Query: "Pygopus nigriceps" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "family:ardeidae institutioncode:ANWC" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
