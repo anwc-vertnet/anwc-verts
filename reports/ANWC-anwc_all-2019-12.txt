@@ -1,0 +1,246 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 212
+Number of records retrieved in searches: 3365
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 11
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 14
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 8
+	Country: China ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Poland ; Times: 3
+	Country: Spain ; Times: 3
+	Country: Netherlands ; Times: 7
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 111
+	Country: Mexico ; Times: 20
+	Country: Uruguay ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 6
+	Date: 2019-12-24 ; Times: 9
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-26 ; Times: 7
+	Date: 2019-12-20 ; Times: 5
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-22 ; Times: 9
+	Date: 2019-12-29 ; Times: 7
+	Date: 2019-12-28 ; Times: 4
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 10
+	Date: 2019-12-11 ; Times: 6
+	Date: 2019-12-12 ; Times: 21
+	Date: 2019-12-13 ; Times: 10
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 5
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-31 ; Times: 3
+	Date: 2019-12-09 ; Times: 13
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 5
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-04 ; Times: 14
+	Date: 2019-12-03 ; Times: 7
+	Date: 2019-12-02 ; Times: 48
+	Date: 2019-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "Apus pacificus" ; Times: 1
+	Query: "genus:canis family:canidae class:mammalia" ; Times: 1
+	Query: "Stresemannia bougainvillei" ; Times: 3
+	Query: "mallard duck" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Macgregoria" ; Times: 2
+	Query: "Eagle valley" ; Times: 1
+	Query: "Nyctyornis" ; Times: 1
+	Query: "Varanus tristis" ; Times: 3
+	Query: "boydii" ; Times: 2
+	Query: "cane toad" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 1
+	Query: "tufted duck" ; Times: 2
+	Query: "Caretta caretta  mappable:1" ; Times: 2
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 2
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "Feline" ; Times: 1
+	Query: "genus:Nyctyornis" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 17
+	Query: "pterodroma macroptera" ; Times: 3
+	Query: "Otus lettia" ; Times: 1
+	Query: "genus:canis family:canidae" ; Times: 1
+	Query: "austrelaps" ; Times: 1
+	Query: "wood duck" ; Times: 1
+	Query: "Callipepla californica californica" ; Times: 1
+	Query: "Eudocimus ibis" ; Times: 1
+	Query: "(Antarctica)" ; Times: 1
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "class:Aves stateprovince:California" ; Times: 1
+	Query: "Accipiter AND Island" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 5
+	Query: "Falco peregrinus" ; Times: 5
+	Query: "wild boar" ; Times: 1
+	Query: "bird eggs" ; Times: 3
+	Query: "Ashbyia lovensis" ; Times: 11
+	Query: "Thorny devil" ; Times: 2
+	Query: "nicobar pigeon" ; Times: 1
+	Query: "White Ibis" ; Times: 2
+	Query: "Uperoleia littlejohni" ; Times: 1
+	Query: "gbifdatasetid:0debafd0-6c8a-11de-8225-b8a03c50a862" ; Times: 4
+	Query: "platurus" ; Times: 1
+	Query: "Melogale" ; Times: 1
+	Query: "specificepithet:longicauda genus:Melanocharis year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Planigale ingrami" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "Chelonia mydas  mappable:1" ; Times: 2
+	Query: "Cetacea" ; Times: 1
+	Query: "specificepithet:paradisaea genus:Sterna continent:Europe" ; Times: 1
+	Query: "amethistina" ; Times: 10
+	Query: "Phascomurexia naso" ; Times: 5
+	Query: "artiodactyla" ; Times: 1
+	Query: "pagodroma" ; Times: 2
+	Query: "ibis" ; Times: 1
+	Query: "corvus meeki" ; Times: 1
+	Query: "Pelamis platurus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 2
+	Query: "Pyrilia pyrilia" ; Times: 1
+	Query: "Varanus storri" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "genus:hirundapus class:aves year &gt;= 1980" ; Times: 1
+	Query: "peregrine falcon" ; Times: 2
+	Query: "class:aves stateprovince:&#34;minas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "Morelia variegata" ; Times: 1
+	Query: "Gallicolumba" ; Times: 1
+	Query: "austrelaps labialis" ; Times: 1
+	Query: "liasis institutioncode:ANWC" ; Times: 1
+	Query: "liasis fuscus" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Greenland" ; Times: 1
+	Query: "san francisco" ; Times: 1
+	Query: "class:Mammalia continent:Africa" ; Times: 2
+	Query: "HARRIER" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "melampitta" ; Times: 2
+	Query: "specificepithet:amethistina country:&#34;Indonesia&#34;" ; Times: 2
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 2
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "squirrel" ; Times: 1
+	Query: "coracina tenuirostris" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "genus:Rattus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "greylag goose" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Jammu and Kashmir&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "genus:Egretta" ; Times: 1
+	Query: "Timm" ; Times: 1
+	Query: "Amalocichla sclateriana" ; Times: 3
+	Query: "genus:Tachyglossus country:&#34;New Guinea&#34;" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 2
+	Query: "Megadyptes antipodes" ; Times: 1
+	Query: "Melanocharis longicauda" ; Times: 5
+	Query: "Mia" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "Himantopus AND Island" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "morelia amethistina" ; Times: 2
+	Query: "ave" ; Times: 1
+	Query: "hirundapus" ; Times: 1
+	Query: "stateprovince:&#34;Koh Kong&#34; country:&#34;Cambodia&#34;" ; Times: 3
+	Query: "Numida+meleagris" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 2
+	Query: "Salamander" ; Times: 1
+	Query: "spinipes" ; Times: 2
+	Query: "eastern marsh harrier" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 1
+	Query: "order:Charadriiformes country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 1
+	Query: "specificepithet:corroboree genus:Pseudophryne" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "gbifdatasetid:0debafd0-6c8a-11de-8225-b8a03c50a862 amethistina" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "Buteo jamaicensis 1937" ; Times: 1
+	Query: "specificepithet:perdicaria genus:nothoprocta family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Troglodytidae" ; Times: 1
+	Query: "Oreostruthus fuliginosus" ; Times: 2
+	Query: "Antarctica" ; Times: 1
+	Query: "spotted turtle" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 596 download events in this period)
+Total number of records downloaded: 323
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 11
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 9
+	Date: 2019-12-12 ; Times: 4
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "san francisco" ; Times: 1
+	Query: "Melogale" ; Times: 1
+	Query: "Varanus tristis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "spinipes" ; Times: 3
+	Query: "eastern marsh harrier" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 2
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "specificepithet:elegans genus:Thylamys" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Timm" ; Times: 1
+	Query: "genus:Tachyglossus country:&#34;New Guinea&#34;" ; Times: 1
+	Query: "Varanus storri" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+
+
+End of report.
