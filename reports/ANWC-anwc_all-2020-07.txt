@@ -1,0 +1,362 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 507
+Number of records retrieved in searches: 14580
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Ireland ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 5
+	Country: Peru ; Times: 9
+	Country: Laos ; Times: 12
+	Country: Argentina ; Times: 8
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 26
+	Country: Germany ; Times: 32
+	Country: Thailand ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 15
+	Country: United States ; Times: 128
+	Country: Sweden ; Times: 6
+	Country: Pakistan ; Times: 1
+	Country: Mexico ; Times: 126
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 6
+	Country: Malaysia ; Times: 101
+	Country: Austria ; Times: 1
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 15
+	Date: 2020-07-08 ; Times: 13
+	Date: 2020-07-21 ; Times: 49
+	Date: 2020-07-20 ; Times: 17
+	Date: 2020-07-27 ; Times: 83
+	Date: 2020-07-26 ; Times: 6
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 32
+	Date: 2020-07-01 ; Times: 6
+	Date: 2020-07-03 ; Times: 8
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 9
+	Date: 2020-07-07 ; Times: 15
+	Date: 2020-07-06 ; Times: 12
+	Date: 2020-07-24 ; Times: 10
+	Date: 2020-07-23 ; Times: 25
+	Date: 2020-07-29 ; Times: 21
+	Date: 2020-07-18 ; Times: 37
+	Date: 2020-07-19 ; Times: 19
+	Date: 2020-07-12 ; Times: 8
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 6
+	Date: 2020-07-11 ; Times: 7
+	Date: 2020-07-16 ; Times: 17
+	Date: 2020-07-31 ; Times: 5
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-15 ; Times: 7
+	Date: 2020-07-28 ; Times: 50
+	Date: 2020-07-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "peacock" ; Times: 1
+	Query: "Sterna aurantia" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "anwc year &gt; 1990 Drymodes brunneopygia" ; Times: 1
+	Query: "chionis minor" ; Times: 2
+	Query: "genus:myzomela year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "pelamis platurus" ; Times: 1
+	Query: "Hipposideros diadema" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "Manucodia ater" ; Times: 2
+	Query: "fruit" ; Times: 1
+	Query: "house sparrow" ; Times: 3
+	Query: "Callosciurus" ; Times: 1
+	Query: "reptiles" ; Times: 1
+	Query: "genus:Rattus country:&#34;Thailand&#34;" ; Times: 1
+	Query: "sus" ; Times: 2
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "Rhizomys pruinosus AND Vietnam" ; Times: 1
+	Query: "manis crassicaudata" ; Times: 1
+	Query: "Dama dama" ; Times: 2
+	Query: "python" ; Times: 1
+	Query: "B27204" ; Times: 1
+	Query: "anwc year &gt; 1990 Podiceps cristatus" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "notoryctes" ; Times: 1
+	Query: "B39186" ; Times: 1
+	Query: "4567" ; Times: 2
+	Query: "peafowl" ; Times: 3
+	Query: "(Alligator )" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "Hylomys" ; Times: 1
+	Query: "anwc year &gt; 1990 Pomatostomus ruficeps" ; Times: 1
+	Query: "country:&#34;Argentina&#34;" ; Times: 5
+	Query: "Haematopus moquini" ; Times: 2
+	Query: "family:felidae" ; Times: 1
+	Query: "genus:archboldia" ; Times: 2
+	Query: "common myna" ; Times: 3
+	Query: "alauda arvensis" ; Times: 1
+	Query: "catalognumber:B16800 institutioncode:ANWC" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 3
+	Query: "anwc year &gt; 1990" ; Times: 1
+	Query: "mosquito" ; Times: 1
+	Query: "class:Aves stateprovince:California" ; Times: 1
+	Query: "catalognumber:B43280 institutioncode:ANWC" ; Times: 2
+	Query: "Rattus losea" ; Times: 9
+	Query: "Rex" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Crocodylus porosus" ; Times: 1
+	Query: "acanthophis" ; Times: 3
+	Query: "stat" ; Times: 1
+	Query: "Chiropodomys gliroides\\\\\\\\\\\\" ; Times: 1
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "Aprosmictus erythropterus" ; Times: 1
+	Query: "catalognumber:B47296 institutioncode:ANWC" ; Times: 2
+	Query: "anwc year &gt; 1990 Turnix velox" ; Times: 1
+	Query: "aerodramus nuditarsus" ; Times: 1
+	Query: "King snake" ; Times: 1
+	Query: "catalognumber:B38802 institutioncode:ANWC" ; Times: 1
+	Query: "continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 2
+	Query: "Paradoxurus hermaphroditus" ; Times: 1
+	Query: "Rattus exulans" ; Times: 1
+	Query: "anwc year &gt; 1990 Falcunculus frontatus" ; Times: 1
+	Query: "(abernathy)" ; Times: 1
+	Query: "vntype:specimen genus:Leopoldamys family:Muridae distance(location,geopoint(19.83501837870252,103.74023437499997))&lt;100000" ; Times: 1
+	Query: "catalognumber:B45800 institutioncode:ANWC" ; Times: 2
+	Query: "fossil" ; Times: 1
+	Query: "CANIS" ; Times: 1
+	Query: "Cetacea" ; Times: 2
+	Query: "anwc year &gt; 1990 climacteris rufus" ; Times: 1
+	Query: "genus:Rattus" ; Times: 1
+	Query: "5867 aves" ; Times: 1
+	Query: "2201" ; Times: 1
+	Query: "Dendrelaphis New Guinea" ; Times: 2
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "country:&#34;Malaysia&#34;" ; Times: 2
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "B27024" ; Times: 1
+	Query: "country:&#34;Laos&#34;" ; Times: 1
+	Query: "catalognumber:B40314 institutioncode:ANWC" ; Times: 2
+	Query: "catalognumber:B33900 institutioncode:ANWC" ; Times: 2
+	Query: "catalognumber:B45774 institutioncode:ANWC" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "locality:Laos" ; Times: 1
+	Query: "monarch" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:mus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Rhinolophidae" ; Times: 1
+	Query: "Malaysia" ; Times: 1
+	Query: "Leopoldamys" ; Times: 1
+	Query: "anwc year &gt; 1990 Himantopus himantopus" ; Times: 1
+	Query: "niviventer fulvescens" ; Times: 1
+	Query: "Mammals" ; Times: 1
+	Query: "family:Dasyuridae (zoo OR captive)" ; Times: 1
+	Query: "Psittacidae eggs" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 121
+	Query: "catalognumber:B16696 institutioncode:ANWC" ; Times: 2
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "canis lupus lupus" ; Times: 2
+	Query: "catalognumber:B39535 institutioncode:ANWC" ; Times: 2
+	Query: "austria" ; Times: 1
+	Query: "B06399" ; Times: 1
+	Query: "canis" ; Times: 2
+	Query: "berylmys bowersi" ; Times: 1
+	Query: "Rhinolophus affinis" ; Times: 1
+	Query: "Pogonomys loriae" ; Times: 9
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Dremomys rufigenis" ; Times: 5
+	Query: "Manis javanica" ; Times: 1
+	Query: "rattus argentiventer" ; Times: 2
+	Query: "alligator" ; Times: 1
+	Query: "mus caroli" ; Times: 14
+	Query: "Ardea alba alba" ; Times: 1
+	Query: "genus:alticola country:&#34;pakistan&#34;" ; Times: 5
+	Query: "Todiramphus chloris" ; Times: 1
+	Query: "aplonis fusca" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 1
+	Query: "Pogonomys sylvestris" ; Times: 3
+	Query: "Sterna acuticauda" ; Times: 1
+	Query: "vntype:specimen genus:Leopoldamys family:Muridae distance(location,geopoint(19.83501837870252,103.74023437499997))&lt;997809" ; Times: 1
+	Query: "specificepithet:occidentalis" ; Times: 3
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Turnix velox" ; Times: 1
+	Query: "numenius arquata" ; Times: 1
+	Query: "B28567" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "adamsi" ; Times: 1
+	Query: "callosciurus" ; Times: 3
+	Query: "Tupaia belangeri" ; Times: 3
+	Query: "1592" ; Times: 1
+	Query: "Chiropodomys gliroides" ; Times: 22
+	Query: "northern goshawk" ; Times: 2
+	Query: "genus:Sus" ; Times: 3
+	Query: "corvus splendens" ; Times: 1
+	Query: "Pogonomys" ; Times: 3
+	Query: "vultur" ; Times: 1
+	Query: "anwc year &gt; 1990 Falco peregrinus" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "anwc year &gt; 1990 Ptilonorhynchus violaceus" ; Times: 1
+	Query: "catalognumber:B38803 institutioncode:ANWC" ; Times: 2
+	Query: "Pogonomys macrourus" ; Times: 2
+	Query: "specificepithet:occidentalis mappable:1" ; Times: 1
+	Query: "acanthophis Irian jaya" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 2
+	Query: "class:aves country:&#34;New Caledonia&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "rattus rattus" ; Times: 1
+	Query: "ANWC-B37847" ; Times: 1
+	Query: "genus:sus" ; Times: 2
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "anwc year &gt; 1990 Rhipidura dahli" ; Times: 2
+	Query: "(Norway)" ; Times: 3
+	Query: "demon" ; Times: 4
+	Query: "sus scrofa" ; Times: 3
+	Query: "4456" ; Times: 1
+	Query: "callosciurus erythraeus" ; Times: 3
+	Query: "Taphozous melanopogon" ; Times: 1
+	Query: "Glareola lactea" ; Times: 5
+	Query: "Caretta caretta mappable:1" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "rattus losea" ; Times: 16
+	Query: "procelsterna albivitta" ; Times: 2
+	Query: "genus:Leopoldamys family:Muridae" ; Times: 2
+	Query: "anwc year &gt; 1990 Phalacrocorax carbo" ; Times: 1
+	Query: "anwc year &gt; 1990 Pardalotus punctatus" ; Times: 1
+	Query: "genus:pedionomus" ; Times: 1
+	Query: "catalognumber:B38893 institutioncode:ANWC" ; Times: 1
+	Query: "Rhizomys pruinosus" ; Times: 2
+	Query: "boiga" ; Times: 1
+	Query: "family:Muridae locality:Laos" ; Times: 2
+	Query: "Sterna repressa" ; Times: 3
+	Query: "MOUSE" ; Times: 1
+	Query: "goat" ; Times: 1
+	Query: "specificepithet:reinwardtii" ; Times: 1
+	Query: "Hipposideros ater" ; Times: 1
+	Query: "Rostratula australis" ; Times: 3
+	Query: "elephant" ; Times: 5
+	Query: "acanthophis papua" ; Times: 1
+	Query: "Canis" ; Times: 2
+	Query: "carnegie" ; Times: 1
+	Query: "Chelonia mydas mappable:1" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "catalognumber:B53023 institutioncode:ANWC" ; Times: 2
+	Query: "Pogonomys mollipilosus" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "genus:Niviventer family:Muridae" ; Times: 4
+	Query: "cetacea" ; Times: 1
+	Query: "catalognumber:B40615 institutioncode:ANWC" ; Times: 2
+	Query: "catalognumber:B39539 institutioncode:ANWC" ; Times: 1
+	Query: "7333" ; Times: 2
+	Query: "larus leucophthalmus" ; Times: 1
+	Query: "catalognumber:B39186" ; Times: 2
+	Query: "mus musculus" ; Times: 1
+	Query: "Hylomys suillus" ; Times: 1
+	Query: "Saccolaimus saccolaimus" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Tafe" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 2
+	Query: "tupaia belangeri" ; Times: 2
+	Query: "Acanthophis" ; Times: 1
+	Query: "Berylmys bowersi" ; Times: 14
+	Query: "stokesii" ; Times: 1
+	Query: "bandicota indica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 940 download events in this period)
+Total number of records downloaded: 3162
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 4
+	Country: India ; Times: 2
+	Country: United States ; Times: 13
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Laos ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-06 ; Times: 8
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "dromiciops" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "vntype:specimen genus:Leopoldamys family:Muridae distance(location,geopoint(19.83501837870252,103.74023437499997))&lt;100000" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Tupaia belangeri" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "Hylomys" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "Leopoldamys" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Berylmys bowersi" ; Times: 1
+	Query: "family:Dasyuridae (zoo OR captive)" ; Times: 1
+
+
+End of report.
