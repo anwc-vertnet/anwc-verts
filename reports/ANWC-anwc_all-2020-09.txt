@@ -1,0 +1,380 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 292
+Number of records retrieved in searches: 4897
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 8
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 2
+	Country: Ireland ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 8
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: China ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 13
+	Country: Finland ; Times: 10
+	Country: United States ; Times: 138
+	Country: Sweden ; Times: 2
+	Country: Vietnam ; Times: 2
+	Country: Gabon ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 38
+	Country: Colombia ; Times: 15
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 11
+	Date: 2020-09-08 ; Times: 12
+	Date: 2020-09-03 ; Times: 8
+	Date: 2020-09-02 ; Times: 8
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-07 ; Times: 10
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-05 ; Times: 4
+	Date: 2020-09-04 ; Times: 15
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-20 ; Times: 4
+	Date: 2020-09-23 ; Times: 10
+	Date: 2020-09-22 ; Times: 7
+	Date: 2020-09-25 ; Times: 24
+	Date: 2020-09-24 ; Times: 9
+	Date: 2020-09-27 ; Times: 7
+	Date: 2020-09-26 ; Times: 7
+	Date: 2020-09-29 ; Times: 13
+	Date: 2020-09-28 ; Times: 12
+	Date: 2020-09-16 ; Times: 24
+	Date: 2020-09-14 ; Times: 16
+	Date: 2020-09-15 ; Times: 32
+	Date: 2020-09-30 ; Times: 4
+	Date: 2020-09-17 ; Times: 14
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 6
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-18 ; Times: 12
+	Date: 2020-09-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "candoia aspera" ; Times: 1
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "ANWC B33718 OR B33720 OR B33717 OR B33719" ; Times: 1
+	Query: "Plegadis" ; Times: 1
+	Query: "Minnesota" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "Caretta caretta" ; Times: 2
+	Query: "Miniopterus" ; Times: 1
+	Query: "Macgregoria" ; Times: 3
+	Query: "specificepithet:undulatus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ANWC B33718 OR B33720" ; Times: 1
+	Query: "ANWC ANWC B33718" ; Times: 1
+	Query: "family:dicaeidae" ; Times: 1
+	Query: "Todiramphus OR halcyon pyrrhopygius" ; Times: 1
+	Query: "furina tristis" ; Times: 1
+	Query: "vntype:specimen specificepithet:obsoletus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Aquila" ; Times: 2
+	Query: "Aerodramus vanikorensis" ; Times: 1
+	Query: "scientificname:Canis lupus" ; Times: 1
+	Query: "country:Ecuador " ; Times: 1
+	Query: "minnesota" ; Times: 1
+	Query: "Brooks" ; Times: 1
+	Query: "pyrrhopygius family:alcedinidae" ; Times: 2
+	Query: "frilled lizard" ; Times: 1
+	Query: "tribolonotus gracilis" ; Times: 1
+	Query: "COLLOCALIA" ; Times: 1
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "catalognumber:B42991 institutioncode:ANWC" ; Times: 2
+	Query: "catalognumber:B02004 institutioncode:ANWC" ; Times: 2
+	Query: "cerberus" ; Times: 1
+	Query: "Myotis myotis" ; Times: 9
+	Query: "APUS apus" ; Times: 1
+	Query: "nigger creek" ; Times: 2
+	Query: "thylacinus" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculosa genus:Nothura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "litoria infrafrenata" ; Times: 2
+	Query: "Aerodramus fuciphagus" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "acrochordus granulatus" ; Times: 1
+	Query: "7251" ; Times: 1
+	Query: "family:Sulidae year &gt;= 1989 year &lt;= 1991" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "catalognumber:B16312 institutioncode:ANWC" ; Times: 2
+	Query: "emu" ; Times: 1
+	Query: "dendrocopos" ; Times: 1
+	Query: "slide" ; Times: 1
+	Query: "ANWC B33718" ; Times: 3
+	Query: "Falco peregrinus" ; Times: 2
+	Query: "ANWC B42978" ; Times: 1
+	Query: "Mearnsia novaeguineae" ; Times: 1
+	Query: "Pyrilia vulturina" ; Times: 1
+	Query: "carnivora" ; Times: 2
+	Query: "Felidae" ; Times: 1
+	Query: "Lerista distinguenda" ; Times: 1
+	Query: "hydrelaps" ; Times: 2
+	Query: "locality:lamington national park country:&#34;Australia&#34;" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Rhipidura country:&#34;Australia&#34; year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "B52170" ; Times: 1
+	Query: "Boiga" ; Times: 1
+	Query: "locality:gap country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "aerodramus nuditarsus" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "turnix" ; Times: 1
+	Query: "long tailed" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "catalognumber:B26321 institutioncode:ANWC" ; Times: 2
+	Query: "family:Sulidae year &gt;= 1987 year &lt;= 1991" ; Times: 1
+	Query: "Shoalhaven" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "specificepithet:layardi class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cynocephalus genus:Thylacinus" ; Times: 2
+	Query: "Raven" ; Times: 4
+	Query: "specificepithet:papuana genus:Erythrura" ; Times: 2
+	Query: "B26487" ; Times: 1
+	Query: "catalognumber:B13873 institutioncode:ANWC" ; Times: 2
+	Query: "B40452 anwc" ; Times: 1
+	Query: "Myotis" ; Times: 6
+	Query: "genus:Gallinula class:Aves year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "7909" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "catalognumber:B04465 institutioncode:ANWC" ; Times: 1
+	Query: "the amphibians" ; Times: 1
+	Query: "caiman" ; Times: 1
+	Query: "AERODRAMUS NUDITARSUS" ; Times: 1
+	Query: "APUS pacificus" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Caprimulgus indicus indicus" ; Times: 1
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "red eyed tree frog" ; Times: 1
+	Query: "sciuridae" ; Times: 1
+	Query: "scientificname:Tursiops truncatus" ; Times: 2
+	Query: "specificepithet:trichroa genus:Erythrura class:aves" ; Times: 1
+	Query: "specificepithet:aurifrons" ; Times: 2
+	Query: "catalognumber:B14128 institutioncode:ANWC" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "Collocalia esculenta" ; Times: 1
+	Query: "vntype:specimen specificepithet:tataupa genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:papuana genus:Erythrura class:aves" ; Times: 1
+	Query: "Aerodramus papuensis" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "B51954" ; Times: 1
+	Query: "catalognumber:B25535 institutioncode:ANWC" ; Times: 2
+	Query: "ANWC B51462" ; Times: 1
+	Query: "specificepithet:inexpectata genus:pterodroma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(fullerton)" ; Times: 1
+	Query: "erythrogaster" ; Times: 2
+	Query: "harpy eagle" ; Times: 1
+	Query: "san francisco" ; Times: 3
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 3
+	Query: "vntype:specimen specificepithet:solitarius genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Chalcophaps indica indica" ; Times: 1
+	Query: "canis familiaris" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "catalognumber:B27361 institutioncode:ANWC" ; Times: 4
+	Query: "Artiodactyla" ; Times: 1
+	Query: "vntype:observation" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 5
+	Query: "scientificname:Vultur gryphus" ; Times: 11
+	Query: "crow" ; Times: 1
+	Query: "Uperoleia lithomoda" ; Times: 2
+	Query: "hirundapus caudacutus" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "B39651 anwc" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "specificepithet:marinus country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "sphenomorphus jobiensis" ; Times: 1
+	Query: "family:Alcidae AND (NOT Ptychoramphus)" ; Times: 2
+	Query: "Eudynamys scolopaceus scolopaceus" ; Times: 1
+	Query: "crane" ; Times: 1
+	Query: "whale collection" ; Times: 1
+	Query: "horseshoe c" ; Times: 1
+	Query: "carinatus" ; Times: 1
+	Query: "catalognumber:B26123 institutioncode:ANWC" ; Times: 2
+	Query: "Bovidae" ; Times: 1
+	Query: "Aerodramus terraereginae" ; Times: 1
+	Query: "catalognumber:B24128 institutioncode:ANWC" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "horseshoe" ; Times: 1
+	Query: "catalognumber:B52371 institutioncode:ANWC" ; Times: 2
+	Query: "Aerodramus hirundinaceus" ; Times: 1
+	Query: "barn swallow" ; Times: 1
+	Query: "antaresia maculosa" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "catalognumber:B52357 institutioncode:ANWC" ; Times: 2
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "guinea pig" ; Times: 1
+	Query: "B15408" ; Times: 1
+	Query: "Copperhead" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "catalognumber:B14092 institutioncode:ANWC" ; Times: 2
+	Query: "Charadrius alexandrinus" ; Times: 1
+	Query: "3064" ; Times: 1
+	Query: "catalognumber:B52626 institutioncode:ANWC" ; Times: 2
+	Query: "specificepithet:cuniculus genus:Oryctolagus" ; Times: 1
+	Query: "pilbara" ; Times: 1
+	Query: "Todiramphus OR Halcyon chloris Australia" ; Times: 1
+	Query: "B26828 anwc" ; Times: 1
+	Query: "acrochordus arafurae" ; Times: 1
+	Query: "Todiramphus OR Halcyon pyrrhopygius" ; Times: 1
+	Query: "genus:Aspideretes" ; Times: 1
+	Query: "forest owlet" ; Times: 1
+	Query: "stateprovince:Loja " ; Times: 1
+	Query: "ANWC B24225" ; Times: 1
+	Query: "Salvator" ; Times: 1
+	Query: "genus:cerberus order:Squamata" ; Times: 3
+	Query: "locality:india" ; Times: 1
+	Query: "bottlenose dolphin" ; Times: 2
+	Query: "vntype:specimen genus:Rhynchotus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "goat" ; Times: 2
+	Query: "demansia vestigiata" ; Times: 1
+	Query: "locality:t.h.e. cave" ; Times: 1
+	Query: "tympanocryptis cephalus" ; Times: 1
+	Query: "Uperoleia mimula" ; Times: 1
+	Query: "B41994 anwc" ; Times: 2
+	Query: "genus:Pyrrhura country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "B38572" ; Times: 1
+	Query: "Osprey" ; Times: 3
+	Query: "catalognumber:B42992 institutioncode:ANWC" ; Times: 2
+	Query: "catalognumber:B34128 institutioncode:ANWC" ; Times: 2
+	Query: "Passer domesticus" ; Times: 3
+	Query: "Chalcophaps indica" ; Times: 1
+	Query: "Todiramphus OR Halcyon sordidus OR chloris Australia" ; Times: 2
+	Query: "mus musculus" ; Times: 4
+	Query: "white ash" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "zaglossus" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Aerodramus nuditarsus" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "genus:thylacinus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 2
+	Query: "ovis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 976 download events in this period)
+Total number of records downloaded: 69762
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United Arab Emirates ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 38
+	Country: Netherlands ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-02 ; Times: 4
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 3
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 11
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-13 ; Times: 8
+	Date: 2020-09-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Phasianidae continent:Africa" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "Pyrilia vulturina" ; Times: 1
+	Query: "specificepithet:papuana genus:Erythrura class:aves" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Mearnsia novaeguineae" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "Todiramphus OR Halcyon chloris Australia" ; Times: 1
+	Query: "Aerodramus fuciphagus" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "Phyllostomus elongatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aerodramus vanikorensis" ; Times: 1
+	Query: "Shoalhaven" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "frilled lizard" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "hirundapus caudacutus" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "APUS pacificus" ; Times: 1
+	Query: "Aerodramus papuensis" ; Times: 1
+	Query: "tympanocryptis cephalus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "specificepithet:trichroa genus:Erythrura class:aves" ; Times: 1
+	Query: "class:Aves" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Collocalia esculenta" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa" ; Times: 1
+	Query: "Amphibia" ; Times: 2
+	Query: "artibeus cinereus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Aerodramus terraereginae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Aerodramus hirundinaceus" ; Times: 1
+	Query: "Aerodramus nuditarsus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+
+
+End of report.
