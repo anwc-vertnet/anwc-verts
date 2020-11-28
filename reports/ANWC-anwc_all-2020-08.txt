@@ -1,0 +1,406 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 369
+Number of records retrieved in searches: 9939
+Number of different countries where searches have been originated: 29
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Peru ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: Ireland ; Times: 9
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 5
+	Country: Australia ; Times: 24
+	Country: Singapore ; Times: 3
+	Country: Germany ; Times: 20
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 15
+	Country: Philippines ; Times: 17
+	Country: United States ; Times: 99
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Portugal ; Times: 58
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 82
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 5
+	Date: 2020-08-29 ; Times: 3
+	Date: 2020-08-17 ; Times: 7
+	Date: 2020-08-16 ; Times: 15
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 4
+	Date: 2020-08-13 ; Times: 7
+	Date: 2020-08-12 ; Times: 4
+	Date: 2020-08-11 ; Times: 5
+	Date: 2020-08-10 ; Times: 60
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-19 ; Times: 12
+	Date: 2020-08-18 ; Times: 40
+	Date: 2020-08-20 ; Times: 4
+	Date: 2020-08-08 ; Times: 2
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-04 ; Times: 10
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 8
+	Date: 2020-08-07 ; Times: 6
+	Date: 2020-08-26 ; Times: 30
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-24 ; Times: 22
+	Date: 2020-08-25 ; Times: 15
+	Date: 2020-08-23 ; Times: 10
+	Date: 2020-08-09 ; Times: 5
+	Date: 2020-08-21 ; Times: 83
+
+List of queries that retrieved data from the resource: 
+	Query: "candoia aspera" ; Times: 1
+	Query: "pitta elegans" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Alligator" ; Times: 1
+	Query: "mappable:1 scientificname:Acridotheres tristis" ; Times: 1
+	Query: "Stresemannia bougainvillei" ; Times: 1
+	Query: "Buteo" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Zosterops minor" ; Times: 3
+	Query: "mappable:1 scientificname:Muscicapa dauurica" ; Times: 1
+	Query: "ANWC B44994" ; Times: 2
+	Query: "mappable:1 scientificname:Taeniopygia guttata" ; Times: 1
+	Query: "catalognumber:B28819 institutioncode:ANWC" ; Times: 2
+	Query: "Turdus cardis" ; Times: 1
+	Query: "ANWC B32208" ; Times: 2
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "catalognumber:B39168 institutioncode:ANWC" ; Times: 1
+	Query: "mappable:1 scientificname:Phasianus colchicus" ; Times: 1
+	Query: "catalognumber:B39817 institutioncode:ANWC" ; Times: 2
+	Query: "Corvus corone" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura oryzivora" ; Times: 1
+	Query: "mappable:1 scientificname:Emberiza cioides" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus jocosus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "aves california" ; Times: 2
+	Query: "Rhinolophus shamelli" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus adelaidae" ; Times: 1
+	Query: "mappable:1 scientificname:Geopelia cuneata" ; Times: 1
+	Query: "norway" ; Times: 1
+	Query: "Russia 1901" ; Times: 1
+	Query: "rhinolophus affinis" ; Times: 2
+	Query: "mappable:1 scientificname:Cacatua galerita" ; Times: 1
+	Query: "Netherlands" ; Times: 1
+	Query: "genus:pycnoptilus catalognumber:B53398 institutioncode:ANWC" ; Times: 1
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "Psittacula eupatria" ; Times: 1
+	Query: "mappable:1 scientificname:Cacatua sulphurea" ; Times: 1
+	Query: "Rostratula australis" ; Times: 1
+	Query: "mappable:1 scientificname:Anas rhynchotis" ; Times: 1
+	Query: "mappable:1 scientificname:Vanellus armatus" ; Times: 1
+	Query: "mappable:1 scientificname:Garrulax leucolophus" ; Times: 1
+	Query: "genus:canis family:canidae" ; Times: 1
+	Query: "mappable:1 scientificname:Cacatua ophthalmica" ; Times: 1
+	Query: "litoria infrafrenata" ; Times: 1
+	Query: "Cormobates leucophaeus" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 1
+	Query: "iptrecordid:&#34;7ff396ea-e587-4f67-9ec6-6d666ce81258&#34; OR &#34;ae2af650-0e2b-497c-a7dc-7f1f22af07a4&#34; OR &#34;52d74002-bd5d-4ca8-ad7f-fa5e8a1213ec&#34; OR &#34;urn:catalog:CAS:ORN:10&#34; OR &#34;urn:catalog:CAS:ORN:10000&#34;" ; Times: 1
+	Query: "8020" ; Times: 3
+	Query: "Egg collections" ; Times: 1
+	Query: "mappable:1 scientificname:Radjah radjah" ; Times: 1
+	Query: "specificepithet:rosacea genus:Ducula" ; Times: 3
+	Query: "mappable:1 scientificname:Cygnus atratus" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "genus:Chelonia" ; Times: 4
+	Query: "OM" ; Times: 1
+	Query: "mappable:1 scientificname:Rhyticeros plicatus" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura malacca" ; Times: 1
+	Query: "genus:Rhinolophus year &lt;= 1980" ; Times: 1
+	Query: "Swamp rabbit" ; Times: 6
+	Query: "Cyanopica cyanus" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus albus" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Anas castanea" ; Times: 1
+	Query: "Eclectus roratus" ; Times: 1
+	Query: "Duchess" ; Times: 1
+	Query: "mappable:1 scientificname:Nymphicus hollandicus" ; Times: 1
+	Query: "Larus argentatus" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "2252" ; Times: 1
+	Query: "esacus magnirostris" ; Times: 16
+	Query: "Falco peregrinus" ; Times: 4
+	Query: "mappable:1 scientificname:Columba guinea" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Rainbow snake" ; Times: 1
+	Query: "mappable:1 scientificname:Erythrura gouldiae" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "genus:Goura" ; Times: 3
+	Query: "Hirundo neoxena" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "mappable:1 scientificname:Taeniopygia bichenovii" ; Times: 1
+	Query: "Raine" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "catalognumber:B17747 institutioncode:ANWC" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Mus pahari" ; Times: 1
+	Query: "mccarthy" ; Times: 1
+	Query: "Lalage tricolor" ; Times: 1
+	Query: "mappable:1 scientificname:Neophema pulchella" ; Times: 1
+	Query: "Phalacrocorax purpurascens" ; Times: 1
+	Query: "Phalacrocorax neglectus" ; Times: 1
+	Query: "anwc year &gt; 1990 Alectura lathami" ; Times: 1
+	Query: "Rhinolophidae" ; Times: 5
+	Query: "Columba palumbus" ; Times: 1
+	Query: "genus:Cyclorana specificepithet:novaehollandiae" ; Times: 1
+	Query: "Falco peregrinus anwc year &gt; 1995" ; Times: 1
+	Query: "Larus marinus" ; Times: 1
+	Query: "mappable:1 scientificname:Amandava amandava" ; Times: 1
+	Query: "Hypothymis azurea azurea" ; Times: 1
+	Query: "6502 order:rodentia" ; Times: 1
+	Query: "artiodactyla" ; Times: 1
+	Query: "mappable:1 scientificname:Chenonetta jubata" ; Times: 1
+	Query: "mappable:1 scientificname:Geopelia striata" ; Times: 1
+	Query: "mappable:1 scientificname:Dama dama" ; Times: 1
+	Query: "ANWC year &gt; 1990 Origma solitaria" ; Times: 1
+	Query: "motacilla flava" ; Times: 2
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "Timor Chalcophaps" ; Times: 1
+	Query: "yellow-bellied bulbul" ; Times: 3
+	Query: "rhinolophidae" ; Times: 1
+	Query: "genus:pycnoptilus institutioncode:ANWC" ; Times: 1
+	Query: "Gliciphila melanops" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Ciconia boyciana" ; Times: 1
+	Query: "mappable:1 scientificname:Poephila acuticauda" ; Times: 1
+	Query: "specificepithet:papuana genus:Erythrura" ; Times: 6
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 2
+	Query: "rhombifer" ; Times: 1
+	Query: "year &gt; 1990 Grantiella picta" ; Times: 1
+	Query: "mappable:1 scientificname:Melopsittacus undulatus" ; Times: 1
+	Query: "Falco peregrinus anwc" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura punctulata" ; Times: 1
+	Query: "country:&#34;south africa&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "pacific swallow" ; Times: 2
+	Query: "Motacilla alba" ; Times: 1
+	Query: "year &gt; 1990 Cracticus tibicen" ; Times: 1
+	Query: "swamp rabbit" ; Times: 2
+	Query: "genus:pagodroma" ; Times: 1
+	Query: "Seicercus soror" ; Times: 1
+	Query: "anwc year &gt; 1990 Eulacestoma nigropectus" ; Times: 1
+	Query: "paradise parrot" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "anwc year &gt; 1995 Daphoenositta chrysoptera" ; Times: 1
+	Query: "743" ; Times: 4
+	Query: "anwc year &gt; 1995 Grantiella picta" ; Times: 1
+	Query: "Carnegie" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "aegotheles" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "yellow oriole" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 2
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus icterotis" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "mappable:1 scientificname:Psephotus haematonotus" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "ANWC year &gt; 1990 Falco peregrinus" ; Times: 1
+	Query: "vntype:observation" ; Times: 2
+	Query: "b20858" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia orientalis" ; Times: 1
+	Query: "Phylloscopus coronatus" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "Phalacrocorax capillatus" ; Times: 1
+	Query: "Russia aves year &gt;= 1901 year &lt;= 1901 month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 2
+	Query: "mappable:1 scientificname:Lathamus discolor" ; Times: 1
+	Query: "anwc year &gt; 1990 Struthidea cinerea" ; Times: 1
+	Query: "year &gt; 1990 Origma solitaria" ; Times: 1
+	Query: "kiwi" ; Times: 2
+	Query: "mappable:1 scientificname:Numida meleagris" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "Melopsittacus undulatus" ; Times: 1
+	Query: "mappable:1 scientificname:Todiramphus chloris" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "demon" ; Times: 3
+	Query: "Capra hircus" ; Times: 1
+	Query: "mappable:1 scientificname:Tadorna radjah" ; Times: 1
+	Query: "Phalacrocorax capensis" ; Times: 1
+	Query: "Threskiornis molucca 100" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "Rhinolophus" ; Times: 1
+	Query: "Lepus timidus" ; Times: 1
+	Query: "Dendrocopos major" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "Russia 1901 aves" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 2
+	Query: "barn owl" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "mappable:1 scientificname:Threskiornis molucca" ; Times: 1
+	Query: "A01393" ; Times: 1
+	Query: "catalognumber:B38803 institutioncode:ANWC" ; Times: 1
+	Query: "anwc year &gt; 1995 Pardalotus punctatus" ; Times: 1
+	Query: "catalognumber:B48720 institutioncode:ANWC" ; Times: 2
+	Query: "vulpes" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Anous tenuirostris" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 2
+	Query: "vntype:specimen Zosterops minor" ; Times: 1
+	Query: "Loja" ; Times: 1
+	Query: "genus:acrochordus" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 1
+	Query: "mappable:1 scientificname:Aplonis metallica" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "anous stolidus" ; Times: 2
+	Query: "mappable:1 scientificname:Neochmia ruficauda" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "Hot springs" ; Times: 1
+	Query: "Larus crassirostris" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "mappable:1 scientificname:Polytelis swainsonii" ; Times: 1
+	Query: "mappable:1 scientificname:Barnardius zonarius" ; Times: 1
+	Query: "mappable:1 scientificname:Cereopsis novaehollandiae" ; Times: 1
+	Query: "mappable:1 scientificname:Ocyphaps lophotes" ; Times: 1
+	Query: "catalognumber:B55398 institutioncode:ANWC" ; Times: 2
+	Query: "hybrid" ; Times: 1
+	Query: "family:Sciuridae" ; Times: 1
+	Query: "Regulus regulus" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 1
+	Query: "specificepithet:jugularis genus:Cinnyris class:aves year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "mappable:1 scientificname:Meleagris gallopavo" ; Times: 1
+	Query: "mappable:1 scientificname:Coturnix chinensis" ; Times: 1
+	Query: "mappable:1 scientificname:Trichoglossus haematodus" ; Times: 1
+	Query: "Russia year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Troglodytes troglodytes" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "Melogale moschata" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "ANWC B32014" ; Times: 2
+	Query: "Sitta europaea" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus elegans" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "catalognumber:B39815 institutioncode:ANWC" ; Times: 2
+	Query: "catalognumber:B28820 institutioncode:ANWC" ; Times: 2
+	Query: "8243" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo polyosoma" ; Times: 1
+	Query: "mappable:1 scientificname:Eclectus roratus" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "india birds" ; Times: 2
+	Query: "anwc year &gt; 1995 pandion" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Zosterops atrifrons" ; Times: 1
+	Query: "zeeland" ; Times: 1
+	Query: "Phalacrocorax featherstoni" ; Times: 1
+	Query: "genus:Goura institutioncode:ANWC" ; Times: 16
+	Query: "mappable:1 scientificname:Pytilia melba" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 1
+	Query: "catalognumber:B39176 institutioncode:ANWC" ; Times: 2
+	Query: "catalognumber:B40523 institutioncode:ANWC" ; Times: 1
+	Query: "mappable:1 scientificname:Erythrura trichroa" ; Times: 1
+	Query: "anwc year &gt; 1990 Grantiella picta" ; Times: 1
+	Query: "Canis" ; Times: 6
+	Query: "meeki" ; Times: 1
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "genus:mustela" ; Times: 1
+	Query: "Phalacrocorax fuscescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 756 download events in this period)
+Total number of records downloaded: 41104
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-30 ; Times: 3
+	Date: 2020-08-16 ; Times: 3
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-26 ; Times: 6
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Squamata" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Loja" ; Times: 2
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Nyctimystes" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "snapping turtle" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "litoria infrafrenata" ; Times: 1
+	Query: "genus:pycnoptilus institutioncode:ANWC" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "class:Mammalia" ; Times: 3
+
+
+End of report.
