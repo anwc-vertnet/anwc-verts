@@ -1,0 +1,414 @@
+Report for Institution Code ANWC, Resource anwc_all
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 520
+Number of records retrieved in searches: 33302
+Number of different countries where searches have been originated: 29
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 6
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 95
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Australia ; Times: 6
+	Country: Singapore ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: Jordan ; Times: 2
+	Country: China ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Hong Kong ; Times: 3
+	Country: Poland ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 2
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 247
+	Country: Finland ; Times: 1
+	Country: Switzerland ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Romania ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 90
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 8
+	Date: 2020-11-21 ; Times: 3
+	Date: 2020-11-22 ; Times: 6
+	Date: 2020-11-23 ; Times: 11
+	Date: 2020-11-24 ; Times: 14
+	Date: 2020-11-25 ; Times: 18
+	Date: 2020-11-08 ; Times: 16
+	Date: 2020-11-09 ; Times: 13
+	Date: 2020-11-06 ; Times: 5
+	Date: 2020-11-07 ; Times: 2
+	Date: 2020-11-04 ; Times: 46
+	Date: 2020-11-05 ; Times: 35
+	Date: 2020-11-02 ; Times: 76
+	Date: 2020-11-03 ; Times: 3
+	Date: 2020-11-01 ; Times: 9
+	Date: 2020-11-26 ; Times: 26
+	Date: 2020-11-27 ; Times: 4
+	Date: 2020-11-29 ; Times: 8
+	Date: 2020-11-19 ; Times: 6
+	Date: 2020-11-18 ; Times: 7
+	Date: 2020-11-30 ; Times: 4
+	Date: 2020-11-15 ; Times: 12
+	Date: 2020-11-14 ; Times: 26
+	Date: 2020-11-17 ; Times: 11
+	Date: 2020-11-16 ; Times: 12
+	Date: 2020-11-11 ; Times: 8
+	Date: 2020-11-10 ; Times: 115
+	Date: 2020-11-13 ; Times: 8
+	Date: 2020-11-12 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Cormobates leucophaeus" ; Times: 1
+	Query: "pitta elegans" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 2
+	Query: "genus:Taphozous" ; Times: 3
+	Query: "Ovis aries" ; Times: 3
+	Query: "Tawny Frogmouth" ; Times: 2
+	Query: "genus: Peltohyas" ; Times: 1
+	Query: "canis lupus" ; Times: 9
+	Query: "Acrocephalus bistrigiceps" ; Times: 1
+	Query: "indiana bat" ; Times: 2
+	Query: "zosterops japonicus country:&#34;Japan&#34;" ; Times: 1
+	Query: "auratus institutioncode:ANWC" ; Times: 1
+	Query: "Elephant" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus" ; Times: 2
+	Query: "Turdus cardis" ; Times: 1
+	Query: "scientificname:Didelphis virginiana" ; Times: 4
+	Query: "demon" ; Times: 7
+	Query: "Murexia" ; Times: 2
+	Query: "Corvus corone" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "scientificname:Parascalops breweri" ; Times: 2
+	Query: "scientificname:Canis lupus" ; Times: 24
+	Query: "Glossy Black Cockatoo" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "reptiles" ; Times: 2
+	Query: "institutioncode:ANWC" ; Times: 1
+	Query: "Myrmecobius fasciatus" ; Times: 1
+	Query: "soricidae" ; Times: 1
+	Query: "basisofrecord:HumanObservation" ; Times: 3
+	Query: "Meleagris gallopavo" ; Times: 2
+	Query: "scientificname:Ardea cinerea" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "Crocodylus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "wedge-tailed shearwater" ; Times: 15
+	Query: "hypsilurus" ; Times: 1
+	Query: "Aerodramus fuciphagus" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "Lonchura castaneothorax" ; Times: 2
+	Query: "box turtle" ; Times: 1
+	Query: "ANWC ANWC B29761" ; Times: 1
+	Query: "specificepithet:albus genus:Eudocimus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Meles meles" ; Times: 1
+	Query: "turnix olivii" ; Times: 1
+	Query: "vntype:specimen specificepithet:elegans genus:Pitta" ; Times: 2
+	Query: "tyto alba" ; Times: 2
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;Japan&#34; year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "C. Townsend" ; Times: 1
+	Query: "fairy" ; Times: 2
+	Query: "family:Hydrobatidae county:&#34;Marin&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "carnivora" ; Times: 1
+	Query: "&#34;Sus scrofa&#34;" ; Times: 1
+	Query: "bird eggs" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "scientificname:Felis catus" ; Times: 5
+	Query: "Rattus norvegicus" ; Times: 4
+	Query: "locality:Gap country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "red-footed booby" ; Times: 4
+	Query: "Streptopelia senegalensis" ; Times: 1
+	Query: "Ovis ammon" ; Times: 2
+	Query: "specificepithet:cinctus genus: Erythrogonys" ; Times: 1
+	Query: "leopard seal" ; Times: 1
+	Query: "family:Hydrobatidae county:&#34;Monterey&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Townsend" ; Times: 2
+	Query: "Phoenicurus phoenicurus" ; Times: 1
+	Query: "Aerodramus s" ; Times: 1
+	Query: "Petroica goodenovii" ; Times: 1
+	Query: "country:&#34;Spain&#34;" ; Times: 1
+	Query: "pogona vitticeps" ; Times: 1
+	Query: "Mus pahari" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "vntype:specimen specificepithet:obscura genus:Penelope class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Corvus monedula" ; Times: 2
+	Query: "calonectris diomedea" ; Times: 3
+	Query: "Prunella modularis" ; Times: 1
+	Query: "tragulidae" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "scientificname:Rhinolophus malayanus" ; Times: 5
+	Query: "Neomys fodiens" ; Times: 4
+	Query: "vntype:specimen genus:PIPILE class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "wedge-tailed shearwater country:&#34;Australia&#34; AND (NOT egg)" ; Times: 1
+	Query: "scientificname:Stenella coeruleoalba" ; Times: 2
+	Query: "scientificname:Marmota monax" ; Times: 4
+	Query: "Mus musculus" ; Times: 4
+	Query: "Perameles Nasuta" ; Times: 6
+	Query: "scientificname:Lasionycteris noctivagans" ; Times: 2
+	Query: "Arachnothera longirostra" ; Times: 5
+	Query: "Lackland" ; Times: 1
+	Query: "anwc" ; Times: 1
+	Query: "Dremomys rufigenis" ; Times: 1
+	Query: "short beaked echidna" ; Times: 1
+	Query: "vntype:specimen genus:Pipile class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "scientificname:Vulpes vulpes" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "dingo genus:Canis family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:Penelope class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "scientificname:Rattus norvegicus" ; Times: 11
+	Query: "sciuridae" ; Times: 3
+	Query: "scientificname:Tursiops truncatus" ; Times: 2
+	Query: "specificepithet:sula genus:Sula year &gt;= 1988 year &lt;= 1988" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "Petroica multicolor" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Dremomys pernyi" ; Times: 1
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "vntype:specimen genus:Toxorhamphus" ; Times: 1
+	Query: "basisofrecord:MachineObservation" ; Times: 2
+	Query: "Rattus fuscipes" ; Times: 1
+	Query: "Notoryctes typhlops" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Apus pacificus" ; Times: 1
+	Query: "c. Tachyglossidae" ; Times: 1
+	Query: "cn" ; Times: 1
+	Query: "Tachyglossidae" ; Times: 3
+	Query: "vntype:specimen genus:Marmota stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "Megapodius layardi" ; Times: 1
+	Query: "vntype:observation" ; Times: 4
+	Query: "tapirus pinchaque 1971" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Odontophoridae" ; Times: 1
+	Query: "scientificname:Rhinolophus ferrumequinum" ; Times: 14
+	Query: "Dasyurus maculatus" ; Times: 1
+	Query: "5432" ; Times: 1
+	Query: "Sus scrofa" ; Times: 9
+	Query: "mearnsia novaeguineae" ; Times: 2
+	Query: "monkey" ; Times: 1
+	Query: "scientificname:Mus musculus" ; Times: 6
+	Query: "Acrocephalus orientalis" ; Times: 1
+	Query: "genus:ELSEYORNIS" ; Times: 1
+	Query: "scientificname:Sus scrofa" ; Times: 5
+	Query: "Artiodactyla" ; Times: 1
+	Query: "specificepithet:sula genus:Sula year &gt;= 1990 year &lt;= 1990" ; Times: 1
+	Query: "rainbow snake" ; Times: 2
+	Query: "Micromys minutus" ; Times: 2
+	Query: "hydromedusa tectifera" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;Japan&#34;" ; Times: 1
+	Query: "scientificname:Ondatra zibethicus" ; Times: 2
+	Query: "Pelican" ; Times: 1
+	Query: "vntype:observation year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "deer" ; Times: 4
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Warbler" ; Times: 1
+	Query: "ANWC B31885" ; Times: 1
+	Query: "genus:Pipile class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "sterna acuticauda" ; Times: 2
+	Query: "Capra hircus" ; Times: 2
+	Query: "aves cyprus" ; Times: 1
+	Query: "genus:Cerberus" ; Times: 1
+	Query: "DAMA DAMA" ; Times: 2
+	Query: "Canis lupus" ; Times: 2
+	Query: "wedge-tailed shearwater country:&#34;Australia&#34; AND (NOT eggs)" ; Times: 3
+	Query: "hoary bat" ; Times: 1
+	Query: "Dendrocopos major" ; Times: 2
+	Query: "wedge-tailed shearwater country:&#34;Australia&#34;" ; Times: 4
+	Query: "occipitalis" ; Times: 1
+	Query: "points" ; Times: 1
+	Query: "specificepithet:cinctus genus:Erythrogonys" ; Times: 1
+	Query: "Perameles nasuta" ; Times: 1
+	Query: "Indiana bat" ; Times: 4
+	Query: "desert finch" ; Times: 3
+	Query: "actitis macularius" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "myoictis" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Numida meleagris" ; Times: 2
+	Query: "Ficedula albicollis" ; Times: 1
+	Query: "scolopax saturata" ; Times: 1
+	Query: "scientificname:Mustela nivalis" ; Times: 2
+	Query: "specificepithet:catus genus:Felis" ; Times: 3
+	Query: "scientificname:Rattus rattus" ; Times: 9
+	Query: "Arvicola amphibius" ; Times: 3
+	Query: "Rattus rattus" ; Times: 3
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Limnodromus semipalmatus" ; Times: 1
+	Query: "scientificname:Chaerephon plicatus" ; Times: 4
+	Query: "vntype:observation basisofrecord:HumanObservation" ; Times: 2
+	Query: "Calonectris diomedea vntype:specimen country:&#34;Malta&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "golden pheasant" ; Times: 2
+	Query: "Harpy Eagle" ; Times: 2
+	Query: "Actophilornis africanus" ; Times: 2
+	Query: "stegonotus" ; Times: 3
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "class:Mammalia year &gt;= 1960 year &lt;= 1961" ; Times: 1
+	Query: "Columba livia" ; Times: 2
+	Query: "squirrel" ; Times: 1
+	Query: "scientificname:Kogia breviceps" ; Times: 2
+	Query: "scientificname:Lasiurus cinereus" ; Times: 2
+	Query: "lagomorpha" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "specificepithet:californica genus:callipepla" ; Times: 1
+	Query: "B38654" ; Times: 1
+	Query: "rodentia" ; Times: 2
+	Query: "litoria cyclorhyncha" ; Times: 4
+	Query: "Mustelidae" ; Times: 1
+	Query: "(Porzana)" ; Times: 1
+	Query: "Salamander" ; Times: 1
+	Query: "Ceyx pusillus" ; Times: 4
+	Query: "genus:Sula" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 2
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "vntype:specimen genus:Tapirus country:&#34;Colombia&#34; institutioncode:ANWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "superciliosus" ; Times: 1
+	Query: "specificepithet:layardi genus:Megapodius" ; Times: 2
+	Query: "dremomys" ; Times: 2
+	Query: "macropus robustus" ; Times: 1
+	Query: "mearnsia" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "family:Cervidae" ; Times: 1
+	Query: "scientificname:Rhinolophus affinis" ; Times: 22
+	Query: "Rattus praetor" ; Times: 2
+	Query: "Sitta europaea" ; Times: 2
+	Query: "harris" ; Times: 1
+	Query: "Chiropodomys gliroides" ; Times: 1
+	Query: "Calonectris diomedea vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hydrurga" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "scientificname:Rhinolophus pusillus" ; Times: 3
+	Query: "scientificname:Sylvilagus transitionalis" ; Times: 1
+	Query: "1055" ; Times: 1
+	Query: "2121" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "tiger snake" ; Times: 1
+	Query: "Rhagologus leucostigma" ; Times: 1
+	Query: "Forest owlet" ; Times: 1
+	Query: "notoryctes" ; Times: 1
+	Query: "(Pelecanus)" ; Times: 3
+	Query: "Emoia submetallica" ; Times: 1
+	Query: "Dendrocygna arcuata" ; Times: 2
+	Query: "sylvilagus floridanus orizabae" ; Times: 1
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "scientificname:Manis javanica" ; Times: 11
+	Query: "Canis" ; Times: 1
+	Query: "Tachyglossus aculeatus" ; Times: 1
+	Query: "scientificname:Nycticeius humeralis" ; Times: 2
+	Query: "Onychogalea lunata" ; Times: 1
+	Query: "sterna dougallii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 842 download events in this period)
+Total number of records downloaded: 191064
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 55
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-05 ; Times: 3
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 6
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-06 ; Times: 4
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 5
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-03 ; Times: 8
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-10 ; Times: 8
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-23 ; Times: 3
+	Date: 2020-11-29 ; Times: 5
+	Date: 2020-11-12 ; Times: 7
+	Date: 2020-11-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "" ; Times: 3
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Tachyglossus aculeatus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "golden pheasant" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "Sus scrofa" ; Times: 1
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 2
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "vntype:specimen genus:Tapirus country:&#34;Colombia&#34; institutioncode:ANWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 2
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "Perameles Nasuta" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 4
+	Query: "Chiropodomys gliroides" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "genus:Cerberus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "vntype:specimen genus:Toxorhamphus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "philander opossum" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 2
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "Perameles nasuta" ; Times: 1
+	Query: "Indiana bat" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+
+
+End of report.
